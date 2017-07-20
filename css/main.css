@@ -98,7 +98,8 @@ img {
 
 .navbar-custom {
   /* background: #F5F5F5;*/
-  background: #CAE6EF;
+  /* background: #CAE6EF;*/
+  background: linear-gradient(120deg, #155799, #159957);
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
