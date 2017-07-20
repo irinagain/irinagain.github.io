@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
+title: HOME
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is bla bla bla, construction of this site is in full swing!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+For more info, see [current website](http://www.stat.tamu.edu/~irinag/).
 
-What else do you need?
 
-### my history
+### NEWS
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
