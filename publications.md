@@ -11,10 +11,7 @@ Bien J, _Gaynanova I_, Lederer J and Müller C (2017+). **Non-convex global mini
 
 
 Djoerd Hiemstra, Claudia Hauff and Leif Azzopardi. *Exploring the Query Halo Effect in Site Search*,
-accepted at the [40th International ACM SIGIR Conference on Research and Development in Information Retrieval]
-(http://sigir.org/sigir2017). 
-[[Blog post&#8594;]]({% post_url 2017-05-02-glowbox %})
-[[PDF Preprint&#8594;]](../documents/publications/SIGIR2017-hiemstra.pdf)
+accepted at the 
 
 
 
