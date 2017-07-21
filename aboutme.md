@@ -1,6 +1,6 @@
 ---
 layout: page
-img: /img/irina-gaynanova.jpg
+image: /img/irina-gaynanova.jpg
 ---
 
 
