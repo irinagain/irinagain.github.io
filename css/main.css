@@ -121,16 +121,18 @@ img {
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
-.navbar-custom .nav li a:focus {
+.navbar-custom .nav li a:focus,
+.navbar-custom .nav li #active a,
+.navbar-custom .navbar-brand #active{
   /*color: #0085a1;*/
   color: #c8f5ff;
   bottom:0px;
   border-bottom: 2px solid #ffffff; 
 }
 
-.navbar-custom .nav li #active a{ 
+/*--.navbar-custom .nav li #active a{ 
   padding: 18px 7px 4px; border-bottom:4px solid #0370EA; color:#000; 
-}
+} --*/
 
 .navbar-custom .navbar-brand-logo {
   padding-top: 0;
