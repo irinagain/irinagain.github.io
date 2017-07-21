@@ -124,6 +124,7 @@ img {
 .navbar-custom .nav li a:focus {
   /*color: #0085a1;*/
   color: #c8f5ff;
+  border-bottom: 2px solid #000; 
 }
 
 .navbar-custom .navbar-brand-logo {
