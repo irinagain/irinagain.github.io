@@ -4,7 +4,7 @@ title: Irina Gaynanova
 subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 ---
 
-![Flowers](../img/irina-gaynanova.jpg)
+![Flowers](../img/irina-gaynanova.jpg){:height="36px" width="36px"}.
 
 Irina Gaynanova <br> Assistant Professor <br> Department of Statistics <br> Texas A&M University <br> 458D Blocker <br> irinag [at] stat.tamu.edu
 
