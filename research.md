@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Research
+bigimg: /img/path.jpg
 ---
 
-# Summary of research interests:
+**Summary of research interests:**
 
 * high-dimensional data analysis
 * multivariate analysis
