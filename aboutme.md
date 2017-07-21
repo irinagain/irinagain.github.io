@@ -3,7 +3,7 @@ layout: page
 title: HOME
 ---
 
-<img src="img/irina-gaynanova.jpg" alt="Me" style="width: 100px;"/>
+![](img/irina-gaynanova.jpg){:height="36px" width="36px"}.
 
 My name is bla bla bla, construction of this site is in full swing!
 
