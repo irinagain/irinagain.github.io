@@ -122,8 +122,8 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus,
-.navbar-custom .nav li #active a,
-.navbar-custom .navbar-brand #active{
+.navbar-custom .nav li a:active,
+.navbar-custom .navbar-brand:active{
   /*color: #0085a1;*/
   color: #c8f5ff;
   bottom:0px;
