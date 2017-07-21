@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-:-------------------------:|:-------------------------
+:-------------------------|:-------------------------
 <img src="../img/irina-gaynanova.jpg" height="300" /> |  Contact info
 
 | Number | Next number | Previous number |
