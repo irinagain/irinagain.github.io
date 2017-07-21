@@ -264,7 +264,8 @@ img {
 
 footer {
   padding: 30px 0;
-  background: #F5F5F5;
+  /* --- background: #F5F5F5;--- */
+  background: linear-gradient(120deg, #e2eefe, #e2fef2);
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
   font-size: 14px;
