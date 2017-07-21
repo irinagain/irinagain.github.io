@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-bigimg: img/Publications1.jpg
+bigimg: /img/Publications1.jpg
 ---
 ## Pre-prints:
 
