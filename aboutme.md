@@ -4,11 +4,8 @@ layout: page
 
 
 :-------------------------|:-------------------------
-<img src="../img/irina-gaynanova.jpg" height="600" /> |  Irina Gaynanova <br> Assistant Professor <br> Department of Statistics <br> Texas A&M University <br> 458D Blocker <br> irinag [at] stat.tamu.edu
+![Flowers](../img/irina-gaynanova.jpg)|  Irina Gaynanova <br> Assistant Professor <br> Department of Statistics <br> Texas A&M University <br> 458D Blocker <br> irinag [at] stat.tamu.edu
 
-| - | - |
-|---|---|
-| I am text to the left  | ![Flowers](../img/irina-gaynanova.jpg) |
 
 Construction of this site is in full swing!
 
