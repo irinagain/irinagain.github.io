@@ -128,6 +128,10 @@ img {
   border-bottom: 2px solid #ffffff; 
 }
 
+.navbar-custom .nav li #active a{ 
+  padding: 18px 7px 4px; border-bottom:4px solid #0370EA; color:#000; 
+}
+
 .navbar-custom .navbar-brand-logo {
   padding-top: 0;
   -webkit-transition: padding .5s ease-in-out;
