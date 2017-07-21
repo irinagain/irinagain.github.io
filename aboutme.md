@@ -1,5 +1,6 @@
 ---
 layout: page
+img: /img/irina-gaynanova.jpg
 ---
 
 
