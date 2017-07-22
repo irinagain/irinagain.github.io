@@ -12,7 +12,7 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 	</div>
 	<div class="col-md-6">
 	<h3>Contact:</h3>
-		<p>Department of Statistics <br>
+		<p> <a href = "http://www.stat.tamu.edu"> Department of Statistics</a> <br>
 		3143 TAMU <br>
 		College Station, TX 77843 <br>
 		<strong>Office:</strong> 458D Blocker <br>
