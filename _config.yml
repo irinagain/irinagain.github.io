@@ -23,7 +23,7 @@ description: Personal website
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "aboutme"
+  Home: "index"
   Research: "research"
   Publications: "publications"
   Teaching: "teaching"
