@@ -23,13 +23,17 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 <hr>
 
 
-<div class="row">
+### NEWS:
+
+* **May 2017:** NSF DMS-1712943 grant, [Scalable Methods for Classification of Heterogeneous High-Dimensional Data](https://nsf.gov/awardsearch/showAward?AWD_ID=1712943&HistoricalAwards=false)
+
+<!--<div class="row">
 	<div class="col-md-8">
 		<h3>NEWS:</h3>
 		
 	</div>	
 	
-</div>
+</div>-->
 	
 	
 <div class="row">&nbsp;</div>
