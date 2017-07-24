@@ -123,7 +123,7 @@ img {
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li a.active,
-.navbar-custom .navbar-brand .active{
+.navbar-custom .navbar-brand{
   /*color: #0085a1;*/
   color: #c8f5ff;
   bottom:0px;
