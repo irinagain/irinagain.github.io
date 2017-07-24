@@ -13,8 +13,11 @@
   {% capture linkurl %}{{ include.link[1] }}{% endcapture %}
 {% endif %}
 
+
+<a href="{{ linkurl }}" class="active">{{ include.link[0] }}</a>
+
 <!--{% if page.url == linkurl %}-->
-   <a href="{{ linkurl }}" class="active">{{ include.link[0] }}</a>
+   
 <!--{% else %}
    <a href="{{ linkurl }}">{{ include.link[0] }}</a>
 {% endif %}-->
