@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Teaching
+bigimg: /img/DSCN8932.JPG
 ---
 
 ### Classes taught at Texas A&M University
