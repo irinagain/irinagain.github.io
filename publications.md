@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-bigimg: /img/DSCN2128.jpg
+bigimg: /img/DSCN2128.JPG
 ---
 ## Pre-prints:
 
