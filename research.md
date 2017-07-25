@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-bigimg: /img/path.jpg
+bigimg: /img/DSCN0952.jpg
 ---
 
 **Summary of research interests:**
