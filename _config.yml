@@ -27,6 +27,7 @@ navbar-links:
   Research: "research"
   Publications: "publications"
   Teaching: "teaching"
+  Misc: "resources"
   
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
