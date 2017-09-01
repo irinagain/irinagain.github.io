@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Helpful Links
-bigimg: /img/DSCN0952.JPG
 ---
 
 **On Git and Github**
