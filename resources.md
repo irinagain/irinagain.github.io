@@ -11,7 +11,7 @@ Version Control is imperative to keeping track of changes in the code. Git is a 
  
  **On Writing**
  
-Any brilliant idea can be killed by horrible writing. Fortunately, good writing can be learned and there are numeruous resources out there to help. If you are a TAMU student, then you may want to consult
+Any brilliant idea can be killed by horrible writing (or so I've been told by some journal editors). Fortunately, good writing can be learned and there are numeruous resources out there to help. If you are a TAMU student, then you may want to consult
  - [University Writing Center](http://writingcenter.tamu.edu)
  - [POWER Writing Services](http://power.tamu.edu)
  
