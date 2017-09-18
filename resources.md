@@ -15,8 +15,9 @@ Any brilliant idea can be killed by horrible writing (or so I've been told by so
  - [University Writing Center](http://writingcenter.tamu.edu)
  - [POWER Writing Services](http://power.tamu.edu)
  
-If you would like to read a book, then personally I found the following two useful:
- - [How to Write a Lot, Paul Silva](https://www.amazon.com/How-Write-Lot-Practical-Productive/dp/1591477433)
- - [Becoming an Academic Writer, Patricia Goodson](https://www.amazon.com/Becoming-Academic-Writer-Exercises-Productive/dp/1452203865)
+If you would like to read a book, then personally I found the following most useful:
+ - [The Elements of Stile, Strunk and White](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/ref=sr_1_1?s=books&ie=UTF8&qid=1505700931&sr=1-1&keywords=strunk+and+white)(for grammar and style)
+ - [How to Write a Lot, Paul Silva](https://www.amazon.com/How-Write-Lot-Practical-Productive/dp/1591477433) (for motivation and persistence)
+ - [Becoming an Academic Writer, Patricia Goodson](https://www.amazon.com/Becoming-Academic-Writer-Exercises-Productive/dp/1452203865)(for exercises to improve, and specific sections advice)
  
  Some of the advices in these books are specific to Psychology, but the majority carries through to pretty much any subject.
