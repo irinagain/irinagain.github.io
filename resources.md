@@ -2,12 +2,6 @@
 layout: page
 title: Helpful Links
 ---
-
-**On Git and Github**
-
-Version Control is imperative to keeping track of changes in the code. Git is a very popular version control system, and can be easily used with RStudio. [Github](https://github.com) is a website that provides powerful integration with Git, and allows easy sharing of the code with others. 
- - [here](http://r-pkgs.had.co.nz/git.html) is a nice intro by [Hadley Wickham](http://hadley.nz) including RStudio integration
- - [here](http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html) is a short guide from [Udacity](http://blog.udacity.com) with links for futher reading
  
  **On Writing**
  
@@ -21,3 +15,15 @@ If you would like to read a book, then personally I found the following most use
  - [Becoming an Academic Writer, Patricia Goodson](https://www.amazon.com/Becoming-Academic-Writer-Exercises-Productive/dp/1452203865)(for exercises to improve, and specific sections advice)
  
  Some of the advices in these books are specific to Psychology, but the majority carries through to pretty much any subject.
+ 
+ **On R**
+ 
+  - Style guides (how to format your code) from [H. Wickham](http://adv-r.had.co.nz/Style.html) and from [Google][https://google.github.io/styleguide/Rguide.xml]. Also see [formatR](https://yihui.name/formatr/) R package for automatic reformatting of code.
+ 
+ 
+
+**On Git and Github**
+
+Version Control is imperative to keeping track of changes in the code. Git is a very popular version control system, and can be easily used with RStudio. [Github](https://github.com) is a website that provides powerful integration with Git, and allows easy sharing of the code with others. 
+ - [here](http://r-pkgs.had.co.nz/git.html) is a nice intro by [Hadley Wickham](http://hadley.nz) including RStudio integration
+ - [here](http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html) is a short guide from [Udacity](http://blog.udacity.com) with links for futher reading
