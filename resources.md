@@ -18,7 +18,7 @@ If you would like to read a book, then personally I found the following most use
  
  **On R**
  
-  - Style guides (how to format your code) from [H. Wickham](http://adv-r.had.co.nz/Style.html) and from [Google][https://google.github.io/styleguide/Rguide.xml]. Also see [formatR](https://yihui.name/formatr/) R package for automatic reformatting of code.
+  - Style guides (how to format your code) from [H. Wickham](http://adv-r.had.co.nz/Style.html) and from [Google](https://google.github.io/styleguide/Rguide.xml). Also see [formatR] (https://yihui.name/formatr/) R package for automatic reformatting of code.
  
  
 
