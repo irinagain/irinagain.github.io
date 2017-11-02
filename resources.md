@@ -28,6 +28,6 @@ Version Control is imperative to keeping track of changes in the code. Git is a 
  - [here](http://r-pkgs.had.co.nz/git.html) is a nice intro by [Hadley Wickham](http://hadley.nz) including RStudio integration
  - [here](http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html) is a short guide from [Udacity](http://blog.udacity.com) with links for futher reading
 
-**On Academic Job Market (candidate's perspectie)**
+**On Academic Job Market (candidate's perspective)**
 
 Here is a [link to my perspective/advice on the academic job market](http://stat.tamu.edu/~irinag/Advice/AcademicJobMarketAdviceIrina.pdf) based on my experience as a candidate in year 2014/2015. It has been strongly inspired by a [similar document](http://pages.iu.edu/~dajmcdon/usefullinks/marketadvice.pdf) from [Daniel McDonald](http://pages.iu.edu/~dajmcdon/), which was very helpful when I applied. 
