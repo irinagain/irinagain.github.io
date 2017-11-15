@@ -4,7 +4,7 @@ title: Publications
 bigimg: /img/DSCN2128.JPG
 ---
 
-*Note: <sup>*</sup> indicates student co-author*
+Note: <sup>*</sup> indicates student co-author
 
 ## Pre-prints:
 
