@@ -5,9 +5,11 @@ bigimg: /img/DSCN2128.JPG
 ---
 ## Pre-prints:
 
+**Gaynanova I** and Wang T. (2017+). [Sparse quadratic classification rules via linear dimension reduction](https://arxiv.org/abs/1711.04817) *arXiv stat.ML* 
+
 **Gaynanova I** and Li G. (2017+). [Structural learning and integrative decomposition of multi-view data.](https://arxiv.org/abs/1707.06573) *arXiv stat.ML* 
 
-Li G. and **Gaynanova I** (2017+). [A general framework for association analysis of heterogeneous data.](https://arxiv.org/abs/1707.06485) *arXiv stat.ME* 
+Li G. and **Gaynanova I** (2017+). [A general framework for association analysis of heterogeneous data.](https://arxiv.org/abs/1707.06485) *arXiv stat.ME* [[MATLAB code]](https://github.com/reagan0323/GAS)
 
 Lederer J, Lu Y and **Gaynanova I** (2017+). [Oracle inequalities for high-dimensional prediction.](https://arxiv.org/abs/1608.00624) *arXiv math.ST*
 
