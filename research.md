@@ -8,7 +8,7 @@ bigimg: /img/DSCN0952.JPG
 
 * high-dimensional data analysis
 * multivariate analysis
-* statistical methods for analyzing biological data
+* data integration/multi-view data
 * machine learning
 * computational statistics
 
