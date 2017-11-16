@@ -4,11 +4,11 @@ title: Publications
 bigimg: /img/DSCN2128.JPG
 ---
 
-*Note: cursive indicates student co-author*
+*Note: \* indicates student co-author*
 
 ## Pre-prints:
 
-**Gaynanova I** and *Wang T.* (2017+). [Sparse quadratic classification rules via linear dimension reduction](https://arxiv.org/abs/1711.04817) *arXiv stat.ML* 
+**Gaynanova I** and Wang T.\* (2017+). [Sparse quadratic classification rules via linear dimension reduction](https://arxiv.org/abs/1711.04817) *arXiv stat.ML* 
 
 **Gaynanova I** and Li G. (2017+). [Structural learning and integrative decomposition of multi-view data.](https://arxiv.org/abs/1707.06573) *arXiv stat.ML* 
 
