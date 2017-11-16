@@ -9,7 +9,7 @@ bigimg: /img/DSCN0952.JPG
 * high-dimensional data analysis
 * multivariate analysis
 * data integration/multi-view data
-* machine learning
+* statistical/machine learning
 * computational statistics
 
 
