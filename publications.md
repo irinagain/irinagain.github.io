@@ -12,11 +12,11 @@ bigimg: /img/DSCN2128.JPG
 
 **Gaynanova I** and Li G. (2017+). [Structural learning and integrative decomposition of multi-view data.](https://arxiv.org/abs/1707.06573) *arXiv stat.ML* 
 
-Li G. and **Gaynanova I** (2017+). [A general framework for association analysis of heterogeneous data.](https://arxiv.org/abs/1707.06485) *arXiv stat.ME* [[MATLAB code]](https://github.com/reagan0323/GAS)
-
 Lederer J, Lu Y and **Gaynanova I** (2017+). [Oracle inequalities for high-dimensional prediction.](https://arxiv.org/abs/1608.00624) *arXiv math.ST*
 
 ## Peer-reviewed:
+
+Li G. and **Gaynanova I** (2017+). [A general framework for association analysis of heterogeneous data.] (https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/30168?confirm=c7f90620) *Annals of Applied Statistics*, accepted.[[MATLAB code]](https://github.com/reagan0323/GAS)
 
 Bien J, **Gaynanova I**, Lederer J and Müller C (2017+). [Non-convex global minimization and false discovery rate control for the TREX.](http://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1341414)] *Journal of Computational and Graphical Statistics*, accepted. [[MATLAB code]](https://github.com/muellsen/TREX)
 
