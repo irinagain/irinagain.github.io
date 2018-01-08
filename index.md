@@ -27,6 +27,8 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **January 2018:** A new manuscript on *"Prediction Error Bounds for Linear Regression With the TREX"* is now available on [arXiv](https://arxiv.org/abs/1801.01394)
+
 * **November 2017:** A new manuscript on *"Sparse quadratic classification rules via linear dimension reduction"* is now available on [arXiv](https://arxiv.org/abs/1711.04817)
 
 * **May 2017:** NSF DMS-1712943 grant, [Scalable Methods for Classification of Heterogeneous High-Dimensional Data](https://nsf.gov/awardsearch/showAward?AWD_ID=1712943&HistoricalAwards=false)
