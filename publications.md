@@ -18,6 +18,8 @@ Bien J, **Gaynanova I**, Lederer J and Müller C (2018+). [Prediction Error Boun
 
 ## Peer-reviewed:
 
+Hokamp J., Leidy S., **Gaynanova, I.**, Cianciolo R. and Nabity M. (2018+) Correlation of electrophoretic urine protein banding patterns with severity of renal damage in dogs with proteinuric chronic kidney disease. *Veterinary Clinical Pathology*, accepted.
+
 Li G. and **Gaynanova I** (2018+). [A general framework for association analysis of heterogeneous data.](http://imstat.org/aoas/next_issue.html) *Annals of Applied Statistics*, accepted. [[MATLAB code]](https://github.com/reagan0323/GAS)
 
 Bien J, **Gaynanova I**, Lederer J and Müller C (2018+). [Non-convex global minimization and false discovery rate control for the TREX.](http://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1341414) *Journal of Computational and Graphical Statistics*, accepted. [[MATLAB code]](https://github.com/muellsen/TREX)
