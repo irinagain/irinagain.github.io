@@ -8,9 +8,9 @@ bigimg: /img/DSCN2128.JPG
 
 ## Pre-prints:
 
-**Gaynanova I** and Wang T.\* (2018+). [Sparse quadratic classification rules via linear dimension reduction](https://arxiv.org/abs/1711.04817) *arXiv stat.ML* [[R package]](https://github.com/irinagain/DAP)
+**Gaynanova I** and Wang T\* (2018+). [Sparse quadratic classification rules via linear dimension reduction](https://arxiv.org/abs/1711.04817) *arXiv stat.ML* [[R package]](https://github.com/irinagain/DAP)
 
-**Gaynanova I** and Li G. (2018+). [Structural learning and integrative decomposition of multi-view data.](https://arxiv.org/abs/1707.06573) *arXiv stat.ML* 
+**Gaynanova I** and Li G (2018+). [Structural learning and integrative decomposition of multi-view data.](https://arxiv.org/abs/1707.06573) *arXiv stat.ML* 
 
 
 ## Peer-reviewed:
@@ -19,11 +19,11 @@ Lederer J, Lu Y and **Gaynanova I** (2018+). [Oracle inequalities for high-dimen
 
 Bien J, **Gaynanova I**, Lederer J and Müller C (2018+). [Prediction Error Bounds for Linear Regression With the TREX](https://arxiv.org/abs/1801.01394) *TEST*, accepted.
 
-Hokamp J., Leidy S., **Gaynanova, I.**, Cianciolo R. and Nabity M. (2018+) Correlation of electrophoretic urine protein banding patterns with severity of renal damage in dogs with proteinuric chronic kidney disease. *Veterinary Clinical Pathology*, accepted.
+Hokamp J, Leidy S, **Gaynanova, I**, Cianciolo R and Nabity M (2018+) Correlation of electrophoretic urine protein banding patterns with severity of renal damage in dogs with proteinuric chronic kidney disease. *Veterinary Clinical Pathology*, accepted.
 
-Li G. and **Gaynanova I** (2018+). [A general framework for association analysis of heterogeneous data.](http://imstat.org/aoas/next_issue.html) *Annals of Applied Statistics*, accepted. [[MATLAB code]](https://github.com/reagan0323/GAS)
+Li G and **Gaynanova I** (2018+). [A general framework for association analysis of heterogeneous data.](http://imstat.org/aoas/next_issue.html) *Annals of Applied Statistics*, accepted. [[MATLAB code]](https://github.com/reagan0323/GAS)
 
-**Gaynanova I**, Urbanek J. and Punjabi N. (2018). [Corrections of equations on glycemic variability and quality of glycemic control.](https://www.liebertpub.com/doi/pdfplus/10.1089/dia.2018.0057) *Diabetes Technology \& Therapeutics*, Vol. 20, No. 4, 317.
+**Gaynanova I**, Urbanek J and Punjabi N (2018). [Letter to the Editor: Corrections of equations on glycemic variability and quality of glycemic control.](https://www.liebertpub.com/doi/pdfplus/10.1089/dia.2018.0057) *Diabetes Technology & Therapeutics*, Vol. 20, No. 4, 317.
 
 Bien J, **Gaynanova I**, Lederer J and Müller C (2018). [Non-convex global minimization and false discovery rate control for the TREX.](http://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1341414) *Journal of Computational and Graphical Statistics*, Vol. 27, No. 1, 23-33. [[MATLAB code]](https://github.com/muellsen/TREX)
 
