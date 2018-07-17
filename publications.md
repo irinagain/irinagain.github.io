@@ -4,9 +4,11 @@ title: Publications
 bigimg: /img/DSCN2128.JPG
 ---
 
-*Note: \* indicates student co-author*
+*Note: \* indicates student/post-doctoral co-author*
 
 ## Pre-prints:
+
+Yoon G, Carroll R and **Gaynanova I** (2018+). [Sparse semiparametric canonical correlation analysis for data of mixed types](https://arxiv.org/abs/1807.05274) *arXiv stat.ME* [[R package]](https://github.com/irinagain/mixedCCA)
 
 **Gaynanova I** and Wang T\* (2018+). [Sparse quadratic classification rules via linear dimension reduction](https://arxiv.org/abs/1711.04817) *arXiv stat.ML* [[R package]](https://github.com/irinagain/DAP)
 
