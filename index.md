@@ -27,6 +27,8 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **July 2018:** A new manuscript on *"Sparse semiparametric canonical correlation analysis for data of mixed types"* is now available on [arXiv](https://arxiv.org/abs/1807.05274)
+
 * **March 2018:** Irina is the recipient of the 2018 David P. Byar Young Investigator Award for the first-place paper [*"Structural Learning and Integrative Decomposition of Multi-View Data"*](https://arxiv.org/abs/1707.06573), joint work with [Gen Li](https://sites.google.com/view/ligen), Columbia University Mailman School of Public Health. [Texas A&M Science article featuring the award](http://www.science.tamu.edu/articles/1922)
 
 * **January 2018:** A new manuscript on *"Prediction Error Bounds for Linear Regression With the TREX"* is now available on [arXiv](https://arxiv.org/abs/1801.01394)
