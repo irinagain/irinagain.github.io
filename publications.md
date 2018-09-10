@@ -21,7 +21,7 @@ Lederer J, Lu Y and **Gaynanova I** (2018+). [Oracle inequalities for high-dimen
 
 Bien J, **Gaynanova I**, Lederer J and Müller C (2018+). [Prediction Error Bounds for Linear Regression With the TREX.](https://link.springer.com/article/10.1007/s11749-018-0584-4) *TEST*, accepted.
 
-Hokamp J, Leidy S, **Gaynanova, I**, Cianciolo R and Nabity M (2018+) [Correlation of electrophoretic urine protein banding patterns with severity of renal damage in dogs with proteinuric chronic kidney disease](https://onlinelibrary.wiley.com/doi/full/10.1111/vcp.12648). *Veterinary Clinical Pathology*, accepted.
+Hokamp J, Leidy S, **Gaynanova, I**, Cianciolo R and Nabity M (2018) [Correlation of electrophoretic urine protein banding patterns with severity of renal damage in dogs with proteinuric chronic kidney disease](https://onlinelibrary.wiley.com/doi/full/10.1111/vcp.12648). *Veterinary Clinical Pathology*, Vol. 47, No. 3, 425-434.
 
 Li G and **Gaynanova I** (2018+). [A general framework for association analysis of heterogeneous data.](https://www.imstat.org/journals-and-publications/annals-of-applied-statistics/annals-of-applied-statistics-next-issues/) *Annals of Applied Statistics*, accepted. [[MATLAB code]](https://github.com/reagan0323/GAS)
 
