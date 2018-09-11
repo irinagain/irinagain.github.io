@@ -23,7 +23,7 @@ Bien J, **Gaynanova I**, Lederer J and Müller C (2018+). [Prediction Error Boun
 
 Hokamp J, Leidy S, **Gaynanova, I**, Cianciolo R and Nabity M (2018) [Correlation of electrophoretic urine protein banding patterns with severity of renal damage in dogs with proteinuric chronic kidney disease](https://onlinelibrary.wiley.com/doi/full/10.1111/vcp.12648). *Veterinary Clinical Pathology*, Vol. 47, No. 3, 425-434.
 
-Li G and **Gaynanova I** (2018+). [A general framework for association analysis of heterogeneous data.](https://www.imstat.org/journals-and-publications/annals-of-applied-statistics/annals-of-applied-statistics-next-issues/) *Annals of Applied Statistics*, accepted. [[MATLAB code]](https://github.com/reagan0323/GAS)
+Li G and **Gaynanova I** (2018). [A general framework for association analysis of heterogeneous data.](http://dx.doi.org/10.1214/17-AOAS1127) *Annals of Applied Statistics*, Vol 12, No. 3, 1700-1726. [[MATLAB code]](https://github.com/reagan0323/GAS)
 
 **Gaynanova I**, Urbanek J and Punjabi N (2018). [Letter to the Editor: Corrections of equations on glycemic variability and quality of glycemic control.](https://www.liebertpub.com/doi/pdfplus/10.1089/dia.2018.0057) *Diabetes Technology & Therapeutics*, Vol. 20, No. 4, 317.
 
