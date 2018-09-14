@@ -8,6 +8,8 @@ bigimg: /img/DSCN2128.JPG
 
 ## Pre-prints:
 
+**Gaynanova I** (2018+) [Prediction and estimation consistency of sparse multi-class penalized optimal scoring](https://arxiv.org/abs/1809.04669) *arXiv math.ST* 
+
 Yoon G\*, Carroll R and **Gaynanova I** (2018+). [Sparse semiparametric canonical correlation analysis for data of mixed types](https://arxiv.org/abs/1807.05274) *arXiv stat.ME* [[R package]](https://github.com/irinagain/mixedCCA)
 
 **Gaynanova I** and Wang T\* (2018+). [Sparse quadratic classification rules via linear dimension reduction](https://arxiv.org/abs/1711.04817) *arXiv stat.ML* [[R package]](https://github.com/irinagain/DAP)
