@@ -29,7 +29,7 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 * **September 2018:** A new manuscript on *"Prediction and estimation consistency of sparse multi-class penalized optimal scoring"* is now available on [arXiv](https://arxiv.org/abs/1809.04669)
 
-* **September 2018:** The (Texas A&M College of Science)[http://www.science.tamu.edu] promotional [video](https://youtu.be/BLtN4gYBN0g) featuring Irina
+* **September 2018:** The [Texas A&M College of Science](http://www.science.tamu.edu) promotional [video](https://youtu.be/BLtN4gYBN0g) featuring Irina
 
 * **July 2018:** A new manuscript on *"Sparse semiparametric canonical correlation analysis for data of mixed types"* is now available on [arXiv](https://arxiv.org/abs/1807.05274)
 
