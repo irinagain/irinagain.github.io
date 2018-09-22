@@ -3,10 +3,12 @@ layout: page
 title: Group
 ---
 
+### RESEARCH GROUP MEMBERS
+
 <div class="container">
 <div class="row">&nbsp;</div>
 	
-### RESEARCH GROUP MEMBERS
+
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
 		<img src="https://irinagain.github.io/img/IMG_3442.jpg" class="img-responsive" alt="Irina Gaynanova" /></a>
