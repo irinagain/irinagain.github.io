@@ -14,7 +14,7 @@ title: Group
 		<img src="https://irinagain.github.io/img/IMG_3442.jpg" class="img-responsive" alt="Irina Gaynanova" /></a>
 	</div>
 	<div class="col-md-6">
-		<p> <a href="irinagain.github.io"> Irina Gaynanova </a> <br>
+		<p> <a href="https://irinagain.github.io"> Irina Gaynanova </a> <br>
 		Assistant Professor of Statistics </p>
 	</div>
 </div>
