@@ -24,6 +24,7 @@ description: Personal website
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
+  Group: "group"
   Research: "research"
   Publications: "publications"
   Teaching: "teaching"
