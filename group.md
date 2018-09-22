@@ -17,6 +17,8 @@ title: Group
 	</div>
 </div>
 
+![](img/IMG_3442.jpg)
+
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
