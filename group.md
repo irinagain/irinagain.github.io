@@ -5,7 +5,7 @@ title: Group
 
 
 ### RESEARCH GROUP MEMBERS
-<div class="container">
+<!--<div class="container">
 <div class="row">&nbsp;</div>
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
@@ -15,9 +15,9 @@ title: Group
 		<p> <a href="irinagain.github.io"> Irina Gaynanova </a> <br>
 		Assistant Professor of Statistics </p>
 	</div>
-</div>
+</div>-->
 
-![](img/IMG_3442.jpg)
+![](img/IMG_3442.jpg = 250x250) Irina Gaynanova
 
 
 <div class="row">
