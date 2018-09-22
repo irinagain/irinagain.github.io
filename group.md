@@ -3,10 +3,10 @@ layout: page
 title: Group
 ---
 
-
-### RESEARCH GROUP MEMBERS
 <div class="container">
 <div class="row">&nbsp;</div>
+	
+### RESEARCH GROUP MEMBERS
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
 		<img src="https://irinagain.github.io/img/IMG_3442.jpg" class="img-responsive" alt="Irina Gaynanova" /></a>
@@ -32,6 +32,8 @@ title: Group
 	</div>
 </div>
 
+<p> <br>
+</p>
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
@@ -43,6 +45,9 @@ title: Group
 	</div>
 </div>
 
+<p> <br>
+</p>
+
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
 		<img src="https://irinagain.github.io/img/AlexL.jpg" class="img-responsive" alt="Alex"/></a>
@@ -52,6 +57,9 @@ title: Group
 		PhD Student in Statistics	</p>
 	</div>
 </div>
+
+<p> <br>
+</p>
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
