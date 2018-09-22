@@ -28,9 +28,50 @@ title: Group
 	</div>
 </div>
 
+
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="img/Yunfeng.jpg" class="img-responsive" alt="Yunfeng"/></a>
+	</div>
+	<div class="col-md-6">
+		<p> Yunfeng Zhang  <br>
+		PhD Student in Statistics</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="img/AlexL" class="img-responsive" alt="Alex"/></a>
+	</div>
+	<div class="col-md-6">
+		<p>Alex Lapanowski <br>
+		PhD Student in Statistics	</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="img/Dongbang.jpg" class="img-responsive" alt="Dongbang/></a>
+	</div>
+	<div class="col-md-6">
+		<p>Dongbang Yuan <br>
+		PhD Student in Statistics	</p>
+	</div>
+</div>
+
 <hr>
 
 </div>
 
 ### RESEARCH GROUP ALUMNI
+
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="img/wang_tianying.jpg" class="img-responsive" alt="Tianying Wang"/></a>
+	</div>
+	<div class="col-md-6">
+		<p><a href="https://tianyingw.github.io"> Tianying Wang </a> <br>
+		Now a Postdoctoral Research Associate at Department of Biostatistics at Columbia University</p>
+	</div>
+</div>
 
