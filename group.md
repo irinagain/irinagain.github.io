@@ -9,7 +9,7 @@ title: Group
 <div class="row">&nbsp;</div>
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="irinagain.github.io/img/IMG_3442.jpg" class="img-responsive" alt="Irina Gaynanova"  width="250" height="250"/></a>
+		<img src="https://irinagain.github.io/img/IMG_3442.jpg" class="img-responsive" alt="Irina Gaynanova"  width="250" height="250"/></a>
 	</div>
 	<div class="col-md-6">
 		<p> <a href="irinagain.github.io"> Irina Gaynanova </a> <br>
