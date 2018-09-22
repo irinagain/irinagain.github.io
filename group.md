@@ -9,7 +9,7 @@ title: Group
 <div class="row">&nbsp;</div>
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="https://irinagain.github.io/img/IMG_3442.jpg" class="img-responsive" alt="Irina Gaynanova"  width="250" height="250"/></a>
+		<img src="https://irinagain.github.io/img/IMG_3442.jpg" class="img-responsive" alt="Irina Gaynanova" /></a>
 	</div>
 	<div class="col-md-6">
 		<p> <a href="irinagain.github.io"> Irina Gaynanova </a> <br>
@@ -22,7 +22,7 @@ title: Group
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="img/GraceYoon.jpg" class="img-responsive" alt="Grace Yoon"/></a>
+		<img src="https://irinagain.github.io/img/GraceYoon.jpg" class="img-responsive" alt="Grace Yoon"/></a>
 	</div>
 	<div class="col-md-6">
 		<p><a href="http://www.stat.tamu.edu/~gyoon/"> Grace Yoon </a> <br>
@@ -33,7 +33,7 @@ title: Group
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="img/Yunfeng.jpg" class="img-responsive" alt="Yunfeng"/></a>
+		<img src="https://irinagain.github.io/img/Yunfeng.jpg" class="img-responsive" alt="Yunfeng"/></a>
 	</div>
 	<div class="col-md-6">
 		<p> Yunfeng Zhang  <br>
@@ -43,7 +43,7 @@ title: Group
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="img/AlexL.jpg" class="img-responsive" alt="Alex"/></a>
+		<img src="https://irinagain.github.io/img/AlexL.jpg" class="img-responsive" alt="Alex"/></a>
 	</div>
 	<div class="col-md-6">
 		<p>Alex Lapanowski <br>
@@ -53,7 +53,7 @@ title: Group
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="img/Dongbang.jpg" class="img-responsive" alt="Dongbang"/></a>
+		<img src="https://irinagain.github.io/img/Dongbang.jpg" class="img-responsive" alt="Dongbang"/></a>
 	</div>
 	<div class="col-md-6">
 		<p>Dongbang Yuan <br>
@@ -69,7 +69,7 @@ title: Group
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="img/wang_tianying.jpg" class="img-responsive" alt="Tianying Wang"/></a>
+		<img src="https://irinagain.github.io/img/wang_tianying.jpg" class="img-responsive" alt="Tianying Wang"/></a>
 	</div>
 	<div class="col-md-6">
 		<p><a href="https://tianyingw.github.io"> Tianying Wang </a> <br>
