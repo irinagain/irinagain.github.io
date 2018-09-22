@@ -12,8 +12,8 @@ title: Group
 		<img src="img/IMG_3442.jpg" class="img-responsive" alt="Irina Gaynanova"/></a>
 	</div>
 	<div class="col-md-6">
-		<a href="http://www.tamu.edu"> Texas A&M University </a> <br>
-		<strong>Email:</strong> irinag [at] stat.tamu.edu</p>
+		<p> <a href="irinagain.github.io"> Irina Gaynanova </a> <br>
+		Assistant Professor of Statistics </p>
 	</div>
 </div>
 
@@ -23,7 +23,8 @@ title: Group
 		<img src="img/GraceYoon.jpg" class="img-responsive" alt="Grace Yoon"/></a>
 	</div>
 	<div class="col-md-6">
-		<a href="http://www.tamu.edu"> Texas A&M University </a> <br>
+		<p><a href="http://www.stat.tamu.edu/~gyoon/"> Grace Yoon </a> <br>
+		Postdoctoral Research Associate	</p>
 	</div>
 </div>
 
