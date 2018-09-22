@@ -41,7 +41,7 @@ title: Group
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="img/AlexL" class="img-responsive" alt="Alex"/></a>
+		<img src="img/AlexL.jpg" class="img-responsive" alt="Alex"/></a>
 	</div>
 	<div class="col-md-6">
 		<p>Alex Lapanowski <br>
@@ -51,7 +51,7 @@ title: Group
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="img/Dongbang.JPG" class="img-responsive" alt="Dongbang"/></a>
+		<img src="img/Dongbang.jpg" class="img-responsive" alt="Dongbang"/></a>
 	</div>
 	<div class="col-md-6">
 		<p>Dongbang Yuan <br>
