@@ -12,12 +12,12 @@ bigimg: /img/DSCN2128.JPG
 
 Yoon G\*, Carroll R and **Gaynanova I** (2018+). [Sparse semiparametric canonical correlation analysis for data of mixed types](https://arxiv.org/abs/1807.05274) *arXiv stat.ME* [[R package]](https://github.com/irinagain/mixedCCA)
 
-**Gaynanova I** and Wang T\* (2018+). [Sparse quadratic classification rules via linear dimension reduction](https://arxiv.org/abs/1711.04817) *arXiv stat.ML* [[R package]](https://github.com/irinagain/DAP)
-
 **Gaynanova I** and Li G (2018+). [Structural learning and integrative decomposition of multi-view data.](https://arxiv.org/abs/1707.06573) *arXiv stat.ML* 
 
 
 ## Peer-reviewed:
+
+**Gaynanova I** and Wang T\* (2018+). [Sparse quadratic classification rules via linear dimension reduction](https://arxiv.org/abs/1711.04817) *Journal of Multivariate Analysis*, accepted. [[R package]](https://github.com/irinagain/DAP)
 
 Lederer J, Lu Y and **Gaynanova I** (2018+). [Oracle inequalities for high-dimensional prediction.](https://arxiv.org/abs/1608.00624) *Bernoulli*, accepted.
 
