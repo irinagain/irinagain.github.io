@@ -17,7 +17,7 @@ Yoon G\*, Carroll R and **Gaynanova I** (2018+). [Sparse semiparametric canonica
 
 ## Peer-reviewed:
 
-**Gaynanova I** and Wang T\* (2018+). [Sparse quadratic classification rules via linear dimension reduction](https://arxiv.org/abs/1711.04817) *Journal of Multivariate Analysis*, accepted. [[R package]](https://github.com/irinagain/DAP)
+**Gaynanova I** and Wang T\* (2018+). [Sparse quadratic classification rules via linear dimension reduction](https://doi.org/10.1016/j.jmva.2018.09.011) *Journal of Multivariate Analysis*, accepted. [[R package]](https://github.com/irinagain/DAP)
 
 Lederer J, Lu Y and **Gaynanova I** (2018+). [Oracle inequalities for high-dimensional prediction.](https://arxiv.org/abs/1608.00624) *Bernoulli*, accepted.
 
