@@ -27,6 +27,8 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **November 2018:** A new manuscript on *"Joint association and classification analysis of multi-view data"* is now available on [arXiv](https://arxiv.org/abs/1811.08511)
+
 * **September 2018:** A new manuscript on *"Prediction and estimation consistency of sparse multi-class penalized optimal scoring"* is now available on [arXiv](https://arxiv.org/abs/1809.04669)
 
 * **September 2018:** The [Texas A&M College of Science](http://www.science.tamu.edu) promotional [video](https://youtu.be/BLtN4gYBN0g) featuring Irina
