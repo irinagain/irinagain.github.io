@@ -8,6 +8,8 @@ bigimg: /img/DSCN2128.JPG
 
 ## Pre-prints:
 
+Zhang Y\* and **Gaynanova I** (2018+) [Joint association and classification analysis of multi-view data](https://arxiv.org/abs/1811.08511) *arXiv stat.ML*
+
 **Gaynanova I** (2018+) [Prediction and estimation consistency of sparse multi-class penalized optimal scoring](https://arxiv.org/abs/1809.04669) *arXiv math.ST* 
 
 Yoon G\*, Carroll R and **Gaynanova I** (2018+). [Sparse semiparametric canonical correlation analysis for data of mixed types](https://arxiv.org/abs/1807.05274) *arXiv stat.ME* [[R package]](https://github.com/irinagain/mixedCCA)
