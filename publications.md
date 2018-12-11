@@ -8,7 +8,7 @@ bigimg: /img/DSCN2128.JPG
 
 ## Pre-prints:
 
-Zhang Y\* and **Gaynanova I** (2018+) [Joint association and classification analysis of multi-view data](https://arxiv.org/abs/1811.08511) *arXiv stat.ML*
+Zhang Y\* and **Gaynanova I** (2018+) [Joint association and classification analysis of multi-view data](https://arxiv.org/abs/1811.08511) *arXiv stat.ML* [[R package]](https://github.com/Pennisetum/JACA)
 
 **Gaynanova I** (2018+) [Prediction and estimation consistency of sparse multi-class penalized optimal scoring](https://arxiv.org/abs/1809.04669) *arXiv math.ST* 
 
