@@ -8,22 +8,22 @@ bigimg: /img/DSCN2128.JPG
 
 ## Pre-prints:
 
-Zhang Y\* and **Gaynanova I** (2018+) [Joint association and classification analysis of multi-view data](https://arxiv.org/abs/1811.08511) *arXiv stat.ML* [[R package]](https://github.com/Pennisetum/JACA)
+Zhang Y\* and **Gaynanova I** (2019+) [Joint association and classification analysis of multi-view data](https://arxiv.org/abs/1811.08511) *arXiv stat.ML* [[R package]](https://github.com/Pennisetum/JACA)
 
-**Gaynanova I** (2018+) [Prediction and estimation consistency of sparse multi-class penalized optimal scoring](https://arxiv.org/abs/1809.04669) *arXiv math.ST* 
+**Gaynanova I** (2019+) [Prediction and estimation consistency of sparse multi-class penalized optimal scoring](https://arxiv.org/abs/1809.04669) *arXiv math.ST* 
 
-Yoon G\*, Carroll R and **Gaynanova I** (2018+). [Sparse semiparametric canonical correlation analysis for data of mixed types](https://arxiv.org/abs/1807.05274) *arXiv stat.ME* [[R package]](https://github.com/irinagain/mixedCCA)
+Yoon G\*, Carroll R and **Gaynanova I** (2019+). [Sparse semiparametric canonical correlation analysis for data of mixed types](https://arxiv.org/abs/1807.05274) *arXiv stat.ME* [[R package]](https://github.com/irinagain/mixedCCA)
 
-**Gaynanova I** and Li G (2018+). [Structural learning and integrative decomposition of multi-view data.](https://arxiv.org/abs/1707.06573) *arXiv stat.ML* 
+**Gaynanova I** and Li G (2019+). [Structural learning and integrative decomposition of multi-view data.](https://arxiv.org/abs/1707.06573) *arXiv stat.ML* 
 
 
 ## Peer-reviewed:
 
-**Gaynanova I** and Wang T\* (2018+). [Sparse quadratic classification rules via linear dimension reduction](https://doi.org/10.1016/j.jmva.2018.09.011) *Journal of Multivariate Analysis*, accepted. [[R package]](https://github.com/irinagain/DAP)
+Lederer J, Lu Y and **Gaynanova I** (2019+). [Oracle inequalities for high-dimensional prediction.](https://arxiv.org/abs/1608.00624) *Bernoulli*, accepted.
 
-Lederer J, Lu Y and **Gaynanova I** (2018+). [Oracle inequalities for high-dimensional prediction.](https://arxiv.org/abs/1608.00624) *Bernoulli*, accepted.
+Bien J, **Gaynanova I**, Lederer J and Müller C (2019+). [Prediction Error Bounds for Linear Regression With the TREX.](https://link.springer.com/article/10.1007/s11749-018-0584-4) *TEST*, accepted.
 
-Bien J, **Gaynanova I**, Lederer J and Müller C (2018+). [Prediction Error Bounds for Linear Regression With the TREX.](https://link.springer.com/article/10.1007/s11749-018-0584-4) *TEST*, accepted.
+**Gaynanova I** and Wang T\* (2019). [Sparse quadratic classification rules via linear dimension reduction](https://doi.org/10.1016/j.jmva.2018.09.011) *Journal of Multivariate Analysis*, Vol. 169, 278-299. [[R package]](https://github.com/irinagain/DAP)
 
 Hokamp J, Leidy S, **Gaynanova, I**, Cianciolo R and Nabity M (2018) [Correlation of electrophoretic urine protein banding patterns with severity of renal damage in dogs with proteinuric chronic kidney disease](https://onlinelibrary.wiley.com/doi/full/10.1111/vcp.12648). *Veterinary Clinical Pathology*, Vol. 47, No. 3, 425-434.
 
