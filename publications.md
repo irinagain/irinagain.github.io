@@ -8,11 +8,14 @@ bigimg: /img/DSCN2128.JPG
 
 ## Pre-prints:
 
-Zhang Y\* and **Gaynanova I** (2019+) [Joint association and classification analysis of multi-view data](https://arxiv.org/abs/1811.08511) *arXiv stat.ML* [[R package]](https://github.com/Pennisetum/JACA)
+Yoon G\*, **Gaynanova I** and Müller C(2019+) [Microbial networks in SPRING - Semi-parametric rank-based correlation and partial correlation estimation for quantitative microbiome data.](https://www.biorxiv.org/content/10.1101/526871v1?rss=1
+) *bioRxiv*
 
-**Gaynanova I** (2019+) [Prediction and estimation consistency of sparse multi-class penalized optimal scoring](https://arxiv.org/abs/1809.04669) *arXiv math.ST* 
+Zhang Y\* and **Gaynanova I** (2019+) [Joint association and classification analysis of multi-view data.](https://arxiv.org/abs/1811.08511) *arXiv stat.ML* [[R package]](https://github.com/Pennisetum/JACA)
 
-Yoon G\*, Carroll R and **Gaynanova I** (2019+). [Sparse semiparametric canonical correlation analysis for data of mixed types](https://arxiv.org/abs/1807.05274) *arXiv stat.ME* [[R package]](https://github.com/irinagain/mixedCCA)
+**Gaynanova I** (2019+) [Prediction and estimation consistency of sparse multi-class penalized optimal scoring.](https://arxiv.org/abs/1809.04669) *arXiv math.ST* 
+
+Yoon G\*, Carroll R and **Gaynanova I** (2019+). [Sparse semiparametric canonical correlation analysis for data of mixed types.](https://arxiv.org/abs/1807.05274) *arXiv stat.ME* [[R package]](https://github.com/irinagain/mixedCCA)
 
 **Gaynanova I** and Li G (2019+). [Structural learning and integrative decomposition of multi-view data.](https://arxiv.org/abs/1707.06573) *arXiv stat.ML* 
 
@@ -23,9 +26,9 @@ Lederer J, Lu Y and **Gaynanova I** (2019+). [Oracle inequalities for high-dimen
 
 Bien J, **Gaynanova I**, Lederer J and Müller C (2019+). [Prediction Error Bounds for Linear Regression With the TREX.](https://link.springer.com/article/10.1007/s11749-018-0584-4) *TEST*, accepted.
 
-**Gaynanova I** and Wang T\* (2019). [Sparse quadratic classification rules via linear dimension reduction](https://doi.org/10.1016/j.jmva.2018.09.011) *Journal of Multivariate Analysis*, Vol. 169, 278-299. [[R package]](https://github.com/irinagain/DAP)
+**Gaynanova I** and Wang T\* (2019). [Sparse quadratic classification rules via linear dimension reduction.](https://doi.org/10.1016/j.jmva.2018.09.011) *Journal of Multivariate Analysis*, Vol. 169, 278-299. [[R package]](https://github.com/irinagain/DAP)
 
-Hokamp J, Leidy S, **Gaynanova, I**, Cianciolo R and Nabity M (2018) [Correlation of electrophoretic urine protein banding patterns with severity of renal damage in dogs with proteinuric chronic kidney disease](https://onlinelibrary.wiley.com/doi/full/10.1111/vcp.12648). *Veterinary Clinical Pathology*, Vol. 47, No. 3, 425-434.
+Hokamp J, Leidy S, **Gaynanova, I**, Cianciolo R and Nabity M (2018) [Correlation of electrophoretic urine protein banding patterns with severity of renal damage in dogs with proteinuric chronic kidney disease.](https://onlinelibrary.wiley.com/doi/full/10.1111/vcp.12648). *Veterinary Clinical Pathology*, Vol. 47, No. 3, 425-434.
 
 Li G and **Gaynanova I** (2018). [A general framework for association analysis of heterogeneous data.](http://dx.doi.org/10.1214/17-AOAS1127) *Annals of Applied Statistics*, Vol 12, No. 3, 1700-1726. [[MATLAB code]](https://github.com/reagan0323/GAS)
 
