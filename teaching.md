@@ -15,6 +15,9 @@ Graduate-level introduction to probability theory; distributions and expectation
 **STAT 689: Statistical Learning with Sparsity.** *(Spring 2017)*
 Graduate-level class covering penalized empirical loss minimization methods with sparsity-inducing penalties. The course also includes brief introduction to convex optimization and duality.
 
+**STAT 689: Topics in Statistical Computing.** *(Spring 2019)*
+Graduate-level course on computational statistics and optimization. Topics include version control with Git and Github, code vectorization and profiling, writing R packages, introduction to convex optimization and optimization algorithms.
+
 
 ### Classes taught at Cornell University
 
