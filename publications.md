@@ -8,14 +8,14 @@ bigimg: /img/DSCN2128.JPG
 
 ## Pre-prints:
 
-Lapanowski A\* and **Gaynanova I**(2019+)[Sparse feature selection in kernel discriminant analysis via optimal scoring.](https://arxiv.org/abs/1902.04248) *arXiv stat.ML* [[R package]](https://github.com/aflapan/sparseKOS)
+Lapanowski A\* and **Gaynanova I** (2019+). [Sparse feature selection in kernel discriminant analysis via optimal scoring.](https://arxiv.org/abs/1902.04248) *arXiv stat.ML* [[R package]](https://github.com/aflapan/sparseKOS)
 
-Yoon G\*, **Gaynanova I** and Müller C(2019+) [Microbial networks in SPRING - Semi-parametric rank-based correlation and partial correlation estimation for quantitative microbiome data.](https://www.biorxiv.org/content/10.1101/526871v1?rss=1
+Yoon G\*, **Gaynanova I** and Müller C (2019+). [Microbial networks in SPRING - Semi-parametric rank-based correlation and partial correlation estimation for quantitative microbiome data.](https://www.biorxiv.org/content/10.1101/526871v1?rss=1
 ) *bioRxiv*
 
-Zhang Y\* and **Gaynanova I** (2019+) [Joint association and classification analysis of multi-view data.](https://arxiv.org/abs/1811.08511) *arXiv stat.ML* [[R package]](https://github.com/Pennisetum/JACA)
+Zhang Y\* and **Gaynanova I** (2019+). [Joint association and classification analysis of multi-view data.](https://arxiv.org/abs/1811.08511) *arXiv stat.ML* [[R package]](https://github.com/Pennisetum/JACA)
 
-**Gaynanova I** (2019+) [Prediction and estimation consistency of sparse multi-class penalized optimal scoring.](https://arxiv.org/abs/1809.04669) *arXiv math.ST* 
+**Gaynanova I** (2019+). [Prediction and estimation consistency of sparse multi-class penalized optimal scoring.](https://arxiv.org/abs/1809.04669) *arXiv math.ST* 
 
 Yoon G\*, Carroll R and **Gaynanova I** (2019+). [Sparse semiparametric canonical correlation analysis for data of mixed types.](https://arxiv.org/abs/1807.05274) *arXiv stat.ME* [[R package]](https://github.com/irinagain/mixedCCA)
 
@@ -34,7 +34,7 @@ Bien J, **Gaynanova I**, Lederer J and Müller C (2019+). [Prediction Error Boun
 
 ### 2018
 
-Hokamp J, Leidy S, **Gaynanova, I**, Cianciolo R and Nabity M (2018) [Correlation of electrophoretic urine protein banding patterns with severity of renal damage in dogs with proteinuric chronic kidney disease.](https://onlinelibrary.wiley.com/doi/full/10.1111/vcp.12648). *Veterinary Clinical Pathology*, Vol. 47, No. 3, 425-434.
+Hokamp J, Leidy S, **Gaynanova, I**, Cianciolo R and Nabity M (2018). [Correlation of electrophoretic urine protein banding patterns with severity of renal damage in dogs with proteinuric chronic kidney disease.](https://onlinelibrary.wiley.com/doi/full/10.1111/vcp.12648) *Veterinary Clinical Pathology*, Vol. 47, No. 3, 425-434.
 
 Li G and **Gaynanova I** (2018). [A general framework for association analysis of heterogeneous data.](http://dx.doi.org/10.1214/17-AOAS1127) *Annals of Applied Statistics*, Vol 12, No. 3, 1700-1726. [[MATLAB code]](https://github.com/reagan0323/GAS)
 
