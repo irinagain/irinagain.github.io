@@ -8,6 +8,8 @@ bigimg: /img/DSCN2128.JPG
 
 ## Pre-prints:
 
+Lapanowski A\* and **Gaynanova I**(2019+)[Sparse feature selection in kernel discriminant analysis via optimal scoring.](https://arxiv.org/abs/1902.04248) *arXiv stat.ML* [[R package]](https://github.com/aflapan/sparseKOS)
+
 Yoon G\*, **Gaynanova I** and Müller C(2019+) [Microbial networks in SPRING - Semi-parametric rank-based correlation and partial correlation estimation for quantitative microbiome data.](https://www.biorxiv.org/content/10.1101/526871v1?rss=1
 ) *bioRxiv*
 
