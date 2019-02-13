@@ -24,11 +24,15 @@ Yoon G\*, Carroll R and **Gaynanova I** (2019+). [Sparse semiparametric canonica
 
 ## Peer-reviewed:
 
+### 2019
+
 Lederer J, Lu Y and **Gaynanova I** (2019+). [Oracle inequalities for high-dimensional prediction.](https://arxiv.org/abs/1608.00624) *Bernoulli*, accepted.
 
 Bien J, **Gaynanova I**, Lederer J and Müller C (2019+). [Prediction Error Bounds for Linear Regression With the TREX.](https://link.springer.com/article/10.1007/s11749-018-0584-4) *TEST*, accepted.
 
 **Gaynanova I** and Wang T\* (2019). [Sparse quadratic classification rules via linear dimension reduction.](https://doi.org/10.1016/j.jmva.2018.09.011) *Journal of Multivariate Analysis*, Vol. 169, 278-299. [[R package]](https://github.com/irinagain/DAP)
+
+### 2018
 
 Hokamp J, Leidy S, **Gaynanova, I**, Cianciolo R and Nabity M (2018) [Correlation of electrophoretic urine protein banding patterns with severity of renal damage in dogs with proteinuric chronic kidney disease.](https://onlinelibrary.wiley.com/doi/full/10.1111/vcp.12648). *Veterinary Clinical Pathology*, Vol. 47, No. 3, 425-434.
 
@@ -37,6 +41,8 @@ Li G and **Gaynanova I** (2018). [A general framework for association analysis o
 **Gaynanova I**, Urbanek J and Punjabi N (2018). [Letter to the Editor: Corrections of equations on glycemic variability and quality of glycemic control.](https://www.liebertpub.com/doi/pdfplus/10.1089/dia.2018.0057) *Diabetes Technology & Therapeutics*, Vol. 20, No. 4, 317.
 
 Bien J, **Gaynanova I**, Lederer J and Müller C (2018). [Non-convex global minimization and false discovery rate control for the TREX.](http://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1341414) *Journal of Computational and Graphical Statistics*, Vol. 27, No. 1, 23-33. [[MATLAB code]](https://github.com/muellsen/TREX)
+
+### 2017 and older
 
 **Gaynanova I**, Booth GJ and Wells TM (2017). [Penalized versus constrained generalized eigenvalue problems.](http://www.tandfonline.com/doi/abs/10.1080/10618600.2016.1172017) *Journal of Computational and Graphical Statistics*, Vol. 26, No. 2, 379-387.
   
