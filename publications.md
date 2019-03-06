@@ -8,7 +8,6 @@ bigimg: /img/DSCN2128.JPG
 
 ## Pre-prints:
 
-Lapanowski A\* and **Gaynanova I** (2019+). [Sparse feature selection in kernel discriminant analysis via optimal scoring.](https://arxiv.org/abs/1902.04248) *arXiv stat.ML* [[R package]](https://github.com/aflapan/sparseKOS)
 
 Yoon G\*, **Gaynanova I** and Müller C (2019+). [Microbial networks in SPRING - Semi-parametric rank-based correlation and partial correlation estimation for quantitative microbiome data.](https://www.biorxiv.org/content/10.1101/526871v1?rss=1
 ) *bioRxiv*
@@ -26,9 +25,11 @@ Yoon G\*, Carroll R and **Gaynanova I** (2019+). [Sparse semiparametric canonica
 
 ### 2019
 
-Lederer J, Lu Y and **Gaynanova I** (2019+). [Oracle inequalities for high-dimensional prediction.](https://arxiv.org/abs/1608.00624) *Bernoulli*, accepted.
+Lapanowski A\* and **Gaynanova I** (2019+). [Sparse feature selection in kernel discriminant analysis via optimal scoring.](https://arxiv.org/abs/1902.04248) *AISTATS*, accepted. [[R package]](https://github.com/aflapan/sparseKOS)
 
 Bien J, **Gaynanova I**, Lederer J and Müller C (2019+). [Prediction Error Bounds for Linear Regression With the TREX.](https://link.springer.com/article/10.1007/s11749-018-0584-4) *TEST*, accepted.
+
+Lederer J, Lu Y and **Gaynanova I** (2019). [Oracle inequalities for high-dimensional prediction.](https://projecteuclid.org/euclid.bj/1551862849) *Bernoulli*, Vol. 25, No. 2, 1225-1255.
 
 **Gaynanova I** and Wang T\* (2019). [Sparse quadratic classification rules via linear dimension reduction.](https://doi.org/10.1016/j.jmva.2018.09.011) *Journal of Multivariate Analysis*, Vol. 169, 278-299. [[R package]](https://github.com/irinagain/DAP)
 
