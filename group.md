@@ -55,7 +55,7 @@ title: Group
 		<img src="https://irinagain.github.io/img/AlexL.jpg" class="img-responsive" alt="Alex"/></a>
 	</div>
 	<div class="col-md-6">
-		<p>Alex Lapanowski <br>
+		<p><a href="https://sites.google.com/view/alexander-f-lapanowski/home">Alex Lapanowski </a><br>
 		PhD Student in Statistics	</p>
 	</div>
 </div>
