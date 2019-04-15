@@ -25,9 +25,9 @@ Yoon G\*, Carroll R and **Gaynanova I** (2019+). [Sparse semiparametric canonica
 
 ### 2019
 
-Lapanowski A\* and **Gaynanova I** (2019+). [Sparse feature selection in kernel discriminant analysis via optimal scoring.](https://arxiv.org/abs/1902.04248) *AISTATS*, accepted. [[R package]](https://github.com/aflapan/sparseKOS)
-
 Bien J, **Gaynanova I**, Lederer J and Müller C (2019+). [Prediction Error Bounds for Linear Regression With the TREX.](https://link.springer.com/article/10.1007/s11749-018-0584-4) *TEST*, accepted.
+
+Lapanowski A\* and **Gaynanova I** (2019). [Sparse feature selection in kernel discriminant analysis via optimal scoring.](http://proceedings.mlr.press/v89/lapanowski19a.html) *Artificial Intelligence and Statistics (AISTATS)*. [[R package]](https://github.com/aflapan/sparseKOS)
 
 Lederer J, Lu Y and **Gaynanova I** (2019). [Oracle inequalities for high-dimensional prediction.](https://projecteuclid.org/euclid.bj/1551862849) *Bernoulli*, Vol. 25, No. 2, 1225-1255.
 
