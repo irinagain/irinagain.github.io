@@ -26,7 +26,12 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 </div>
 
 ### NEWS:
-* **February 2019:** A new manuscript with Alex Lapanowski, *Sparse Feature Selection in Kernel Discriminant Analysis via Optimal Scoring* is now available on [arXiv](https://arxiv.org/abs/1902.04248)
+
+* **April 2019:** The manuscript on *Prediction and estimation consistency of sparse multi-class penalized optimal scoring* has been accepted to [Bernoulli](http://www.bernoulli-society.org/index.php/publications/bernoulli-journal/bernoulli-journal-papers)
+
+* **April 2019:** A manuscript with [Alex Lapanowski](https://sites.google.com/view/alexander-f-lapanowski/home) on *Sparse Feature Selection in Kernel Discriminant Analysis via Optimal Scoring* has appeared in [AISTATS](http://proceedings.mlr.press/v89/lapanowski19a.html)
+
+* **February 2019:** A new manuscript with [Alex Lapanowski](https://sites.google.com/view/alexander-f-lapanowski/home), *Sparse Feature Selection in Kernel Discriminant Analysis via Optimal Scoring* is now available on [arXiv](https://arxiv.org/abs/1902.04248)
 
 * **January 2019:** A new manuscript with [Grace Yoon](http://www.stat.tamu.edu/~gyoon/) and [Christian L Müller](https://www.simonsfoundation.org/team/christian-muller/), *Microbial networks in SPRING - Semi-parametric rank-based correlation and partial correlation estimation for quantitative microbiome data* is now available on [bioRxiv](https://www.biorxiv.org/content/10.1101/526871v1?rss=1)
 
