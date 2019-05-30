@@ -18,6 +18,7 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 		College Station, TX 77843 <br>
 		<strong>Office:</strong> 458D Blocker <br>
 		<strong>Email:</strong> irinag [at] stat.tamu.edu</p>
+		[CV](Resources/IrinaGaynanovaCV.pdf)
 	</div>
 </div>
 	
