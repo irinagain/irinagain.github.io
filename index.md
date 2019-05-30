@@ -17,8 +17,9 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 		3143 TAMU <br>
 		College Station, TX 77843 <br>
 		<strong>Office:</strong> 458D Blocker <br>
-		<strong>Email:</strong> irinag [at] stat.tamu.edu</p>
-		[CV](Resources/IrinaGaynanovaCV.pdf)
+		<strong>Email:</strong> irinag [at] stat.tamu.edu <br>
+		<a href = "https://irinagain.github.io/Resources/IrinaGaynanovaCV.pdf"> CV"</a>
+		</p>
 	</div>
 </div>
 	
