@@ -21,7 +21,7 @@ Yoon G\*, Carroll R and **Gaynanova I** (2019+). [Sparse semiparametric canonica
 
 **Gaynanova I** (2019+). [Prediction and estimation consistency of sparse multi-class penalized optimal scoring.](https://arxiv.org/abs/1809.04669) *Bernoulli*, accepted.
 
-Bien J, **Gaynanova I**, Lederer J and Müller C (2019+). [Prediction Error Bounds for Linear Regression With the TREX.](https://link.springer.com/article/10.1007/s11749-018-0584-4) *TEST*, accepted.
+Bien J, **Gaynanova I**, Lederer J and Müller C (2019). [Prediction Error Bounds for Linear Regression With the TREX.](https://link.springer.com/article/10.1007/s11749-018-0584-4) *TEST*, Vol. 28, No. 2, 451-474.
 
 Yoon G\*, **Gaynanova I** and Müller C (2019). [Microbial networks in SPRING - Semi-parametric rank-based correlation and partial correlation estimation for quantitative microbiome data.](https://www.frontiersin.org/articles/10.3389/fgene.2019.00516/full) *Frontiers in Genetics*, Vol. 10, 516.
 
