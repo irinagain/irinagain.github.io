@@ -12,12 +12,12 @@ Zhang Y\* and **Gaynanova I** (2019+). [Joint association and classification ana
  
 Yoon G\*, Carroll R and **Gaynanova I** (2019+). [Sparse semiparametric canonical correlation analysis for data of mixed types.](https://arxiv.org/abs/1807.05274) *arXiv stat.ME* [[R package]](https://github.com/irinagain/mixedCCA)
 
-**Gaynanova I** and Li G (2019+). [Structural learning and integrative decomposition of multi-view data.](https://arxiv.org/abs/1707.06573) *arXiv stat.ML* 
-
 
 ## Peer-reviewed:
 
 ### 2019
+
+**Gaynanova I** and Li G (2019+). [Structural learning and integrative decomposition of multi-view data.](https://doi.org/10.1111/biom.13108) *Biometrics*, accepted. 
 
 **Gaynanova I** (2019+). [Prediction and estimation consistency of sparse multi-class penalized optimal scoring.](https://arxiv.org/abs/1809.04669) *Bernoulli*, accepted.
 
