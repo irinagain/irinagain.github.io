@@ -35,7 +35,7 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 * **June 2019:** A manuscript with [Grace Yoon](http://www.stat.tamu.edu/~gyoon/) and [Christian L Müller](https://www.simonsfoundation.org/team/christian-muller/), *Microbial networks in SPRING - Semi-parametric rank-based correlation and partial correlation estimation for quantitative microbiome data* has been accepted to [Frontiers in Genetics](https://www.frontiersin.org/articles/10.3389/fgene.2019.00516/full) for the special Research Topic on "Statistical and Computational Methods for Microbiome Multi-Omics Data"
 
-* **April 2019:** A manuscript on *Prediction and estimation consistency of sparse multi-class penalized optimal scoring* has been accepted to [Bernoulli](http://www.bernoulli-society.org/index.php/publications/bernoulli-journal/bernoulli-journal-papers)
+* **April 2019:** A manuscript on *Prediction and estimation consistency of sparse multi-class penalized optimal scoring* has been accepted to [Bernoulli](https://projecteuclid.org/euclid.bj/1574758829)
 
 * **April 2019:** A manuscript with [Alex Lapanowski](https://sites.google.com/view/alexander-f-lapanowski/home) on *Sparse Feature Selection in Kernel Discriminant Analysis via Optimal Scoring* has appeared in [AISTATS](http://proceedings.mlr.press/v89/lapanowski19a.html)
 
