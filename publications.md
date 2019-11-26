@@ -15,11 +15,13 @@ Yoon G\*, Carroll R and **Gaynanova I** (2019+). [Sparse semiparametric canonica
 
 ## Peer-reviewed:
 
-### 2019
+### 2020
 
-**Gaynanova I** and Li G (2019+). [Structural learning and integrative decomposition of multi-view data.](https://doi.org/10.1111/biom.13108) *Biometrics*, accepted. 
+**Gaynanova I** and Li G (2020+). [Structural learning and integrative decomposition of multi-view data.](https://doi.org/10.1111/biom.13108) *Biometrics*, accepted.
 
-**Gaynanova I** (2019+). [Prediction and estimation consistency of sparse multi-class penalized optimal scoring.](https://arxiv.org/abs/1809.04669) *Bernoulli*, accepted.
+**Gaynanova I** (2020). [Prediction and estimation consistency of sparse multi-class penalized optimal scoring.](https://projecteuclid.org/euclid.bj/1574758829) *Bernoulli*, Vol. 26, No. 1, 286-322.
+
+### 2019 
 
 Bien J, **Gaynanova I**, Lederer J and Müller C (2019). [Prediction Error Bounds for Linear Regression With the TREX.](https://link.springer.com/article/10.1007/s11749-018-0584-4) *TEST*, Vol. 28, No. 2, 451-474.
 
