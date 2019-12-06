@@ -8,24 +8,24 @@ bigimg: /img/DSCN2128.JPG
 
 ## Pre-prints:
 
-Zhang Y\* and **Gaynanova I** (2019+). [Joint association and classification analysis of multi-view data.](https://arxiv.org/abs/1811.08511) *arXiv stat.ML* [[R package]](https://github.com/Pennisetum/JACA)
- 
-Yoon G\*, Carroll R and **Gaynanova I** (2019+). [Sparse semiparametric canonical correlation analysis for data of mixed types.](https://arxiv.org/abs/1807.05274) *arXiv stat.ME* [[R package]](https://github.com/irinagain/mixedCCA)
+Zhang Y\* and **Gaynanova I** (2020+). [Joint association and classification analysis of multi-view data.](https://arxiv.org/abs/1811.08511) *arXiv stat.ML* [[R package]](https://github.com/Pennisetum/JACA)
 
 
 ## Peer-reviewed:
 
 ### 2020
 
-**Gaynanova I** and Li G (2020+). [Structural learning and integrative decomposition of multi-view data.](https://doi.org/10.1111/biom.13108) *Biometrics*, accepted.
+Yoon G\*, Carroll R and **Gaynanova I** (2020+). [Sparse semiparametric canonical correlation analysis for data of mixed types.](https://arxiv.org/abs/1807.05274) *Biometrika*, accepted. [[R package]](https://github.com/irinagain/mixedCCA)
 
 **Gaynanova I** (2020). [Prediction and estimation consistency of sparse multi-class penalized optimal scoring.](https://projecteuclid.org/euclid.bj/1574758829) *Bernoulli*, Vol. 26, No. 1, 286-322.
 
 ### 2019 
 
+**Gaynanova I** and Li G (2019). [Structural learning and integrative decomposition of multi-view data.](https://doi.org/10.1111/biom.13108) *Biometrics*, Vol. 75, No. 4, 1121-1132.
+
 Bien J, **Gaynanova I**, Lederer J and Müller C (2019). [Prediction Error Bounds for Linear Regression With the TREX.](https://link.springer.com/article/10.1007/s11749-018-0584-4) *TEST*, Vol. 28, No. 2, 451-474.
 
-Yoon G\*, **Gaynanova I** and Müller C (2019). [Microbial networks in SPRING - Semi-parametric rank-based correlation and partial correlation estimation for quantitative microbiome data.](https://www.frontiersin.org/articles/10.3389/fgene.2019.00516/full) *Frontiers in Genetics*, Vol. 10, 516.
+Yoon G\*, **Gaynanova I** and Müller C (2019). [Microbial networks in SPRING - Semi-parametric rank-based correlation and partial correlation estimation for quantitative microbiome data.](https://www.frontiersin.org/articles/10.3389/fgene.2019.00516/full) *Frontiers in Genetics*, Vol. 10, 516. [[R package]](https://github.com/GraceYoon/SPRING)
 
 Lapanowski A\* and **Gaynanova I** (2019). [Sparse feature selection in kernel discriminant analysis via optimal scoring.](http://proceedings.mlr.press/v89/lapanowski19a.html) *Artificial Intelligence and Statistics (AISTATS)*. [[R package]](https://github.com/aflapan/sparseKOS)
 
