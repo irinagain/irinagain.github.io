@@ -29,6 +29,10 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **November 2019:** [Postdocs positions available](https://fids.tamu.edu/fids-postdoctoral-fellows-in-statistics/) through [Foundations of Interdisciplinary Data Science Institute (FIDS)](https://fids.tamu.edu). This Institute will bring together researchers from five disciplinary areas (Computer Science, Electrical Engineering, Industrial Engineering, Mathematics, Statistics and Industrial engineering) to conduct research on the foundations of data science and to solve problems arising in the fields of Bioinformatics, Energy Research, Manufacturing and Material Science. The post-doctoral researchers will have opportunities to work with researchers from various related disciplines on cutting edge problems; see complete list of investigators [here](https://fids.tamu.edu/faculty/).
+
+* **September 2019:** [Postdoc Position Available!](https://www.stat.tamu.edu/~yni/postdoc_ad/) (jointly with Yang Ni, Raymond Carroll and Robert Chapkin). 
+
 * **September 2019:** [Cornell Department of Statistics and Data Science](https://stat.cornell.edu) features [a conversation with Irina](https://stat.cornell.edu/alumni/alumni-profiles/irina-gaynanova-stats-phd-15) about her time at Cornell and advice for pursuing career in data science. 
 
 * **June 2019:** A manuscript with [Gen Li](https://sites.google.com/view/ligen), *"Structural Learning and Integrative Decomposition of Multi-View Data"*, has been accepted to [Biometrics](https://doi.org/10.1111/biom.13108).
