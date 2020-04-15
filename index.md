@@ -29,6 +29,8 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **April 2020:** A manuscript with [Grace Yoon](http://www.stat.tamu.edu/~gyoon/) and [Raymond Carroll](https://carroll.stat.tamu.edu) has appeared in [Biometrika](https://academic.oup.com/biomet/article/doi/10.1093/biomet/asaa007/5820553)
+
 * **November 2019:** [Postdocs positions available](https://fids.tamu.edu/fids-postdoctoral-fellows-in-statistics/) through [Foundations of Interdisciplinary Data Science Institute (FIDS)](https://fids.tamu.edu). This Institute will bring together researchers from five disciplinary areas (Computer Science, Electrical Engineering, Industrial Engineering, Mathematics, Statistics and Industrial engineering) to conduct research on the foundations of data science and to solve problems arising in the fields of Bioinformatics, Energy Research, Manufacturing and Material Science. The post-doctoral researchers will have opportunities to work with researchers from various related disciplines on cutting edge problems; see complete list of investigators [here](https://fids.tamu.edu/faculty/).
 
 * **September 2019:** [Postdoc Position Available!](https://www.stat.tamu.edu/~yni/postdoc_ad/) (jointly with Yang Ni, Raymond Carroll and Robert Chapkin). 
@@ -43,12 +45,11 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 * **April 2019:** A manuscript with [Alex Lapanowski](https://sites.google.com/view/alexander-f-lapanowski/home) on *Sparse Feature Selection in Kernel Discriminant Analysis via Optimal Scoring* has appeared in [AISTATS](http://proceedings.mlr.press/v89/lapanowski19a.html)
 
+<!--
 * **November 2018:** A new manuscript on *"Joint association and classification analysis of multi-view data"* is now available on [arXiv](https://arxiv.org/abs/1811.08511)
 
 * **September 2018:** The [Texas A&M College of Science](http://www.science.tamu.edu) promotional [video](https://youtu.be/BLtN4gYBN0g) featuring Irina
 
-
-<!--
 * **July 2018:** A new manuscript on *"Sparse semiparametric canonical correlation analysis for data of mixed types"* is now available on [arXiv](https://arxiv.org/abs/1807.05274)
 * **March 2018:** Irina is the recipient of the 2018 David P. Byar Young Investigator Award for the first-place paper [*"Structural Learning and Integrative Decomposition of Multi-View Data"*](https://arxiv.org/abs/1707.06573), joint work with [Gen Li](https://sites.google.com/view/ligen), Columbia University Mailman School of Public Health. [Texas A&M Science article featuring the award](http://www.science.tamu.edu/articles/1922)
 * **January 2018:** A new manuscript on *"Prediction Error Bounds for Linear Regression With the TREX"* is now available on [arXiv](https://arxiv.org/abs/1801.01394)

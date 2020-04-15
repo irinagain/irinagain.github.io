@@ -12,7 +12,7 @@ Calculus-based introduction to probability and probability distributions; sampli
 **STAT 610: Distribution Theory.** *(Fall 2017, Fall 2018, Fall 2019)*
 Graduate-level introduction to probability theory; distributions and expectations of random variables, transformations of random variables and order statistics; generating functions and basic limit concepts. 
 
-**STAT 689: Statistical Learning with Sparsity.** *(Spring 2017)*
+**STAT 689/STAT 695: Statistical Learning with Sparsity.** *(Spring 2017, Spring 2020)*
 Graduate-level class covering penalized empirical loss minimization methods with sparsity-inducing penalties. The course also includes brief introduction to convex optimization and duality.
 
 **STAT 689: Topics in Statistical Computing.** *(Spring 2019, Fall 2019)*

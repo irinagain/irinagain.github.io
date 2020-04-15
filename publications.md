@@ -15,7 +15,7 @@ Zhang Y\* and **Gaynanova I** (2020+). [Joint association and classification ana
 
 ### 2020
 
-Yoon G\*, Carroll R and **Gaynanova I** (2020+). [Sparse semiparametric canonical correlation analysis for data of mixed types.](https://arxiv.org/abs/1807.05274) *Biometrika*, accepted. [[R package]](https://github.com/irinagain/mixedCCA)
+Yoon G\*, Carroll R and **Gaynanova I** (2020+). [Sparse semiparametric canonical correlation analysis for data of mixed types.](https://academic.oup.com/biomet/article/doi/10.1093/biomet/asaa007/5820553) *Biometrika*, accepted. [[R package]](https://github.com/irinagain/mixedCCA)
 
 **Gaynanova I** (2020). [Prediction and estimation consistency of sparse multi-class penalized optimal scoring.](https://projecteuclid.org/euclid.bj/1574758829) *Bernoulli*, Vol. 26, No. 1, 286-322.
 
