@@ -8,6 +8,8 @@ bigimg: /img/DSCN2128.JPG
 
 ## Pre-prints:
 
+Risk B and **Gaynanova I** (2020+). [Simultaneous Non-Gaussian Component Analysis (SING) for Data Integration in Neuroimaging](https://arxiv.org/abs/2005.00597) [[R code]](https://github.com/irinagain/SING)
+
 Zhang Y\* and **Gaynanova I** (2020+). [Joint association and classification analysis of multi-view data.](https://arxiv.org/abs/1811.08511) *arXiv stat.ML* [[R package]](https://github.com/Pennisetum/JACA)
 
 
