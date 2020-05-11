@@ -12,8 +12,9 @@ Risk B and **Gaynanova I** (2020+). [Simultaneous Non-Gaussian Component Analysi
 
 Zhang Y\* and **Gaynanova I** (2020+). [Joint association and classification analysis of multi-view data.](https://arxiv.org/abs/1811.08511) *arXiv stat.ML* [[R package]](https://github.com/Pennisetum/JACA)
 
+Lapanowski A\* and **Gaynanova I** (2020+). [Compressing Large Sample Data for Discriminant Analysis](https://arxiv.org/abs/2005.03858) *arXiv stat.ML*
 
-## Peer-reviewed:
+## Peer-reviewed:	
 
 ### 2020
 

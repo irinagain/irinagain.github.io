@@ -29,6 +29,8 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **May 2020:** A new manuscript with [Alex Lapanowski](https://sites.google.com/view/alexander-f-lapanowski/home) on *"Compressing Large Sample Data for Discriminant Analysis"* is now available on [arXiv](https://arxiv.org/abs/2005.03858)
+
 * **May 2020:** A new manuscript with [Ben Risk](http://www.benjaminrisk.com) on *"Simultaneous Non-Gaussian Component Analysis (SING) for Data Integration in Neuroimaging"* is now available on [arXiv](https://arxiv.org/abs/2005.00597)
 
 * **April 2020:** A manuscript with [Grace Yoon](http://www.stat.tamu.edu/~gyoon/) and [Raymond Carroll](https://carroll.stat.tamu.edu) on *"Sparse semiparametric canonical correlation analysis for data of mixed types"* has appeared in [Biometrika](https://academic.oup.com/biomet/article/doi/10.1093/biomet/asaa007/5820553)
