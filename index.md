@@ -29,6 +29,8 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **May 2020:** A new manuscript with [Naresh Punjabi](https://www.hopkinsmedicine.org/profiles/results/directory/profile/0005817/naresh-punjabi//) and [Ciprian Crainiceanu](http://ciprianstats.org/home) on *"Modeling continuous glucose monitoring (CGM) data during sleep."* has appeared in [Biostatistics](https://doi.org/10.1093/biostatistics/kxaa023)
+
 * **May 2020:** A new manuscript with [Alex Lapanowski](https://sites.google.com/view/alexander-f-lapanowski/home) on *"Compressing Large Sample Data for Discriminant Analysis"* is now available on [arXiv](https://arxiv.org/abs/2005.03858)
 
 * **May 2020:** A new manuscript with [Ben Risk](http://www.benjaminrisk.com) on *"Simultaneous Non-Gaussian Component Analysis (SING) for Data Integration in Neuroimaging"* is now available on [arXiv](https://arxiv.org/abs/2005.00597)
