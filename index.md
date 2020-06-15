@@ -29,6 +29,10 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **June 2020:** Our team has released [a list of public Continuous Glucose Monitoring (CGM) datasets](https://github.com/irinagain/Awesome-CGM). Thank you to an amazing team of undergraduate researchers: Mary Martin, Elizabeth Chun, David Buchanan, Eric Wang and Sangaman Senthil who assembled this collection as part of their [Aggie Research Project](https://aggieresearch.tamu.edu).
+
+* **June 2020:** Congratulations to [Alex Lapanowski](https://sites.google.com/view/alexander-f-lapanowski/home) and Yunfeng Zhang for succesfully defending their PhD dissertations!
+
 * **May 2020:** A new manuscript with [Naresh Punjabi](https://www.hopkinsmedicine.org/profiles/results/directory/profile/0005817/naresh-punjabi//) and [Ciprian Crainiceanu](http://ciprianstats.org/home) on *"Modeling continuous glucose monitoring (CGM) data during sleep."* has appeared in [Biostatistics](https://doi.org/10.1093/biostatistics/kxaa023)
 
 * **May 2020:** A new manuscript with [Alex Lapanowski](https://sites.google.com/view/alexander-f-lapanowski/home) on *"Compressing Large Sample Data for Discriminant Analysis"* is now available on [arXiv](https://arxiv.org/abs/2005.03858)
@@ -43,11 +47,12 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 * **June 2019:** A manuscript with [Grace Yoon](http://www.stat.tamu.edu/~gyoon/) and [Christian L Müller](https://www.simonsfoundation.org/team/christian-muller/), *Microbial networks in SPRING - Semi-parametric rank-based correlation and partial correlation estimation for quantitative microbiome data* has been accepted to [Frontiers in Genetics](https://www.frontiersin.org/articles/10.3389/fgene.2019.00516/full) for the special Research Topic on "Statistical and Computational Methods for Microbiome Multi-Omics Data"
 
+<!--
 * **April 2019:** A manuscript on *Prediction and estimation consistency of sparse multi-class penalized optimal scoring* has been accepted to [Bernoulli](https://projecteuclid.org/euclid.bj/1574758829)
 
 * **April 2019:** A manuscript with [Alex Lapanowski](https://sites.google.com/view/alexander-f-lapanowski/home) on *Sparse Feature Selection in Kernel Discriminant Analysis via Optimal Scoring* has appeared in [AISTATS](http://proceedings.mlr.press/v89/lapanowski19a.html)
 
-<!--
+
 * **November 2018:** A new manuscript on *"Joint association and classification analysis of multi-view data"* is now available on [arXiv](https://arxiv.org/abs/1811.08511)
 
 * **September 2018:** The [Texas A&M College of Science](http://www.science.tamu.edu) promotional [video](https://youtu.be/BLtN4gYBN0g) featuring Irina
