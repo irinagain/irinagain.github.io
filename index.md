@@ -29,6 +29,9 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **June 2020:** A new manuscript with [Grace Yoon](http://www.stat.tamu.edu/~gyoon/) and [Christian L Müller](https://www.simonsfoundation.org/team/christian-muller/) on 
+*"Fast computation of latent correlations"* is now available on [arXiv](https://arxiv.org/abs/2006.13875). Check out [[R code to reproduce simulations]](https://github.com/GraceYoon/Fast-latent-correlation) and the improved [[R package]](https://github.com/irinagain/mixedCCA) to estimate latent correlations for mixed (continuous, binary and zero-inflated) variable types.
+
 * **June 2020:** Our team has released [a list of public Continuous Glucose Monitoring (CGM) datasets](https://github.com/irinagain/Awesome-CGM). Thank you to an amazing team of undergraduate researchers: Mary Martin, Elizabeth Chun, David Buchanan, Eric Wang and Sangaman Senthil who assembled this collection as part of their [Aggie Research Project](https://aggieresearch.tamu.edu).
 
 * **June 2020:** Congratulations to [Alex Lapanowski](https://sites.google.com/view/alexander-f-lapanowski/home) and Yunfeng Zhang for succesfully defending their PhD dissertations!
