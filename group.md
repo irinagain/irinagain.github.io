@@ -89,7 +89,7 @@ title: Group
 
 * [Tianying Wang](https://tianyingw.github.io). Now an Assistant Professor at  Tsinghua University Center of Statistical Science
 
-* [Grace Yoon](http://www.stat.tamu.edu/~gyoon/).
+* [Grace Yoon](http://www.stat.tamu.edu/~gyoon/). Now a Mathematical Statistician at US Department of Agriculture, National Agricultural Statistics Service (NASS).
 
 * Yunfeng Zhang. Now Data and Applied Scientist at Microsoft.
 
