@@ -20,9 +20,15 @@ title: Group
 	</div>
 </div>
 
+
+</div>
+
 <!--![](img/IMG_3442.jpg) Irina Gaynanova -->
 
 ### Postdocs and graduate students
+
+<div class="container">
+<div class="row">&nbsp;</div>
 
 <div class="row">
 	<!--<div class="col-md-3"><a class="thumb" href="#">
@@ -62,6 +68,8 @@ title: Group
 		<p>John Schwenck <br>
 		MS Student in Statistics	</p>
 	</div>
+</div>
+
 </div>
 
 ### Undergraduate students (through [Aggie Research Program](https://aggieresearch.tamu.edu))
