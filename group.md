@@ -5,10 +5,10 @@ title: Group
 
 ## RESEARCH GROUP MEMBERS
 
+### PI	
+
 <div class="container">
 <div class="row">&nbsp;</div>
-
-## PI	
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
@@ -24,15 +24,12 @@ title: Group
 
 ### Postdocs and graduate students
 
-<p> <br>
-</p>
-
 <div class="row">
 	<!--<div class="col-md-3"><a class="thumb" href="#">
 		<img src="https://irinagain.github.io/img/GraceYoon.jpg" class="img-responsive" alt="Grace Yoon"/></a>
 	</div>-->
 	<div class="col-md-6">
-		<p> Hee Cheol Chung</a> <br>
+		<p> Hee Cheol Chung <br>
 		Postdoctoral Research Associate	</p>
 	</div>
 </div>
@@ -42,7 +39,7 @@ title: Group
 		<img src="https://irinagain.github.io/img/GraceYoon.jpg" class="img-responsive" alt="Grace Yoon"/></a>
 	</div>-->
 	<div class="col-md-6">
-		<p>Sangyoon Yi </a> <br>
+		<p>Sangyoon Yi <br>
 		Postdoctoral Research Associate	</p>
 	</div>
 </div>
