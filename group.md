@@ -3,11 +3,12 @@ layout: page
 title: Group
 ---
 
-### RESEARCH GROUP MEMBERS
+## RESEARCH GROUP MEMBERS
 
 <div class="container">
 <div class="row">&nbsp;</div>
-	
+
+## PI	
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
@@ -21,71 +22,80 @@ title: Group
 
 <!--![](img/IMG_3442.jpg) Irina Gaynanova -->
 
+### Postdocs and graduate students
+
 <p> <br>
 </p>
 
 <div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
+	<!--<div class="col-md-3"><a class="thumb" href="#">
 		<img src="https://irinagain.github.io/img/GraceYoon.jpg" class="img-responsive" alt="Grace Yoon"/></a>
-	</div>
+	</div>-->
 	<div class="col-md-6">
-		<p><a href="http://www.stat.tamu.edu/~gyoon/"> Grace Yoon </a> <br>
+		<p> Hee Cheol Chung</a> <br>
 		Postdoctoral Research Associate	</p>
 	</div>
 </div>
 
-<p> <br>
-</p>
-
 <div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="https://irinagain.github.io/img/Yunfeng.jpg" class="img-responsive" alt="Yunfeng"/></a>
-	</div>
+	<!--<div class="col-md-3"><a class="thumb" href="#">
+		<img src="https://irinagain.github.io/img/GraceYoon.jpg" class="img-responsive" alt="Grace Yoon"/></a>
+	</div>-->
 	<div class="col-md-6">
-		<p> Yunfeng Zhang  <br>
-		PhD Student in Statistics</p>
+		<p>Sangyoon Yi </a> <br>
+		Postdoctoral Research Associate	</p>
 	</div>
 </div>
 
-<p> <br>
-</p>
-
 <div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="https://irinagain.github.io/img/AlexL.jpg" class="img-responsive" alt="Alex"/></a>
-	</div>
-	<div class="col-md-6">
-		<p><a href="https://sites.google.com/view/alexander-f-lapanowski/home">Alex Lapanowski </a><br>
-		PhD Student in Statistics	</p>
-	</div>
-</div>
-
-<p> <br>
-</p>
-
-<div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
+	<!--<div class="col-md-3"><a class="thumb" href="#">
 		<img src="https://irinagain.github.io/img/Dongbang.jpg" class="img-responsive" alt="Dongbang"/></a>
-	</div>
+	</div>-->
 	<div class="col-md-6">
 		<p>Dongbang Yuan <br>
 		PhD Student in Statistics	</p>
 	</div>
 </div>
 
-<hr>
-
-</div>
-
-### RESEARCH GROUP ALUMNI
-
 <div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="https://irinagain.github.io/img/wang_tianying.jpg" class="img-responsive" alt="Tianying Wang"/></a>
-	</div>
+	<!--<div class="col-md-3"><a class="thumb" href="#">
+		<img src="https://irinagain.github.io/img/Dongbang.jpg" class="img-responsive" alt="Dongbang"/></a>
+	</div>-->
 	<div class="col-md-6">
-		<p><a href="https://tianyingw.github.io"> Tianying Wang </a> <br>
-		Now a Postdoctoral Research Associate at Department of Biostatistics at Columbia University</p>
+		<p>John Schwenck <br>
+		MS Student in Statistics	</p>
 	</div>
 </div>
+
+### Undergraduate students (through [Aggie Research Program](https://aggieresearch.tamu.edu))
+
+* Elizabeth Chun
+* Mary Martin
+* Pratik Patel
+* Nhan Nguyen
+* Marielle Hicban
+* Ashok Meyyappan
+* Nathaniel Fernandez
+
+
+## RESEARCH GROUP ALUMNI
+
+### Postdocs and graduate students
+
+* [Tianying Wang](https://tianyingw.github.io). Now an Assistant Professor at  Tsinghua University Center of Statistical Science
+
+* [Grace Yoon](http://www.stat.tamu.edu/~gyoon/).
+
+* Yunfeng Zhang. Now Data and Applied Scientist at Microsoft.
+
+* Alex Lapanowski. Now Senior Scientist at SABIC.
+
+### Undergraduate students
+
+* Steven Broll
+* Eric Wang
+* Sangaman Senthil
+* David Buchanan
+
+
 

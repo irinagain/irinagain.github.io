@@ -29,6 +29,8 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **September 2020:** Our team has released version 2 of [an R package iglu for analysis of Continuous Glucose Monitoring (CGM) data](https://github.com/irinagain/iglu). The package is also available from CRAN ([iglu](https://cran.rstudio.com/web/packages/iglu/index.html)) and you can learn more about it from the [accompanying website](https://irinagain.github.io/iglu/). All the functionality is also available directly as the [shiny app](https://irinagain.shinyapps.io/shiny_iglu/). The introductory paper/extended vignette is coming soon!
+
 * **June 2020:** A new manuscript with [Grace Yoon](http://www.stat.tamu.edu/~gyoon/) and [Christian L Müller](https://www.simonsfoundation.org/team/christian-muller/) on 
 *"Fast computation of latent correlations"* is now available on [arXiv](https://arxiv.org/abs/2006.13875). Check out [[R code to reproduce simulations]](https://github.com/GraceYoon/Fast-latent-correlation) and the improved [[R package]](https://github.com/irinagain/mixedCCA) to estimate latent correlations for mixed (continuous, binary and zero-inflated) variable types.
 
@@ -46,11 +48,12 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 * **September 2019:** [Cornell Department of Statistics and Data Science](https://stat.cornell.edu) features [a conversation with Irina](https://stat.cornell.edu/alumni/alumni-profiles/irina-gaynanova-stats-phd-15) about her time at Cornell and advice for pursuing career in data science. 
 
+<!--
 * **June 2019:** A manuscript with [Gen Li](https://sites.google.com/view/ligen), *"Structural Learning and Integrative Decomposition of Multi-View Data"*, has been accepted to [Biometrics](https://doi.org/10.1111/biom.13108).
 
 * **June 2019:** A manuscript with [Grace Yoon](http://www.stat.tamu.edu/~gyoon/) and [Christian L Müller](https://www.simonsfoundation.org/team/christian-muller/), *Microbial networks in SPRING - Semi-parametric rank-based correlation and partial correlation estimation for quantitative microbiome data* has been accepted to [Frontiers in Genetics](https://www.frontiersin.org/articles/10.3389/fgene.2019.00516/full) for the special Research Topic on "Statistical and Computational Methods for Microbiome Multi-Omics Data"
 
-<!--
+
 * **April 2019:** A manuscript on *Prediction and estimation consistency of sparse multi-class penalized optimal scoring* has been accepted to [Bernoulli](https://projecteuclid.org/euclid.bj/1574758829)
 
 * **April 2019:** A manuscript with [Alex Lapanowski](https://sites.google.com/view/alexander-f-lapanowski/home) on *Sparse Feature Selection in Kernel Discriminant Analysis via Optimal Scoring* has appeared in [AISTATS](http://proceedings.mlr.press/v89/lapanowski19a.html)
