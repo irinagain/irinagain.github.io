@@ -4,7 +4,7 @@ title: Irina Gaynanova
 subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 ---
 
-Irina Gaynanova an Assistant Professor in the Department of Statistics at Texas A&M University. She received her PhD in Statistics from Cornell University in 2015. 
+Irina Gaynanova is an Assistant Professor in the Department of Statistics at Texas A&M University. She received her PhD in Statistics from Cornell University in 2015. 
 
 Dr. Gaynanova’s teaching methods emphasize reproducible research practices, statistical computing and communication skills; her goal being to prepare students for STEM-oriented careers. Her teaching has been recognized with a Cornelia Ye Outstanding Teaching Assistant Award at Cornell University, she also serves as a faculty mentor in the Academy for Future Faculty at Texas A&M University.
 
