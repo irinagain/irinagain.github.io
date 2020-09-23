@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Statistical methods for Continuous Glucose Monitoring (CGM) data
-bigimg: /img/tsplot1subject.pdf
+bigimg: /img/tsplot1subject1024_1.jpg
 ---
 
 Diabetes is a chronic disease resulting from the pancreatic inability to produce insulin in reaction to blood glucose levels. There are two main types of diabetes. Type 1 diabetes is characterized by absolute insulin deficiency, whereas Type 2 is characterized by insulin resistance. In 2014, approximately $422$ million people worldwide were living with Type 1 or 2 diabetes, with $30$ million people being affected in the US alone.  High levels of blood glucose observed in diabetes lead to increased risk of adverse health effects including retinopathy, cardiovascular disease, lower extremity amputations  cognitive dysfunction, and premature morbidity and mortality. Thus, the primary treatment goal in diabetes is glucose control. However, a normal glucose profile is non-constant, with typical normal values varying between $70$-$120$ mg/dL and peaks associated with meal intakes. The highly non-linear and non-stationary nature of glucose profiles is due to a wide range of environmental factors including time, quantity and composition of meals, physical activity time, intensity and type, stress, and sleep quality.
