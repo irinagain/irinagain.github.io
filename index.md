@@ -19,6 +19,7 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 		<strong>Office:</strong> 458D Blocker <br>
 		<strong>Email:</strong> irinag [at] stat.tamu.edu <br>
 		<a href = "https://irinagain.github.io/Resources/IrinaGaynanovaCV.pdf"> Click here for CV</a>
+		<a href = "https://irinagain.github.io/bio"> Click here for short Bio</a>
 		</p>
 	</div>
 </div>
