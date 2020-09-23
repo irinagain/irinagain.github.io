@@ -25,7 +25,9 @@ description: Personal website
 navbar-links:
   Home: "index"
   Group: "group"
-  Research: "research"
+  Research: 
+    - Overview: "research"
+    - CGM: "CGM"
   Publications: "publications"
   Teaching: "teaching"
   Misc: "resources"
