@@ -30,6 +30,8 @@ Our team has released [a list of public Continuous Glucose Monitoring (CGM) data
 
 ### Relevant publications:
 
- * **Gaynanova I**, Punjabi N and Crainiceanu, C (2020+). [Modeling continuous glucose monitoring (CGM) data during sleep.](https://doi.org/10.1093/biostatistics/kxaa023) *Biostatistics*, accepted. [[R code]](irinagain/cgm-multi-level-beta)
+ * Broll S\*, Urbanek J, Buchanan D\*, Chun E\*, Muschelli J, Punjabi N and **Gaynanova I** (2020+).[Interpreting blood glucose data with R package iglu.](https://doi.org/10.1101/2020.09.28.310482) *bioRxiv* [[R package]](https://cran.rstudio.com/web/packages/iglu/index.html)
+
+ * **Gaynanova I**, Punjabi N and Crainiceanu C (2020+). [Modeling continuous glucose monitoring (CGM) data during sleep.](https://doi.org/10.1093/biostatistics/kxaa023) *Biostatistics*, accepted. [[R code]](irinagain/cgm-multi-level-beta)
 
  * **Gaynanova I**, Urbanek J and Punjabi N (2018). [Letter to the Editor: Corrections of equations on glycemic variability and quality of glycemic control.](https://www.liebertpub.com/doi/pdfplus/10.1089/dia.2018.0057) *Diabetes Technology & Therapeutics*, Vol. 20, No. 4, 317.

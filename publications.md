@@ -8,6 +8,8 @@ bigimg: /img/DSCN2128.JPG
 
 ## Pre-prints:
 
+Broll S\*, Urbanek J, Buchanan D\*, Chun E\*, Muschelli J, Punjabi N and **Gaynanova I** (2020+).[Interpreting blood glucose data with R package iglu.](https://doi.org/10.1101/2020.09.28.310482) *bioRxiv* [[R package]](https://cran.rstudio.com/web/packages/iglu/index.html)
+
 Yoon G\*, Müller C and **Gaynanova I** (2020+). [Fast computation of latent correlations.](https://arxiv.org/abs/2006.13875) *arXiv stat.CO* [[R package]](https://github.com/irinagain/mixedCCA) [[R code to reproduce simulations]](https://github.com/GraceYoon/Fast-latent-correlation)
 
 Risk B and **Gaynanova I** (2020+). [Simultaneous Non-Gaussian Component Analysis (SING) for Data Integration in Neuroimaging](https://arxiv.org/abs/2005.00597) *arXiv stat.ML* [[R code]](https://github.com/irinagain/SING)
@@ -16,11 +18,12 @@ Zhang Y\* and **Gaynanova I** (2020+). [Joint association and classification ana
 
 Lapanowski A\* and **Gaynanova I** (2020+). [Compressing Large Sample Data for Discriminant Analysis](https://arxiv.org/abs/2005.03858) *arXiv stat.ML*
 
+
 ## Peer-reviewed:	
 
 ### 2020
 
-**Gaynanova I**, Punjabi N and Crainiceanu, C (2020+). [Modeling continuous glucose monitoring (CGM) data during sleep.](https://doi.org/10.1093/biostatistics/kxaa023) *Biostatistics*, accepted. [[R code]](irinagain/cgm-multi-level-beta)
+**Gaynanova I**, Punjabi N and Crainiceanu C (2020+). [Modeling continuous glucose monitoring (CGM) data during sleep.](https://doi.org/10.1093/biostatistics/kxaa023) *Biostatistics*, accepted. [[R code]](irinagain/cgm-multi-level-beta)
 
 Yoon G\*, Carroll R and **Gaynanova I** (2020). [Sparse semiparametric canonical correlation analysis for data of mixed types.](https://academic.oup.com/biomet/article/doi/10.1093/biomet/asaa007/5820553) *Biometrika*, Vol. 107, No. 3, 609-625. [[R package]](https://github.com/irinagain/mixedCCA)
 
@@ -42,7 +45,7 @@ Lederer J, Lu Y and **Gaynanova I** (2019). [Oracle inequalities for high-dimens
 
 ### 2018
 
-Hokamp J, Leidy S, **Gaynanova, I**, Cianciolo R and Nabity M (2018). [Correlation of electrophoretic urine protein banding patterns with severity of renal damage in dogs with proteinuric chronic kidney disease.](https://onlinelibrary.wiley.com/doi/full/10.1111/vcp.12648) *Veterinary Clinical Pathology*, Vol. 47, No. 3, 425-434.
+Hokamp J, Leidy S, **Gaynanova I**, Cianciolo R and Nabity M (2018). [Correlation of electrophoretic urine protein banding patterns with severity of renal damage in dogs with proteinuric chronic kidney disease.](https://onlinelibrary.wiley.com/doi/full/10.1111/vcp.12648) *Veterinary Clinical Pathology*, Vol. 47, No. 3, 425-434.
 
 Li G and **Gaynanova I** (2018). [A general framework for association analysis of heterogeneous data.](http://dx.doi.org/10.1214/17-AOAS1127) *Annals of Applied Statistics*, Vol 12, No. 3, 1700-1726. [[MATLAB code]](https://github.com/reagan0323/GAS)
 
