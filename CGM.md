@@ -20,7 +20,7 @@ Our team has released [a list of public Continuous Glucose Monitoring (CGM) data
 
 
 ### Software products:
- * R package **iglu** for calculating various metrics from CGM glucose profiles, and visualizing the data. [Github repository](https://github.com/irinagain/iglu), [CRAN version]((https://cran.rstudio.com/web/packages/iglu/index.html)) and [accompanying website](https://irinagain.github.io/iglu/). The package has graphical user interface via shinay app, which can be accessed locally after installing the package, or directly from the website (see below). To cite the current version of the package:
+ * R package **iglu** for calculating various metrics from CGM glucose profiles, and visualizing the data. [Github repository](https://github.com/irinagain/iglu), [CRAN version](https://CRAN.R-project.org/package=iglu) and [accompanying website](https://irinagain.github.io/iglu/). The package has graphical user interface via shinay app, which can be accessed locally after installing the package, or directly from the website (see below). To cite the current version of the package:
  
     * Broll, S., Urbanek J., Buchanan D., Chun E., Muschelli J., Schwenck J., Martin M., Patel P., Hicban M., Nguyen N. and Gaynanova I. (2020) iglu: Interpreting Glucose Data from Continuous Glucose Monitors. R package version 2.0.1
  
