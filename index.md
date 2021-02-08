@@ -30,6 +30,11 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+
+* **January 2021:** Irina is a guest on Pod of Asclepius podcast talking about her team's work on Continuous Glucose Monitors. [YouTube video](https://youtu.be/TVX66NixIrA) and [PodBean](https://podofasclepius.podbean.com).
+
+* **December 2020:** Irina took part in a virtual NISS career panel, the panel summary is [here](https://www.niss.org/news/niss-career-fair-continues-discussion-advice-job-seekers-during-pandemic).
+
 * **September 2020:** A new manuscript on *"Interpreting blood glucose data with R package iglu."* is now available on [bioRxiv](https://doi.org/10.1101/2020.09.28.310482).
 
 * **September 2020:** Our team has released version 2 of [an R package iglu for analysis of Continuous Glucose Monitoring (CGM) data](https://github.com/irinagain/iglu). The package is also available from CRAN ([iglu](https://cran.rstudio.com/web/packages/iglu/index.html)) and you can learn more about it from the [accompanying website](https://irinagain.github.io/iglu/). All the functionality is also available directly as the [shiny app](https://irinagain.shinyapps.io/shiny_iglu/). The introductory paper/extended vignette is coming soon!
