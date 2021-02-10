@@ -30,6 +30,7 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **February 2021:** Irina receives [a CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2044823&HistoricalAwards=false) from the National Science Foundation (NSF)
 
 * **January 2021:** Irina is a guest on Pod of Asclepius podcast talking about her team's work on Continuous Glucose Monitors. [YouTube video](https://youtu.be/TVX66NixIrA) and [PodBean](https://podofasclepius.podbean.com).
 
@@ -44,7 +45,9 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 * **June 2020:** Our team has released [a list of public Continuous Glucose Monitoring (CGM) datasets](https://github.com/irinagain/Awesome-CGM). Thank you to an amazing team of undergraduate researchers: Mary Martin, Elizabeth Chun, David Buchanan, Eric Wang and Sangaman Senthil who assembled this collection as part of their [Aggie Research Project](https://aggieresearch.tamu.edu).
 
+<!--
 * **June 2020:** Congratulations to [Alex Lapanowski](https://sites.google.com/view/alexander-f-lapanowski/home) and Yunfeng Zhang for succesfully defending their PhD dissertations!
+
 
 * **May 2020:** A new manuscript with [Naresh Punjabi](https://www.hopkinsmedicine.org/profiles/results/directory/profile/0005817/naresh-punjabi//) and [Ciprian Crainiceanu](http://ciprianstats.org/home) on *"Modeling continuous glucose monitoring (CGM) data during sleep."* has appeared in [Biostatistics](https://doi.org/10.1093/biostatistics/kxaa023)
 
@@ -56,7 +59,7 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 * **September 2019:** [Cornell Department of Statistics and Data Science](https://stat.cornell.edu) features [a conversation with Irina](https://stat.cornell.edu/alumni/alumni-profiles/irina-gaynanova-stats-phd-15) about her time at Cornell and advice for pursuing career in data science. 
 
-<!--
+
 * **June 2019:** A manuscript with [Gen Li](https://sites.google.com/view/ligen), *"Structural Learning and Integrative Decomposition of Multi-View Data"*, has been accepted to [Biometrics](https://doi.org/10.1111/biom.13108).
 
 * **June 2019:** A manuscript with [Grace Yoon](http://www.stat.tamu.edu/~gyoon/) and [Christian L Müller](https://www.simonsfoundation.org/team/christian-muller/), *Microbial networks in SPRING - Semi-parametric rank-based correlation and partial correlation estimation for quantitative microbiome data* has been accepted to [Frontiers in Genetics](https://www.frontiersin.org/articles/10.3389/fgene.2019.00516/full) for the special Research Topic on "Statistical and Computational Methods for Microbiome Multi-Omics Data"
