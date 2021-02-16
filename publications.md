@@ -8,22 +8,24 @@ bigimg: /img/DSCN2128.JPG
 
 ## Pre-prints:
 
-Broll S\*, Urbanek J, Buchanan D\*, Chun E\*, Muschelli J, Punjabi N and **Gaynanova I** (2020+).[Interpreting blood glucose data with R package iglu.](https://doi.org/10.1101/2020.09.28.310482) *bioRxiv* [[R package]](https://cran.rstudio.com/web/packages/iglu/index.html)
+Broll S\*, Urbanek J, Buchanan D\*, Chun E\*, Muschelli J, Punjabi N and **Gaynanova I** (2021+).[Interpreting blood glucose data with R package iglu.](https://doi.org/10.1101/2020.09.28.310482) *bioRxiv* [[R package]](https://cran.rstudio.com/web/packages/iglu/index.html)
 
-Yoon G\*, Müller C and **Gaynanova I** (2020+). [Fast computation of latent correlations.](https://arxiv.org/abs/2006.13875) *arXiv stat.CO* [[R package]](https://github.com/irinagain/mixedCCA) [[R code to reproduce simulations]](https://github.com/GraceYoon/Fast-latent-correlation)
+Risk B and **Gaynanova I** (2021+). [Simultaneous Non-Gaussian Component Analysis (SING) for Data Integration in Neuroimaging](https://arxiv.org/abs/2005.00597) *arXiv stat.ML* [[R code]](https://github.com/irinagain/SING)
 
-Risk B and **Gaynanova I** (2020+). [Simultaneous Non-Gaussian Component Analysis (SING) for Data Integration in Neuroimaging](https://arxiv.org/abs/2005.00597) *arXiv stat.ML* [[R code]](https://github.com/irinagain/SING)
+Zhang Y\* and **Gaynanova I** (2021+). [Joint association and classification analysis of multi-view data.](https://arxiv.org/abs/1811.08511) *arXiv stat.ML* [[R package]](https://github.com/Pennisetum/JACA)
 
-Zhang Y\* and **Gaynanova I** (2020+). [Joint association and classification analysis of multi-view data.](https://arxiv.org/abs/1811.08511) *arXiv stat.ML* [[R package]](https://github.com/Pennisetum/JACA)
-
-Lapanowski A\* and **Gaynanova I** (2020+). [Compressing Large Sample Data for Discriminant Analysis](https://arxiv.org/abs/2005.03858) *arXiv stat.ML*
+Lapanowski A\* and **Gaynanova I** (2021+). [Compressing Large Sample Data for Discriminant Analysis](https://arxiv.org/abs/2005.03858) *arXiv stat.ML*
 
 
 ## Peer-reviewed:	
 
-### 2020
+### 2021
 
-**Gaynanova I**, Punjabi N and Crainiceanu C (2020+). [Modeling continuous glucose monitoring (CGM) data during sleep.](https://doi.org/10.1093/biostatistics/kxaa023) *Biostatistics*, accepted. [[R code]](irinagain/cgm-multi-level-beta)
+Yoon G\*, Müller C and **Gaynanova I** (2021+). [Fast computation of latent correlations.](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1882468) *Journal of Computational and Graphical Statistics*, accepted. [[R package]](https://github.com/irinagain/mixedCCA) [[R code to reproduce simulations]](https://github.com/GraceYoon/Fast-latent-correlation)
+
+**Gaynanova I**, Punjabi N and Crainiceanu C (2021+). [Modeling continuous glucose monitoring (CGM) data during sleep.](https://doi.org/10.1093/biostatistics/kxaa023) *Biostatistics*, accepted. [[R code]](irinagain/cgm-multi-level-beta)
+
+### 2020
 
 Taylor NJ, **Gaynanova I**, Eschrich SA, Welsh EA, Garrett TJ, Beecher C, Sharma R, Koomen JM, Smalley KSM, Messina JL, Kanetsky PA (2020). [Metabolomics of primary cutaneous melanoma and matched adjacent extratumoral microenvironment.](https://doi.org/10.1371/journal.pone.0240849) *PLoS One*, Vol. 15, No.10, e0240849. 
 

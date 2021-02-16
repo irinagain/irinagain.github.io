@@ -30,6 +30,9 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **February 2021:** A manuscript with  with [Grace Yoon](http://www.stat.tamu.edu/~gyoon/) and [Christian L Müller](https://www.simonsfoundation.org/team/christian-muller/) on 
+*"Fast computation of latent correlations"* has appeared in [JCGS](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1882468). Check out [[R code to reproduce simulations]](https://github.com/GraceYoon/Fast-latent-correlation) and the improved [[R package]](https://github.com/irinagain/mixedCCA) to estimate latent correlations for mixed (continuous, binary and zero-inflated) variable types.
+
 * **February 2021:** Irina receives [a CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2044823&HistoricalAwards=false) from the National Science Foundation (NSF)
 
 * **January 2021:** Irina is a guest on Pod of Asclepius podcast talking about her team's work on Continuous Glucose Monitors. [YouTube video](https://youtu.be/TVX66NixIrA) and [PodBean](https://podofasclepius.podbean.com).
@@ -39,9 +42,6 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 * **September 2020:** A new manuscript on *"Interpreting blood glucose data with R package iglu."* is now available on [bioRxiv](https://doi.org/10.1101/2020.09.28.310482).
 
 * **September 2020:** Our team has released version 2 of [an R package iglu for analysis of Continuous Glucose Monitoring (CGM) data](https://github.com/irinagain/iglu). The package is also available from CRAN ([iglu](https://cran.rstudio.com/web/packages/iglu/index.html)) and you can learn more about it from the [accompanying website](https://irinagain.github.io/iglu/). All the functionality is also available directly as the [shiny app](https://irinagain.shinyapps.io/shiny_iglu/). The introductory paper/extended vignette is coming soon!
-
-* **June 2020:** A new manuscript with [Grace Yoon](http://www.stat.tamu.edu/~gyoon/) and [Christian L Müller](https://www.simonsfoundation.org/team/christian-muller/) on 
-*"Fast computation of latent correlations"* is now available on [arXiv](https://arxiv.org/abs/2006.13875). Check out [[R code to reproduce simulations]](https://github.com/GraceYoon/Fast-latent-correlation) and the improved [[R package]](https://github.com/irinagain/mixedCCA) to estimate latent correlations for mixed (continuous, binary and zero-inflated) variable types.
 
 * **June 2020:** Our team has released [a list of public Continuous Glucose Monitoring (CGM) datasets](https://github.com/irinagain/Awesome-CGM). Thank you to an amazing team of undergraduate researchers: Mary Martin, Elizabeth Chun, David Buchanan, Eric Wang and Sangaman Senthil who assembled this collection as part of their [Aggie Research Project](https://aggieresearch.tamu.edu).
 
