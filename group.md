@@ -31,11 +31,11 @@ title: Group
 <div class="row">&nbsp;</div>
 
 <div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
+	<!--<div class="col-md-3"><a class="thumb" href="#">
 		<img src="http://heech31.github.io" class="img-responsive" alt="Hee Cheol Chung"/></a>
-	</div>
+	</div>-->
 	<div class="col-md-6">
-		<p> Hee Cheol Chung <br>
+		<p> [Hee Cheol Chung](http://heech31.github.io) <br>
 		Postdoctoral Research Associate	</p>
 	</div>
 </div>
