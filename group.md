@@ -31,9 +31,9 @@ title: Group
 <div class="row">&nbsp;</div>
 
 <div class="row">
-	<!--<div class="col-md-3"><a class="thumb" href="#">
-		<img src="https://irinagain.github.io/img/GraceYoon.jpg" class="img-responsive" alt="Grace Yoon"/></a>
-	</div>-->
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="http://heech31.github.io" class="img-responsive" alt="Hee Cheol Chung"/></a>
+	</div>
 	<div class="col-md-6">
 		<p> Hee Cheol Chung <br>
 		Postdoctoral Research Associate	</p>
