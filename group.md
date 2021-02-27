@@ -35,7 +35,7 @@ title: Group
 		<img src="http://heech31.github.io" class="img-responsive" alt="Hee Cheol Chung"/></a>
 	</div>-->
 	<div class="col-md-6">
-		<p> [Hee Cheol Chung](http://heech31.github.io) <br>
+		<p> <a href="https://heech31.github.io"> Hee Cheol Chung </a> <br>
 		Postdoctoral Research Associate	</p>
 	</div>
 </div>
