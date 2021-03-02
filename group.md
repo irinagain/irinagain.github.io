@@ -74,18 +74,17 @@ title: Group
 
 ### Undergraduate students (through [Aggie Research Program](https://aggieresearch.tamu.edu))
 
-* Elizabeth Chun
-* Mary Martin
-* Pratik Patel
-* Nhan Nguyen
-* Marielle Hicban
-* Ashok Meyyappan
-* Nathaniel Fernandez
+* David Buchanan (STAT)
+* Elizabeth Chun (BMCB)
+* Marielle Hicban (BMEN)
+* Nathaniel Fernandez (ENGE)
+* Johnathan Shih (STAT)
+* Jung Hoon Seo (CPSC)
 
 
 ## RESEARCH GROUP ALUMNI
 
-### Postdocs and graduate students
+### Postdocs and graduate students 
 
 * [Tianying Wang](https://tianyingw.github.io). Now an Assistant Professor at  Tsinghua University Center of Statistical Science
 
@@ -95,12 +94,9 @@ title: Group
 
 * Alex Lapanowski. Now Senior Scientist at SABIC.
 
-### Undergraduate students
+### Undergraduate students 
 
-* Steven Broll
-* Eric Wang
-* Sangaman Senthil
-* David Buchanan
+Steven Broll (STAT), Eric Wang (ENGE), Sangaman Senthil (INEN), Nhan Nguyen (ENGE), Mary Martin (STAT), Pratik Patel (STAT), Ashok Meyyappan (SPSC)
 
 
 
