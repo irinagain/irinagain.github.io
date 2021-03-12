@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Media
-bigimg: /img/DSCN2128.JPG
+bigimg: /img/DSCN1639.JPG
 ---
 
 
