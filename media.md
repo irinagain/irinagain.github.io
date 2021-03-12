@@ -16,6 +16,6 @@ bigimg: /img/DSCN1639.JPG
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BLtN4gYBN0g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* **March 2018:** Irina is the recipient of the 2018 David P. Byar Young Investigator Award for the first-place paper [*"Structural Learning and Integrative Decomposition of Multi-View Data"*](https://arxiv.org/abs/1707.06573), joint work with [Gen Li](https://sites.google.com/view/ligen), Columbia University Mailman School of Public Health. [Texas A&M Science article featuring the award](http://www.science.tamu.edu/articles/1922)
+* **March 2018:** Irina is the recipient of the 2018 David P. Byar Young Investigator Award for the first-place paper [*"Structural Learning and Integrative Decomposition of Multi-View Data"*](https://arxiv.org/abs/1707.06573), joint work with [Gen Li](https://sites.google.com/view/ligen), Columbia University Mailman School of Public Health. [Texas A&M Science article featuring the award](https://science.tamu.edu/news/2018/03/texas-am-statistician-irina-gaynanova-earns-byar-young-investigator-award/)
 
 * **July 2013:** [Interview with Irina](https://stat.cornell.edu/news/student-profiles/irina-gaynanova-statistical-science-phd-student) by [Cornell Department of Statistics and Data Science](https://stat.cornell.edu) on why she decided to pursue PhD in Statistics
