@@ -23,7 +23,7 @@ Lapanowski A\* and **Gaynanova I** (2021+). [Compressing Large Sample Data for D
 
 Yoon G\*, Müller C and **Gaynanova I** (2021+). [Fast computation of latent correlations.](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1882468) *Journal of Computational and Graphical Statistics*, accepted. [[R package]](https://github.com/irinagain/mixedCCA) [[R code to reproduce simulations]](https://github.com/GraceYoon/Fast-latent-correlation)
 
-**Gaynanova I**, Punjabi N and Crainiceanu C (2021+). [Modeling continuous glucose monitoring (CGM) data during sleep.](https://doi.org/10.1093/biostatistics/kxaa023) *Biostatistics*, accepted. [[R code]](irinagain/cgm-multi-level-beta)
+**Gaynanova I**, Punjabi N and Crainiceanu C (2021+). [Modeling continuous glucose monitoring (CGM) data during sleep.](https://doi.org/10.1093/biostatistics/kxaa023) *Biostatistics*, accepted. [[R code]](https://github.com/irinagain/cgm-multi-level-beta)
 
 ### 2020
 
@@ -35,7 +35,7 @@ Yoon G\*, Carroll R and **Gaynanova I** (2020). [Sparse semiparametric canonical
 
 ### 2019 
 
-**Gaynanova I** and Li G (2019). [Structural learning and integrative decomposition of multi-view data.](https://doi.org/10.1111/biom.13108) *Biometrics*, Vol. 75, No. 4, 1121-1132.
+**Gaynanova I** and Li G (2019). [Structural learning and integrative decomposition of multi-view data.](https://doi.org/10.1111/biom.13108) *Biometrics*, Vol. 75, No. 4, 1121-1132. [[R package]](https://github.com/irinagain/SLIDE)
 
 Bien J, **Gaynanova I**, Lederer J and Müller C (2019). [Prediction Error Bounds for Linear Regression With the TREX.](https://link.springer.com/article/10.1007/s11749-018-0584-4) *TEST*, Vol. 28, No. 2, 451-474.
 
