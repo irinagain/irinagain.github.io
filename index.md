@@ -33,7 +33,7 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 * **February 2021:** A manuscript with  with [Grace Yoon](http://www.stat.tamu.edu/~gyoon/) and [Christian L Müller](https://www.simonsfoundation.org/team/christian-muller/) on 
 *"Fast computation of latent correlations"* has appeared in [JCGS](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1882468). Check out [[R code to reproduce simulations]](https://github.com/GraceYoon/Fast-latent-correlation) and the improved [[R package]](https://github.com/irinagain/mixedCCA) to estimate latent correlations for mixed (continuous, binary and zero-inflated) variable types.
 
-* **February 2021:** Irina receives [a CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2044823&HistoricalAwards=false) from the National Science Foundation (NSF)
+* **February 2021:** Irina receives [a CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2044823&HistoricalAwards=false) from the National Science Foundation (NSF). TAMU College of Science [press release](https://science.tamu.edu/news/2021/03/two-texas-am-science-faculty-earn-2021-nsf-career-awards/).
 
 * **January 2021:** Irina is a guest on Pod of Asclepius podcast talking about her team's work on Continuous Glucose Monitors. [YouTube video](https://youtu.be/TVX66NixIrA) and [PodBean](https://podofasclepius.podbean.com).
 
