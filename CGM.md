@@ -22,16 +22,15 @@ Our team has released [a list of public Continuous Glucose Monitoring (CGM) data
 ### Software products:
  * R package **iglu** for calculating various metrics from CGM glucose profiles, and visualizing the data. [Github repository](https://github.com/irinagain/iglu), [CRAN version](https://CRAN.R-project.org/package=iglu) and [accompanying website](https://irinagain.github.io/iglu/). The package has graphical user interface via shinay app, which can be accessed locally after installing the package, or directly from the website (see below). To cite the current version of the package:
  
-    * Broll, S., Urbanek J., Buchanan D., Chun E., Muschelli J., Schwenck J., Martin M., Patel P., Hicban M., Nguyen N. and Gaynanova I. (2020) iglu: Interpreting Glucose Data from Continuous Glucose Monitors. R package version 2.0.1
- 
+ * Broll, S., Urbanek J., Buchanan D., Chun E., Muschelli J., Schwenck J., Martin M., Patel P., Hicban M., Nguyen N. and Gaynanova I. (2020) iglu: Interpreting Glucose Data from Continuous Glucose Monitors. R package version 2.0.1
  
  * [Shiny app for **iglu**](https://irinagain.shinyapps.io/shiny_iglu/). R package **iglu** functionality directly via graphical user interface.
 
 
 ### Relevant publications:
 
- * Broll S\*, Urbanek J, Buchanan D\*, Chun E\*, Muschelli J, Punjabi N and **Gaynanova I** (2020+).[Interpreting blood glucose data with R package iglu.](https://doi.org/10.1101/2020.09.28.310482) *bioRxiv* [[R package]](https://cran.rstudio.com/web/packages/iglu/index.html)
+ * Broll S\*, Urbanek J, Buchanan D\*, Chun E\*, Muschelli J, Punjabi N and **Gaynanova I** (2021).[Interpreting blood glucose data with R package iglu.](https://doi.org/10.1371/journal.pone.0248560) *PLoS One*, Vol. 16, No. 4, e0248560. [[R package]](https://cran.rstudio.com/web/packages/iglu/index.html)
 
- * **Gaynanova I**, Punjabi N and Crainiceanu C (2020+). [Modeling continuous glucose monitoring (CGM) data during sleep.](https://doi.org/10.1093/biostatistics/kxaa023) *Biostatistics*, accepted. [[R code]](irinagain/cgm-multi-level-beta)
+ * **Gaynanova I**, Punjabi N and Crainiceanu C (2021+). [Modeling continuous glucose monitoring (CGM) data during sleep.](https://doi.org/10.1093/biostatistics/kxaa023) *Biostatistics*, accepted. [[R code]](irinagain/cgm-multi-level-beta)
 
  * **Gaynanova I**, Urbanek J and Punjabi N (2018). [Letter to the Editor: Corrections of equations on glycemic variability and quality of glycemic control.](https://www.liebertpub.com/doi/pdfplus/10.1089/dia.2018.0057) *Diabetes Technology & Therapeutics*, Vol. 20, No. 4, 317.

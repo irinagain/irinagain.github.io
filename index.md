@@ -30,6 +30,8 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **April 2021:** Our paper on *"Interpreting blood glucose data with R package iglu."* has been accepted to [PLoS one](https://doi.org/10.1371/journal.pone.0248560). You can download iglu from [CRAN](https://cran.rstudio.com/web/packages/iglu/index.html) or install from [Github](https://github.com/irinagain/iglu) for most recent developments. All the functionality is also available directly as the [shiny app](https://irinagain.shinyapps.io/shiny_iglu/).
+
 * **February 2021:** A manuscript with  with [Grace Yoon](http://www.stat.tamu.edu/~gyoon/) and [Christian L Müller](https://www.simonsfoundation.org/team/christian-muller/) on 
 *"Fast computation of latent correlations"* has appeared in [JCGS](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1882468). Check out [[R code to reproduce simulations]](https://github.com/GraceYoon/Fast-latent-correlation) and the improved [[R package]](https://github.com/irinagain/mixedCCA) to estimate latent correlations for mixed (continuous, binary and zero-inflated) variable types.
 
@@ -39,13 +41,14 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 * **December 2020:** Irina took part in a virtual NISS career panel, the panel summary is [here](https://www.niss.org/news/niss-career-fair-continues-discussion-advice-job-seekers-during-pandemic).
 
-* **September 2020:** A new manuscript on *"Interpreting blood glucose data with R package iglu."* is now available on [bioRxiv](https://doi.org/10.1101/2020.09.28.310482).
-
-* **September 2020:** Our team has released version 2 of [an R package iglu for analysis of Continuous Glucose Monitoring (CGM) data](https://github.com/irinagain/iglu). The package is also available from CRAN ([iglu](https://cran.rstudio.com/web/packages/iglu/index.html)) and you can learn more about it from the [accompanying website](https://irinagain.github.io/iglu/). All the functionality is also available directly as the [shiny app](https://irinagain.shinyapps.io/shiny_iglu/). The introductory paper/extended vignette is coming soon!
 
 * **June 2020:** Our team has released [a list of public Continuous Glucose Monitoring (CGM) datasets](https://github.com/irinagain/Awesome-CGM). Thank you to an amazing team of undergraduate researchers: Mary Martin, Elizabeth Chun, David Buchanan, Eric Wang and Sangaman Senthil who assembled this collection as part of their [Aggie Research Project](https://aggieresearch.tamu.edu).
 
 <!--
+* **September 2020:** Our team has released version 2 of [an R package iglu for analysis of Continuous Glucose Monitoring (CGM) data](https://github.com/irinagain/iglu). The package is also available from CRAN ([iglu](https://cran.rstudio.com/web/packages/iglu/index.html)) and you can learn more about it from the [accompanying website](https://irinagain.github.io/iglu/). All the functionality is also available directly as the [shiny app](https://irinagain.shinyapps.io/shiny_iglu/). The introductory paper/extended vignette is coming soon!
+
+
+* **September 2020:** A new manuscript on *"Interpreting blood glucose data with R package iglu."* is now available on [bioRxiv](https://doi.org/10.1101/2020.09.28.310482).
 * **June 2020:** Congratulations to [Alex Lapanowski](https://sites.google.com/view/alexander-f-lapanowski/home) and Yunfeng Zhang for succesfully defending their PhD dissertations!
 
 

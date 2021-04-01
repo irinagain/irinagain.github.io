@@ -8,7 +8,6 @@ bigimg: /img/DSCN2128.JPG
 
 ## Pre-prints:
 
-Broll S\*, Urbanek J, Buchanan D\*, Chun E\*, Muschelli J, Punjabi N and **Gaynanova I** (2021+).[Interpreting blood glucose data with R package iglu.](https://doi.org/10.1101/2020.09.28.310482) *bioRxiv* [[R package]](https://cran.rstudio.com/web/packages/iglu/index.html)
 
 Risk B and **Gaynanova I** (2021+). [Simultaneous Non-Gaussian Component Analysis (SING) for Data Integration in Neuroimaging](https://arxiv.org/abs/2005.00597) *arXiv stat.ML* [[R code]](https://github.com/irinagain/SING)
 
@@ -20,6 +19,8 @@ Lapanowski A\* and **Gaynanova I** (2021+). [Compressing Large Sample Data for D
 ## Peer-reviewed:	
 
 ### 2021
+
+Broll S\*, Urbanek J, Buchanan D\*, Chun E\*, Muschelli J, Punjabi N and **Gaynanova I** (2021).[Interpreting blood glucose data with R package iglu.](https://doi.org/10.1371/journal.pone.0248560) *PLoS One*, Vol. 16, No. 4, e0248560. [[R package]](https://cran.rstudio.com/web/packages/iglu/index.html)
 
 Yoon G\*, Müller C and **Gaynanova I** (2021+). [Fast computation of latent correlations.](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1882468) *Journal of Computational and Graphical Statistics*, accepted. [[R package]](https://github.com/irinagain/mixedCCA) [[R code to reproduce simulations]](https://github.com/GraceYoon/Fast-latent-correlation)
 
