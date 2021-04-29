@@ -30,6 +30,8 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **April 2021:** Irina is a guest on [Data & Science podcast with Glen Wright Colopy](https://podofasclepius.podbean.com) talking about Replicability and Reproducibility in Scince. [YouTube video](https://youtu.be/MJwsfiEMFL8) and [PodBean](https://www.podbean.com/ew/pb-qcpza-101d795)
+
 * **April 2021:** A manuscript with [Ben Risk](http://www.benjaminrisk.com) on *"Simultaneous Non-Gaussian Component Analysis (SING) for Data Integration in Neuroimaging"* has ben accepted to [Annals of Applied Statistics](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/45797?confirm=4748e846). 
 
 * **April 2021:** Our paper on *"Interpreting blood glucose data with R package iglu."* has been accepted to [PLoS one](https://doi.org/10.1371/journal.pone.0248560). You can download iglu from [CRAN](https://cran.rstudio.com/web/packages/iglu/index.html) or install from [Github](https://github.com/irinagain/iglu) for most recent developments. All the functionality is also available directly as the [shiny app](https://irinagain.shinyapps.io/shiny_iglu/).

@@ -4,6 +4,8 @@ title: Media
 bigimg: /img/DSCN1639.JPG
 ---
 
+* **April 2021:** Irina is a guest on [Data & Science podcast with Glen Wright Colopy](https://podofasclepius.podbean.com) talking about Replicability and Reproducibility in Scince. [YouTube video](https://youtu.be/MJwsfiEMFL8) and [PodBean](https://www.podbean.com/ew/pb-qcpza-101d795)
+
 * **February 2021:** Irina receives [a CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2044823&HistoricalAwards=false) from the National Science Foundation (NSF). TAMU College of Science [press release](https://science.tamu.edu/news/2021/03/two-texas-am-science-faculty-earn-2021-nsf-career-awards/).
 
 * **January 2021:** Irina is a guest on Pod of Asclepius video podcast talking about our team's work on Continuous Glucose Monitors. [YouTube video](https://youtu.be/TVX66NixIrA) and [PodBean](https://podofasclepius.podbean.com).
