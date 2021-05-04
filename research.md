@@ -11,17 +11,9 @@ My research focuses on the development of statistical methods for analysis of mo
 I believe that challenging applied problems give rise to better statistical methodology and my primary goal is to aid the discovery of scientifically meaningful low-dimensional structures in high-dimensional data. I believe that collaboration plays a key role in achieving this goal and I enjoy working with both domain scientists and methodological researchers. My research has been supported by the National Science Foundation and recognized with a David P. Byar Young Investigator Award from the Biometrics section of the American Statistical Association.
 
 
-<div class="container">
-<div class="row">&nbsp;</div>
-<div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="img/NSF_Logo.png" class="img-responsive" alt="NSF"/></a>
-	</div>
-	<div class="col-md-6">
-	
-	</div>
-</div>
-	
+
+<img src="img/NSF_Logo.png" alt="NSF" style="float: left; margin-right: 10px;/>
+
 
 **Summary of methodological interests:**
 
