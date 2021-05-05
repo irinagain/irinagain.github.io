@@ -4,7 +4,7 @@ title: Research
 bigimg: /img/DSCN0952.JPG
 ---
 
-<img src="img/NSF_Logo.png" alt="NSF" width="200"/>   
+<img src="https://irinagain.github.io/img/NSF_Logo.png" alt="NSF" width="200"/>   
 
 
 My research focuses on the development of statistical methods for analysis of modern high-dimensional biomedical data, and is at the intersection of applied, computational and theoretical statistics.
