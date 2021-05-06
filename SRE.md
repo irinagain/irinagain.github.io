@@ -1,5 +1,8 @@
---- layout: page title: SRE ---
-
+---
+layout: page
+title: Research
+bigimg: /img/DSCN0952.JPG
+---
 ## Structured Research Experience (SRE) in Statistics
 
 
@@ -32,7 +35,7 @@ A&M University
 
  Applicants must provide all materials in order
 to be considered:
- *	Submit an application [Google form]. The form will collect demographic information, information about coursework, any prior research experience, an essay question on why you want to participate, and ask you to upload the following documents.
+ *	Submit an application [Google form](https://forms.gle/wPiWoozEgajArGw46). The form will collect demographic information, information about coursework, any prior research experience, an essay question on why you want to participate, and ask you to upload the following documents.
 *	Unofficial transcript copy (pdf)
 *	Resume or CV (pdf) 
 *	Example of an R code created by the student (.R file)
