@@ -46,5 +46,5 @@ The deadline to submit all materials for Summer 2021 is **May 21,
 2021 by 11:59 PM.** All application materials and supporting documents
 must be submitted by this deadline to be considered.
 
-
+If you have any questions, please contact Dr. Gaynanova (irinag@stat.tamu.edu). 
 
