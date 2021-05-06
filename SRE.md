@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: SRE
 bigimg: /img/DSCN0952.JPG
 ---
 ## Structured Research Experience (SRE) in Statistics
