@@ -30,6 +30,8 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **May 2021:** Applications open for Summer 2021 [Structured Research Experience (SRE) in Statistics](https://irinagain.github.io/SRE/). All TAMU BS Statistics majors are welcome to apply.
+
 * **April 2021:** Irina is a guest on [Data & Science podcast with Glen Wright Colopy](https://podofasclepius.podbean.com) talking about Replicability and Reproducibility in Scince. [YouTube video](https://youtu.be/MJwsfiEMFL8) and [PodBean](https://www.podbean.com/ew/pb-qcpza-101d795)
 
 * **April 2021:** A manuscript with [Ben Risk](http://www.benjaminrisk.com) on *"Simultaneous Non-Gaussian Component Analysis (SING) for Data Integration in Neuroimaging"* has ben accepted to [Annals of Applied Statistics](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/45797?confirm=4748e846). 
