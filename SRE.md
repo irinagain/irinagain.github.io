@@ -29,14 +29,17 @@ A&M University
 *	Access to internet and technology in order to perform project remotely
 
 *Application*
+
  Applicants must provide all materials in order
 to be considered:
- *	Submit an application [Google form]. The form will collect demographic information, information about coursework, any prior research experience, and essay question on why you want to participate.
+ *	Submit an application [Google form]. The form will collect demographic information, information about coursework, any prior research experience, an essay question on why you want to participate, and ask you to upload the following documents.
 *	Unofficial transcript copy (pdf)
 *	Resume or CV (pdf) 
 *	Example of an R code created by the student (.R file)
 
-Deadline The deadline to submit all materials for Summer 2021 is **May 21,
+*Deadline*
+
+The deadline to submit all materials for Summer 2021 is **May 21,
 2021 by 11:59 PM.** All application materials and supporting documents
 must be submitted by this deadline to be considered.
 
