@@ -1,102 +1,31 @@
 ---
 layout: page
-title: Group
+title: GroupJoin
 ---
 
-## RESEARCH GROUP MEMBERS
+## Joining the research group
 
-### PI	
+### As an undergraduate student
 
-<div class="container">
-<div class="row">&nbsp;</div>
+If you are pursing a BS degree at TAMU, there are multiple opportunities to get involved.
 
-<div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="https://irinagain.github.io/img/IMG_3442.jpg" class="img-responsive" alt="Irina Gaynanova" /></a>
-	</div>
-	<div class="col-md-6">
-		<p> <a href="https://irinagain.github.io"> Irina Gaynanova </a> <br>
-		Assistant Professor of Statistics </p>
-	</div>
-</div>
+	* [Structured Research Experience (SRE)](https://irinagain.github.io/SRE) in Statistics. Currently only open to Statistics majors.
+	* [Statustics Summer Undergraduate Research Experience](https://stat.tamu.edu/academics/undergraduate-research/). Only open to Statistics majors, takes place every Summer.
+	* Team-based research through the [Aggie Research Network](https://aggieresearch.tamu.edu/undergraduates/). I typically have a project open each semester and recruit new team members. All majors are welcome and encouraged to apply, but the applicants are expected to have existing programming experience (preferably in R).
 
+### As a master student
 
-</div>
+If you are pursuing MS in Statistics at TAMU, and are interested in [Option 1](https://stat.tamu.edu/ms-statistics/), please email me to discuss possible research opportunities. 
 
-<!--![](img/IMG_3442.jpg) Irina Gaynanova -->
+### As a PhD student
 
-### Postdocs and graduate students
+If you have already been admitted to the PhD program in Statistics at TAMU, please email me to discuss possible research opportunities. 
 
-<div class="container">
-<div class="row">&nbsp;</div>
+Unfortunately I am unable to respond to most queries from prospective students who have not yet been admitted to the program, nor do I have an influence over the admission process.  When you are applying, you apply to the program, not to an advisor.
+The information about the application process and necessary materials can be found [here](http://www.stat.tamu.edu/graduate-admissions/). 
 
-<div class="row">
-	<!--<div class="col-md-3"><a class="thumb" href="#">
-		<img src="http://heech31.github.io" class="img-responsive" alt="Hee Cheol Chung"/></a>
-	</div>-->
-	<div class="col-md-6">
-		<p> <a href="https://heech31.github.io"> Hee Cheol Chung </a> <br>
-		Postdoctoral Research Associate	</p>
-	</div>
-</div>
+### As a postdoc	
 
-<div class="row">
-	<!--<div class="col-md-3"><a class="thumb" href="#">
-		<img src="https://irinagain.github.io/img/GraceYoon.jpg" class="img-responsive" alt="Grace Yoon"/></a>
-	</div>-->
-	<div class="col-md-6">
-		<p>Sangyoon Yi <br>
-		Postdoctoral Research Associate	</p>
-	</div>
-</div>
-
-<div class="row">
-	<!--<div class="col-md-3"><a class="thumb" href="#">
-		<img src="https://irinagain.github.io/img/Dongbang.jpg" class="img-responsive" alt="Dongbang"/></a>
-	</div>-->
-	<div class="col-md-6">
-		<p>Dongbang Yuan <br>
-		PhD Student in Statistics	</p>
-	</div>
-</div>
-
-<div class="row">
-	<!--<div class="col-md-3"><a class="thumb" href="#">
-		<img src="https://irinagain.github.io/img/Dongbang.jpg" class="img-responsive" alt="Dongbang"/></a>
-	</div>-->
-	<div class="col-md-6">
-		<p>John Schwenck <br>
-		MS Student in Statistics	</p>
-	</div>
-</div>
-
-</div>
-
-### Undergraduate students (through [Aggie Research Program](https://aggieresearch.tamu.edu))
-
-* David Buchanan (STAT)
-* Elizabeth Chun (BMCB)
-* Marielle Hicban (BMEN)
-* Nathaniel Fernandez (ENGE)
-* Johnathan Shih (STAT)
-* Jung Hoon Seo (CPSC)
-
-
-## RESEARCH GROUP ALUMNI
-
-### Postdocs and graduate students 
-
-* [Tianying Wang](https://tianyingw.github.io). Now an Assistant Professor at  Tsinghua University Center of Statistical Science
-
-* [Grace Yoon](http://www.stat.tamu.edu/~gyoon/). Now a Mathematical Statistician at US Department of Agriculture, National Agricultural Statistics Service (NASS).
-
-* Yunfeng Zhang. Now Data and Applied Scientist at Microsoft.
-
-* Alex Lapanowski. Now Senior Scientist at SABIC.
-
-### Undergraduate students 
-
-Steven Broll (STAT), Eric Wang (ENGE), Sangaman Senthil (INEN), Nhan Nguyen (ENGE), Mary Martin (STAT), Pratik Patel (STAT), Ashok Meyyappan (SPSC)
-
+Currently I do not have open positions, but this changes on a rotating basis, so please email me with your CV and names of 3 references.
 
 

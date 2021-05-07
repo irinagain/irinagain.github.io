@@ -5,6 +5,8 @@ title: Group
 
 ## RESEARCH GROUP MEMBERS
 
+**Interested in joining the group?** See [here](https://irinagain.github.io/GroupJoin) for available opportunities/
+
 ### PI	
 
 <div class="container">
