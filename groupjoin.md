@@ -1,9 +1,7 @@
 ---
 layout: page
-title: GroupJoin
+title: Joining the group
 ---
-
-## Joining the research group
 
 ### As an undergraduate student
 
