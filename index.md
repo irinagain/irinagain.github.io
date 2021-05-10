@@ -30,6 +30,8 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **May 2021:** A new manuscript with Dongbang Yuan on *"Double-matched matrix decomposition for multi-view data"* is now available on [arXiv](https://arxiv.org/pdf/2105.03396.pdf). [R code](https://github.com/justicesuker/DMMD_Code) to reproduce the results.
+
 * **May 2021:** Applications open for Summer 2021 [Structured Research Experience (SRE) in Statistics](https://irinagain.github.io/SRE/). All TAMU BS Statistics majors are welcome to apply.
 
 * **April 2021:** Irina is a guest on [Data & Science podcast with Glen Wright Colopy](https://podofasclepius.podbean.com) talking about Replicability and Reproducibility in Scince. [YouTube video](https://youtu.be/MJwsfiEMFL8) and [PodBean](https://www.podbean.com/ew/pb-qcpza-101d795)

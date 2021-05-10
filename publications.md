@@ -8,6 +8,8 @@ bigimg: /img/DSCN2128.JPG
 
 ## Pre-prints:
 
+Yuan D\* and **Gaynanova I** (2021+). [Double-matched matrix decomposition for multi-view data.](https://arxiv.org/pdf/2105.03396.pdf) *arXiv stat.ME* [[R code]](https://github.com/justicesuker/DMMD_Code)
+
 Zhang Y\* and **Gaynanova I** (2021+). [Joint association and classification analysis of multi-view data.](https://arxiv.org/abs/1811.08511) *arXiv stat.ML* [[R package]](https://github.com/Pennisetum/JACA)
 
 Lapanowski A\* and **Gaynanova I** (2021+). [Compressing Large Sample Data for Discriminant Analysis](https://arxiv.org/abs/2005.03858) *arXiv stat.ML*
