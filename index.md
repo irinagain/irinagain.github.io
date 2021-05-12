@@ -30,7 +30,9 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
-* **May 2021:** A new manuscript with Dongbang Yuan on *"Double-matched matrix decomposition for multi-view data"* is now available on [arXiv](https://arxiv.org/pdf/2105.03396.pdf). [R code](https://github.com/justicesuker/DMMD_Code) to reproduce the results.
+* **May 2021:** A new manuscript with [Hee Cheol Chung](https://heech31.github.io) and [Yang Ni](https://web.stat.tamu.edu/~yni/) on *"Phylogenetically informed Bayesian truncated copula graphical models for microbial association networks"* is now available on [arXiv](https://arxiv.org/abs/2105.05082). [R code](https://github.com/heech31/phyloBCG) to reproduce the results.
+
+* **May 2021:** A new manuscript with Dongbang Yuan on *"Double-matched matrix decomposition for multi-view data"* is now available on [arXiv](https://arxiv.org/2105.03396). [R code](https://github.com/justicesuker/DMMD_Code) to reproduce the results.
 
 * **May 2021:** Applications open for Summer 2021 [Structured Research Experience (SRE) in Statistics](https://irinagain.github.io/SRE/). All TAMU BS Statistics majors are welcome to apply.
 
