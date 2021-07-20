@@ -21,6 +21,8 @@ Lapanowski A\* and **Gaynanova I** (2021+). [Compressing Large Sample Data for D
 
 ### 2021
 
+Solhjoo S, Punjabi N, Ivanescu A, Crainiceanu C, **Gaynanova I**, Wicken C, Buckenmaier C, and Haigney M  (2021+) [Methadone destabilizes cardiac repolarization during sleep.](https://doi.org/10.1002/cpt.2368) *Clinical Pharmacology \& Therapeutics*, accepted.
+
 Risk B and **Gaynanova I** (2021+). [Simultaneous Non-Gaussian Component Analysis (SING) for Data Integration in Neuroimaging](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/45797?confirm=4748e846) *Annals of Applied Statistics*, accepted. [[R code]](https://github.com/irinagain/SING)
 
 Broll S\*, Urbanek J, Buchanan D\*, Chun E\*, Muschelli J, Punjabi N and **Gaynanova I** (2021).[Interpreting blood glucose data with R package iglu.](https://doi.org/10.1371/journal.pone.0248560) *PLoS One*, Vol. 16, No. 4, e0248560. [[R package]](https://cran.rstudio.com/web/packages/iglu/index.html)
