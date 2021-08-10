@@ -19,7 +19,8 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 		<strong>Office:</strong> 458D Blocker <br>
 		<strong>Email:</strong> irinag [at] stat.tamu.edu <br>
 		<a href = "https://irinagain.github.io/Resources/IrinaGaynanovaCV.pdf"> Click here for CV</a> <br>
-		<a href = "https://irinagain.github.io/bio"> Click here for short Bio</a>
+		<a href = "https://irinagain.github.io/bio"> Click here for short Bio</a> <br>
+		<a href = "https://irinagain.github.io/groupjoin"> Click here for opportunities to join the group </a>.
 		</p>
 	</div>
 </div>
@@ -29,6 +30,8 @@ subtitle: Assistant Professor, Department of Statistics, Texas A&M University
 </div>
 
 ### NEWS:
+
+* **August 2021:** Our paper with Yunfeng Zhang on *"Joint association and classification analysis of multi-view data"* has been accepted to [Biometrics](https://doi.org/10.1111/biom.13536)
 
 * **June 2021:** Irina has been awarded tenure and promotion to Associate Professor at Texas A&M effective September 1, 2021
 

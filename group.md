@@ -67,7 +67,7 @@ title: Group
 		<img src="https://irinagain.github.io/img/Dongbang.jpg" class="img-responsive" alt="Dongbang"/></a>
 	</div>-->
 	<div class="col-md-6">
-		<p>John Schwenck <br>
+		<p>Mingze Huang <br>
 		MS Student in Statistics	</p>
 	</div>
 </div>
@@ -76,29 +76,37 @@ title: Group
 
 ### Undergraduate students (through [Aggie Research Program](https://aggieresearch.tamu.edu))
 
-* David Buchanan (STAT)
+
 * Elizabeth Chun (BMCB)
-* Marielle Hicban (BMEN)
+
 * Nathaniel Fernandez (ENGE)
-* Johnathan Shih (STAT)
-* Jung Hoon Seo (CPSC)
+
+* Devon Maywald (APMS) 
+
+* Kyle Schichl (STAT)
+
+* Yixin Zhang (STAT)
+
+
 
 
 ## RESEARCH GROUP ALUMNI
 
 ### Postdocs and graduate students 
 
-* [Tianying Wang](https://tianyingw.github.io). Now an Assistant Professor at  Tsinghua University Center of Statistical Science
+* [Tianying Wang](https://tianyingw.github.io). Now an Assistant Professor at Tsinghua University Center of Statistical Science
 
 * [Grace Yoon](http://www.stat.tamu.edu/~gyoon/). Now a Mathematical Statistician at US Department of Agriculture, National Agricultural Statistics Service (NASS).
 
-* Yunfeng Zhang. Now Data and Applied Scientist at Microsoft.
+* Yunfeng Zhang. Now a Data and Applied Scientist at Microsoft.
 
-* Alex Lapanowski. Now Senior Scientist at SABIC.
+* Alex Lapanowski. Now a Senior Scientist at SABIC.
+
+* [John Schwenck](John Schwenck). Now a Quantitative Analyst at Wells Fargo.
 
 ### Undergraduate students 
 
-Steven Broll (STAT), Eric Wang (ENGE), Sangaman Senthil (INEN), Nhan Nguyen (ENGE), Mary Martin (STAT), Pratik Patel (STAT), Ashok Meyyappan (SPSC)
+Steven Broll (STAT), Eric Wang (ENGE), Sangaman Senthil (INEN), Nhan Nguyen (ENGE), Mary Martin (STAT), Pratik Patel (STAT), Ashok Meyyappan (SPSC), Johnathan Shih (STAT), Jung Hoon Seo (CPSC), Marielle Hicban (BMEN), David Buchanan (STAT)
 
 
 
