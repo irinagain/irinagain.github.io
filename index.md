@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Irina Gaynanova
-subtitle: Assistant Professor, Department of Statistics, Texas A&M University
+subtitle: Associate Professor, Department of Statistics, Texas A&M University
 ---
 
 <div class="container">

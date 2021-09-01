@@ -16,7 +16,7 @@ student will complete an entry research project focused on design and
 reproducibility of simulation studies, going through the full research
 cycle from reading the literature to writing a final report. The students participate in the program for the duration of one semester.
 
-This summer program will provide funding for 3 students to participate in SRE and assist in its development.
+This summer 2021 program will provide funding for 3 students to participate in SRE and assist in its development.
 At the successful completion of this program, each student participant will be awarded $1500. Students should expect to work an estimated 10 hours/week for about 10 weeks of the summer.
 To be considered for this program, and its resulting funding, please ensure you meet the eligibility requirements and follow the application procedure below.
 
