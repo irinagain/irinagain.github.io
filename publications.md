@@ -10,7 +10,7 @@ bigimg: /img/DSCN2128.JPG
 
 Chung HC\*, **Gaynanova I** and Ni Y (2021+). [Phylogenetically informed Bayesian truncated copula graphical models for microbial association networks.](https://arxiv.org/abs/2105.05082) *arXiv stat.ME*  [[R code]](https://github.com/heech31/phyloBCG)
 
-Yuan D\* and **Gaynanova I** (2021+). [Double-matched matrix decomposition for multi-view data.](https://arxiv.org/2105.03396) *arXiv stat.ME* [[R code]](https://github.com/justicesuker/DMMD_Code)
+Yuan D\* and **Gaynanova I** (2021+). [Double-matched matrix decomposition for multi-view data.](https://arxiv.org/abs/2105.03396) *arXiv stat.ME* [[R code]](https://github.com/justicesuker/DMMD_Code)
 
 
 Lapanowski A\* and **Gaynanova I** (2021+). [Compressing Large Sample Data for Discriminant Analysis](https://arxiv.org/abs/2005.03858) *arXiv stat.ML*
