@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Irina Gaynanova
-subtitle: Assistant Professor, Department of Statistics, Texas A&M University
+subtitle: Associate Professor, Department of Statistics, Texas A&M University
 ---
 
 Irina Gaynanova is an Associate Professor in the Department of Statistics at Texas A&M University. She received her PhD in Statistics from Cornell University in 2015. 
