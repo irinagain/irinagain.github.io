@@ -31,6 +31,8 @@ subtitle: Associate Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **September 2021:** Our paper with Mingze Huang and [Christian L Müller](https://www.simonsfoundation.org/team/christian-muller/) on *"latentcor: an R package for estimating latent correlations from mixed data types"* has been accepted to [Journal of Open Source Software](https://doi.org/10.21105/joss.03634)
+
 * **August 2021:** Our paper with Yunfeng Zhang on *"Joint association and classification analysis of multi-view data"* has been accepted to [Biometrics](https://doi.org/10.1111/biom.13536)
 
 * **June 2021:** Irina has been awarded tenure and promotion to Associate Professor at Texas A&M effective September 1, 2021

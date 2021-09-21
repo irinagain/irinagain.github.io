@@ -67,6 +67,16 @@ title: Group
 		<img src="https://irinagain.github.io/img/Dongbang.jpg" class="img-responsive" alt="Dongbang"/></a>
 	</div>-->
 	<div class="col-md-6">
+		<p>Renat Sergazinov <br>
+		PhD Student in Statistics	</p>
+	</div>
+</div>
+
+<div class="row">
+	<!--<div class="col-md-3"><a class="thumb" href="#">
+		<img src="https://irinagain.github.io/img/Dongbang.jpg" class="img-responsive" alt="Dongbang"/></a>
+	</div>-->
+	<div class="col-md-6">
 		<p>Mingze Huang <br>
 		MS Student in Statistics	</p>
 	</div>
@@ -79,13 +89,7 @@ title: Group
 
 * Elizabeth Chun (BMCB)
 
-* Nathaniel Fernandez (ENGE)
 
-* Devon Maywald (APMS) 
-
-* Kyle Schichl (STAT)
-
-* Yixin Zhang (STAT)
 
 
 
@@ -106,7 +110,7 @@ title: Group
 
 ### Undergraduate students 
 
-Steven Broll (STAT), Eric Wang (ENGE), Sangaman Senthil (INEN), Nhan Nguyen (ENGE), Mary Martin (STAT), Pratik Patel (STAT), Ashok Meyyappan (SPSC), Johnathan Shih (STAT), Jung Hoon Seo (CPSC), Marielle Hicban (BMEN), David Buchanan (STAT)
+Steven Broll (STAT), Eric Wang (ENGE), Sangaman Senthil (INEN), Nhan Nguyen (ENGE), Mary Martin (STAT), Pratik Patel (STAT), Ashok Meyyappan (SPSC), Johnathan Shih (STAT), Jung Hoon Seo (CPSC), Marielle Hicban (BMEN), David Buchanan (STAT),  Nathaniel Fernandez (ENGE), Devon Maywald (APMS), Kyle Schichl (STAT), Yixin Zhang (STAT)
 
 
 

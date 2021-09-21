@@ -20,9 +20,11 @@ Lapanowski A\* and **Gaynanova I** (2021+). [Compressing Large Sample Data for D
 
 ### 2021
 
+Huang M\*, Müller C and **Gaynanova I** (2021). [latentcor: An R package for estimating latent correlations from mixed data types.](https://doi.org/10.21105/joss.03634) *Journal of Open Source Software*, Vol. 6, No. 65, 3634. [[Github page]](https://github.com/mingzehuang/latentcor) [[Website]](https://mingzehuang.github.io/latentcor/)
+
 Zhang Y\* and **Gaynanova I** (2021+). [Joint association and classification analysis of multi-view data.](https://doi.org/10.1111/biom.13536) *Biometrics*, accepted. [[R package]](https://github.com/Pennisetum/JACA)
 
-Solhjoo S, Punjabi N, Ivanescu A, Crainiceanu C, **Gaynanova I**, Wicken C, Buckenmaier C, and Haigney M  (2021+) [Methadone destabilizes cardiac repolarization during sleep.](https://doi.org/10.1002/cpt.2368) *Clinical Pharmacology \& Therapeutics*, accepted.
+Solhjoo S, Punjabi N, Ivanescu A, Crainiceanu C, **Gaynanova I**, Wicken C, Buckenmaier C, and Haigney M  (2021) [Methadone destabilizes cardiac repolarization during sleep.](https://doi.org/10.1002/cpt.2368) *Clinical Pharmacology \& Therapeutics*, Vol. 110, No. 4, 1066-1074.
 
 Risk B and **Gaynanova I** (2021+). [Simultaneous Non-Gaussian Component Analysis (SING) for Data Integration in Neuroimaging](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/45797?confirm=4748e846) *Annals of Applied Statistics*, accepted. [[R code]](https://github.com/irinagain/SING)
 

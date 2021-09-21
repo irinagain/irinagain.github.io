@@ -7,7 +7,7 @@ title: Joining the group
 
 If you are pursing a BS degree at TAMU, there are multiple opportunities to get involved.
 
-* [Structured Research Experience (SRE)](https://irinagain.github.io/SRE) in Statistics. Currently only open to Statistics majors.
+* [Structured Research Experience (SRE)](https://irinagain.github.io/SRE) in Statistics. Currently only open to Statistics majors. Usually takes place over summer, however may also be offered as special topics class in Spring.
 * [Statustics Summer Undergraduate Research Experience](https://stat.tamu.edu/academics/undergraduate-research/). Only open to Statistics majors, takes place every Summer.
 * Team-based research through the [Aggie Research Network](https://aggieresearch.tamu.edu/undergraduates/). I typically have a project open each semester and recruit new team members. All majors are welcome and encouraged to apply, but the applicants are expected to have existing programming experience (preferably in R).
 
