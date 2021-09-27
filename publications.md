@@ -26,7 +26,7 @@ Zhang Y\* and **Gaynanova I** (2021+). [Joint association and classification ana
 
 Solhjoo S, Punjabi N, Ivanescu A, Crainiceanu C, **Gaynanova I**, Wicken C, Buckenmaier C, and Haigney M  (2021) [Methadone destabilizes cardiac repolarization during sleep.](https://doi.org/10.1002/cpt.2368) *Clinical Pharmacology \& Therapeutics*, Vol. 110, No. 4, 1066-1074.
 
-Risk B and **Gaynanova I** (2021+). [Simultaneous Non-Gaussian Component Analysis (SING) for Data Integration in Neuroimaging](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/45797?confirm=4748e846) *Annals of Applied Statistics*, accepted. [[R code]](https://github.com/irinagain/SING)
+Risk B and **Gaynanova I** (2021). [Simultaneous Non-Gaussian Component Analysis (SING) for Data Integration in Neuroimaging](https://doi.org/10.1214/21-AOAS1466) *Annals of Applied Statistics*, Vol. 15, No. 3, 1431-1454. [[R code]](https://github.com/irinagain/SING)
 
 Broll S\*, Urbanek J, Buchanan D\*, Chun E\*, Muschelli J, Punjabi N and **Gaynanova I** (2021).[Interpreting blood glucose data with R package iglu.](https://doi.org/10.1371/journal.pone.0248560) *PLoS One*, Vol. 16, No. 4, e0248560. [[R package]](https://cran.rstudio.com/web/packages/iglu/index.html)
 
