@@ -18,7 +18,7 @@ title: Group
 	</div>
 	<div class="col-md-6">
 		<p> <a href="https://irinagain.github.io"> Irina Gaynanova </a> <br>
-		Assistant Professor of Statistics </p>
+		Associate Professor of Statistics </p>
 	</div>
 </div>
 
@@ -47,7 +47,7 @@ title: Group
 		<img src="https://irinagain.github.io/img/GraceYoon.jpg" class="img-responsive" alt="Grace Yoon"/></a>
 	</div>-->
 	<div class="col-md-6">
-		<p>Sangyoon Yi <br>
+		<p> <a href = "https://people.tamu.edu/~sangyoon0704/"> Sangyoon Yi </a> <br>
 		Postdoctoral Research Associate	</p>
 	</div>
 </div>
@@ -67,7 +67,7 @@ title: Group
 		<img src="https://irinagain.github.io/img/Dongbang.jpg" class="img-responsive" alt="Dongbang"/></a>
 	</div>-->
 	<div class="col-md-6">
-		<p>Renat Sergazinov <br>
+		<p> <a href="https://mrsergazinov.github.io/"> Renat Sergazinov </a> <br>
 		PhD Student in Statistics	</p>
 	</div>
 </div>
