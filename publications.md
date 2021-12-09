@@ -13,12 +13,13 @@ Chung HC\*, **Gaynanova I** and Ni Y (2021+). [Phylogenetically informed Bayesia
 Yuan D\* and **Gaynanova I** (2021+). [Double-matched matrix decomposition for multi-view data.](https://arxiv.org/abs/2105.03396) *arXiv stat.ME* [[R code]](https://github.com/justicesuker/DMMD_Code)
 
 
-Lapanowski A\* and **Gaynanova I** (2021+). [Compressing Large Sample Data for Discriminant Analysis](https://arxiv.org/abs/2005.03858) *arXiv stat.ML*
-
-
 ## Peer-reviewed:	
 
 ### 2021
+
+Lapanowski A\* and **Gaynanova I** (2021). [Compressing Large Sample Data for Discriminant Analysis](https://arxiv.org/abs/2005.03858) IEEE BigData 2021
+
+Fernandes N\*, Nguyen N\*, Chun E.\*, Punjabi N. and **Gaynanova I** (2021). [Open-Source Algorithm to Calculate Mean Amplitude of Glycemic Excursions Using Short and Long Moving Averages](https://doi.org/10.1177/19322968211061165) *Journal of Diabetes Science and Technology*, accepted. [[Github page to reproduce]](https://github.com/Nathaniel-Fernandes/mage_algorithm_data) [[R package with implementation]](https://github.com/irinagain/iglu)
 
 Huang M\*, Müller C and **Gaynanova I** (2021). [latentcor: An R package for estimating latent correlations from mixed data types.](https://doi.org/10.21105/joss.03634) *Journal of Open Source Software*, Vol. 6, No. 65, 3634. [[Github page]](https://github.com/mingzehuang/latentcor) [[Website]](https://mingzehuang.github.io/latentcor/)
 
@@ -28,7 +29,7 @@ Solhjoo S, Punjabi N, Ivanescu A, Crainiceanu C, **Gaynanova I**, Wicken C, Buck
 
 Risk B and **Gaynanova I** (2021). [Simultaneous Non-Gaussian Component Analysis (SING) for Data Integration in Neuroimaging](https://doi.org/10.1214/21-AOAS1466) *Annals of Applied Statistics*, Vol. 15, No. 3, 1431-1454. [[R code]](https://github.com/irinagain/SING)
 
-Broll S\*, Urbanek J, Buchanan D\*, Chun E\*, Muschelli J, Punjabi N and **Gaynanova I** (2021).[Interpreting blood glucose data with R package iglu.](https://doi.org/10.1371/journal.pone.0248560) *PLoS One*, Vol. 16, No. 4, e0248560. [[R package]](https://cran.rstudio.com/web/packages/iglu/index.html)
+Broll S\*, Urbanek J, Buchanan D\*, Chun E\*, Muschelli J, Punjabi N and **Gaynanova I** (2021).[Interpreting blood glucose data with R package iglu.](https://doi.org/10.1371/journal.pone.0248560) *PLoS One*, Vol. 16, No. 4, e0248560. [[R package]](https://github.com/irinagain/iglu)
 
 Yoon G\*, Müller C and **Gaynanova I** (2021+). [Fast computation of latent correlations.](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1882468) *Journal of Computational and Graphical Statistics*, accepted. [[R package]](https://github.com/irinagain/mixedCCA) [[R code to reproduce simulations]](https://github.com/GraceYoon/Fast-latent-correlation)
 

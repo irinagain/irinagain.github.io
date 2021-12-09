@@ -20,14 +20,18 @@ Our team has released [a list of public Continuous Glucose Monitoring (CGM) data
 
 
 ### Software products:
- * R package **iglu** for calculating various metrics from CGM glucose profiles, and visualizing the data. [Github repository](https://github.com/irinagain/iglu), [CRAN version](https://CRAN.R-project.org/package=iglu) and [accompanying website](https://irinagain.github.io/iglu/). The package has graphical user interface via shinay app, which can be accessed locally after installing the package, or directly from the website (see below). To cite the current version of the package:
+* R package **iglu** for calculating various metrics from CGM glucose profiles, and visualizing the data. [Github repository](https://github.com/irinagain/iglu), [CRAN version](https://CRAN.R-project.org/package=iglu), [accompanying website](https://irinagain.github.io/iglu/) and [the paper](https://doi.org/10.1371/journal.pone.0248560). The package has graphical user interface via shiny app, which can be accessed locally after installing the package, or directly from the website (see below). To cite the current version of the package:
  
- * Broll, S., Urbanek J., Buchanan D., Chun E., Muschelli J., Schwenck J., Martin M., Patel P., Hicban M., Nguyen N. and Gaynanova I. (2020) iglu: Interpreting Glucose Data from Continuous Glucose Monitors. R package version 2.0.1
+   - Broll S\*, Buchanan D\*, Chun E\*, Muschelli J\*, Fernandes N\*, Seo J\*, Shih J\*, Urbanek J, Schwenck J\*, **Gaynanova I** (2021). iglu: Interpreting Glucose Data from Continuous Glucose Monitors. R package version 3.0.0. R package version 3.1.0
+  
+   - Broll S\*, Urbanek J, Buchanan D\*, Chun E\*, Muschelli J, Punjabi N and **Gaynanova I** (2021).[Interpreting blood glucose data with R package iglu.](https://doi.org/10.1371/journal.pone.0248560) *PLoS One*, Vol. 16, No. 4, e0248560. 
  
- * [Shiny app for **iglu**](https://irinagain.shinyapps.io/shiny_iglu/). R package **iglu** functionality directly via graphical user interface.
+* [Shiny app for **iglu**](https://irinagain.shinyapps.io/shiny_iglu/). R package **iglu** functionality directly via graphical user interface.
 
 
 ### Relevant publications:
+
+* Fernandes N\*, Nguyen N\*, Chun E.\*, Punjabi N. and **Gaynanova I** (2021). [Open-Source Algorithm to Calculate Mean Amplitude of Glycemic Excursions Using Short and Long Moving Averages](https://doi.org/10.1177/19322968211061165) *Journal of Diabetes Science and Technology*, accepted. [[Github page to reproduce]](https://github.com/Nathaniel-Fernandes/mage_algorithm_data) [[R package with implementation]](https://github.com/irinagain/iglu)
 
  * Broll S\*, Urbanek J, Buchanan D\*, Chun E\*, Muschelli J, Punjabi N and **Gaynanova I** (2021).[Interpreting blood glucose data with R package iglu.](https://doi.org/10.1371/journal.pone.0248560) *PLoS One*, Vol. 16, No. 4, e0248560. [[R package]](https://cran.rstudio.com/web/packages/iglu/index.html)
 

@@ -31,6 +31,12 @@ subtitle: Associate Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **December 2021:** Our paper with Nathaniel Fernandes, Nhan Nguyen, Elizabeth Chun and Naresh Punjabi on *Open-Source Algorithm to Calculate Mean Amplitude of Glycemic Excursions Using Short and Long Moving Averages* has been accepted to [Journal of Diabetes Science and Technology](https://doi.org/10.1177/19322968211061165)
+
+* **November 2021:** Our paper with Alex Lapanowski on *Compressing large sample data for discriminant analysis" has been accepted for [2021 IEEE International Conference on Big Data](https://bigdataieee.org/BigData2021/AcceptedPapers.html) 
+
+* **October 2021:** Irina is honored with Dr. Judith Edmiston Mentoring Award from TAMU College of Science. [Press release for all College of Science 2021 Award Winners](https://science.tamu.edu/news/2021/10/college-of-science-honors-2021-award-winners/)
+
 * **September 2021:** Our paper with Mingze Huang and [Christian L Müller](https://www.simonsfoundation.org/team/christian-muller/) on *"latentcor: an R package for estimating latent correlations from mixed data types"* has been accepted to [Journal of Open Source Software](https://doi.org/10.21105/joss.03634)
 
 * **August 2021:** Our paper with Yunfeng Zhang on *"Joint association and classification analysis of multi-view data"* has been accepted to [Biometrics](https://doi.org/10.1111/biom.13536)
