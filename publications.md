@@ -19,7 +19,7 @@ Yuan D\* and **Gaynanova I** (2021+). [Double-matched matrix decomposition for m
 
 Lapanowski A\* and **Gaynanova I** (2021). [Compressing Large Sample Data for Discriminant Analysis](https://arxiv.org/abs/2005.03858) IEEE BigData 2021
 
-Fernandes N\*, Nguyen N\*, Chun E.\*, Punjabi N. and **Gaynanova I** (2021). [Open-Source Algorithm to Calculate Mean Amplitude of Glycemic Excursions Using Short and Long Moving Averages](https://doi.org/10.1177/19322968211061165) *Journal of Diabetes Science and Technology*, accepted. [[Github page to reproduce]](https://github.com/Nathaniel-Fernandes/mage_algorithm_data) [[R package with implementation]](https://github.com/irinagain/iglu)
+Fernandes N\*, Nguyen N\*, Chun E.\*, Punjabi N. and **Gaynanova I** (2021). [Open-Source Algorithm to Calculate Mean Amplitude of Glycemic Excursions Using Short and Long Moving Averages](https://doi.org/10.1177/19322968211061165) *Journal of Diabetes Science and Technology*. [[Github page to reproduce]](https://github.com/Nathaniel-Fernandes/mage_algorithm_data) [[R package with implementation]](https://github.com/irinagain/iglu)
 
 Huang M\*, Müller C and **Gaynanova I** (2021). [latentcor: An R package for estimating latent correlations from mixed data types.](https://doi.org/10.21105/joss.03634) *Journal of Open Source Software*, Vol. 6, No. 65, 3634. [[Github page]](https://github.com/mingzehuang/latentcor) [[Website]](https://mingzehuang.github.io/latentcor/)
 
@@ -31,7 +31,7 @@ Risk B and **Gaynanova I** (2021). [Simultaneous Non-Gaussian Component Analysis
 
 Broll S\*, Urbanek J, Buchanan D\*, Chun E\*, Muschelli J, Punjabi N and **Gaynanova I** (2021).[Interpreting blood glucose data with R package iglu.](https://doi.org/10.1371/journal.pone.0248560) *PLoS One*, Vol. 16, No. 4, e0248560. [[R package]](https://github.com/irinagain/iglu)
 
-Yoon G\*, Müller C and **Gaynanova I** (2021+). [Fast computation of latent correlations.](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1882468) *Journal of Computational and Graphical Statistics*, accepted. [[R package]](https://github.com/irinagain/mixedCCA) [[R code to reproduce simulations]](https://github.com/GraceYoon/Fast-latent-correlation)
+Yoon G\*, Müller C and **Gaynanova I** (2021). [Fast computation of latent correlations.](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1882468) *Journal of Computational and Graphical Statistics*, Vol. 30, No. 4, 1249-1256. [[R package]](https://github.com/irinagain/mixedCCA) [[R code to reproduce simulations]](https://github.com/GraceYoon/Fast-latent-correlation)
 
 **Gaynanova I**, Punjabi N and Crainiceanu C (2021+). [Modeling continuous glucose monitoring (CGM) data during sleep.](https://doi.org/10.1093/biostatistics/kxaa023) *Biostatistics*, accepted. [[R code]](https://github.com/irinagain/cgm-multi-level-beta)
 
