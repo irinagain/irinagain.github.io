@@ -8,22 +8,28 @@ bigimg: /img/DSCN2128.JPG
 
 ## Pre-prints:
 
-Chung HC\*, **Gaynanova I** and Ni Y (2021+). [Phylogenetically informed Bayesian truncated copula graphical models for microbial association networks.](https://arxiv.org/abs/2105.05082) *arXiv stat.ME*  [[R code]](https://github.com/heech31/phyloBCG)
 
-Yuan D\* and **Gaynanova I** (2021+). [Double-matched matrix decomposition for multi-view data.](https://arxiv.org/abs/2105.03396) *arXiv stat.ME* [[R code]](https://github.com/justicesuker/DMMD_Code)
+
+Yuan D\* and **Gaynanova I** (2022+). [Double-matched matrix decomposition for multi-view data.](https://arxiv.org/abs/2105.03396) *arXiv stat.ME* [[R code]](https://github.com/justicesuker/DMMD_Code)
 
 
 ## Peer-reviewed:	
 
+### 2022
+
+Chung HC\*, **Gaynanova I** and Ni Y (2022+). [Phylogenetically informed Bayesian truncated copula graphical models for microbial association networks.](https://arxiv.org/abs/2105.05082) *Annals of Applied Statistics*, accepted.  [[R code]](https://github.com/heech31/phyloBCG)
+
+Zhang Y\* and **Gaynanova I** (2022+). [Joint association and classification analysis of multi-view data.](https://doi.org/10.1111/biom.13536) *Biometrics*, accepted. [[R package]](https://github.com/Pennisetum/JACA)
+
+Fernandes N\*, Nguyen N\*, Chun E.\*, Punjabi N. and **Gaynanova I** (2022+). [Open-Source Algorithm to Calculate Mean Amplitude of Glycemic Excursions Using Short and Long Moving Averages](https://doi.org/10.1177/19322968211061165) *Journal of Diabetes Science and Technology*. [[Github page to reproduce]](https://github.com/Nathaniel-Fernandes/mage_algorithm_data) [[R package with implementation]](https://github.com/irinagain/iglu)
+
+**Gaynanova I**, Punjabi N and Crainiceanu C (2022). [Modeling continuous glucose monitoring (CGM) data during sleep.](https://doi.org/10.1093/biostatistics/kxaa023) *Biostatistics*, Vol. 23, No. 1, 223-239. [[R code]](https://github.com/irinagain/cgm-multi-level-beta)
+
 ### 2021
 
-Lapanowski A\* and **Gaynanova I** (2021). [Compressing Large Sample Data for Discriminant Analysis](https://arxiv.org/abs/2005.03858) IEEE BigData 2021
-
-Fernandes N\*, Nguyen N\*, Chun E.\*, Punjabi N. and **Gaynanova I** (2021). [Open-Source Algorithm to Calculate Mean Amplitude of Glycemic Excursions Using Short and Long Moving Averages](https://doi.org/10.1177/19322968211061165) *Journal of Diabetes Science and Technology*. [[Github page to reproduce]](https://github.com/Nathaniel-Fernandes/mage_algorithm_data) [[R package with implementation]](https://github.com/irinagain/iglu)
+Lapanowski A\* and **Gaynanova I** (2021). [Compressing Large Sample Data for Discriminant Analysis](https://doi.org/10.1109/BigData52589.2021.9671676) *2021 IEEE International Conference on Big Data (Big Data)*, 1068-1076.
 
 Huang M\*, Müller C and **Gaynanova I** (2021). [latentcor: An R package for estimating latent correlations from mixed data types.](https://doi.org/10.21105/joss.03634) *Journal of Open Source Software*, Vol. 6, No. 65, 3634. [[Github page]](https://github.com/mingzehuang/latentcor) [[Website]](https://mingzehuang.github.io/latentcor/)
-
-Zhang Y\* and **Gaynanova I** (2021+). [Joint association and classification analysis of multi-view data.](https://doi.org/10.1111/biom.13536) *Biometrics*, accepted. [[R package]](https://github.com/Pennisetum/JACA)
 
 Solhjoo S, Punjabi N, Ivanescu A, Crainiceanu C, **Gaynanova I**, Wicken C, Buckenmaier C, and Haigney M  (2021) [Methadone destabilizes cardiac repolarization during sleep.](https://doi.org/10.1002/cpt.2368) *Clinical Pharmacology \& Therapeutics*, Vol. 110, No. 4, 1066-1074.
 
@@ -33,7 +39,6 @@ Broll S\*, Urbanek J, Buchanan D\*, Chun E\*, Muschelli J, Punjabi N and **Gayna
 
 Yoon G\*, Müller C and **Gaynanova I** (2021). [Fast computation of latent correlations.](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1882468) *Journal of Computational and Graphical Statistics*, Vol. 30, No. 4, 1249-1256. [[R package]](https://github.com/irinagain/mixedCCA) [[R code to reproduce simulations]](https://github.com/GraceYoon/Fast-latent-correlation)
 
-**Gaynanova I**, Punjabi N and Crainiceanu C (2021+). [Modeling continuous glucose monitoring (CGM) data during sleep.](https://doi.org/10.1093/biostatistics/kxaa023) *Biostatistics*, accepted. [[R code]](https://github.com/irinagain/cgm-multi-level-beta)
 
 ### 2020
 
