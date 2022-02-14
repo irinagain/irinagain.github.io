@@ -46,7 +46,7 @@ Taylor NJ, **Gaynanova I**, Eschrich SA, Welsh EA, Garrett TJ, Beecher C, Sharma
 
 Yoon G\*, Carroll R and **Gaynanova I** (2020). [Sparse semiparametric canonical correlation analysis for data of mixed types.](https://academic.oup.com/biomet/article/doi/10.1093/biomet/asaa007/5820553) *Biometrika*, Vol. 107, No. 3, 609-625. [[R package]](https://github.com/irinagain/mixedCCA)
 
-**Gaynanova I** (2020). [Prediction and estimation consistency of sparse multi-class penalized optimal scoring.](https://projecteuclid.org/euclid.bj/1574758829) *Bernoulli*, Vol. 26, No. 1, 286-322.
+**Gaynanova I** (2020). [Prediction and estimation consistency of sparse multi-class penalized optimal scoring.](https://projecteuclid.org/euclid.bj/1574758829) *Bernoulli*, Vol. 26, No. 1, 286-322. [Erratum for the proof of Theorem 3](https://doi.org/10.3150/21-BEJ1359)
 
 ### 2019 
 
