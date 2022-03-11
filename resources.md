@@ -30,4 +30,4 @@ Version Control is imperative to keeping track of changes in the code. Git is a 
 
 **On Academic Job Market (candidate's perspective)**
 
-Here is a [link to my perspective/advice on the academic job market](https://irinagain.github.io/Resources/AcademicJobMarketAdvice_Irina.pdf) based on my experience as a candidate in year 2014/2015. It has been strongly inspired by a [similar document](http://pages.iu.edu/~dajmcdon/usefullinks/marketadvice.pdf) from [Daniel McDonald](http://pages.iu.edu/~dajmcdon/), which was very helpful when I applied. 
+Here is a [link to my perspective/advice on the academic job market](https://irinagain.github.io/Resources/AcademicJobMarketAdviceIrina_v2.pdf) based on my experience as a candidate in year 2014/2015 coupled with more recent experience observing hiring as a faculty. The original version has been strongly inspired by a [similar document](https://dajmcdon.github.io/assets/code-links/marketadvice.pdf) from [Daniel McDonald](https://dajmcdon.github.io), which was very helpful when I applied. 
