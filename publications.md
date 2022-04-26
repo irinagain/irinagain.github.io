@@ -6,22 +6,23 @@ bigimg: /img/DSCN2128.JPG
 
 *Note: \* indicates student/post-doctoral associate co-author*
 
-## Pre-prints:
+<!--## Pre-prints:-->
 
-
-
-Yuan D\* and **Gaynanova I** (2022+). [Double-matched matrix decomposition for multi-view data.](https://arxiv.org/abs/2105.03396) *arXiv stat.ME* [[R code]](https://github.com/justicesuker/DMMD_Code)
 
 
 ## Peer-reviewed:	
 
 ### 2022
 
+Yuan D\* and **Gaynanova I** (2022+). [Double-matched matrix decomposition for multi-view data.](https://doi.org/10.1080/10618600.2022.2067860) *Journal of Computational and Graphical Statistics*, accepted. [[R code]](https://github.com/justicesuker/DMMD_Code)
+
+Aurora RN, **Gaynanova I**, Patel P\*, and Punjabi N (2022+).[Glucose profiles in obstructive sleep apnea and type 2 diabetes mellitus.](https://doi.org/10.1016/j.sleep.2022.04.007) *Sleep Medicine*, accepted. 
+
 Chung HC\*, **Gaynanova I** and Ni Y (2022+). [Phylogenetically informed Bayesian truncated copula graphical models for microbial association networks.](https://arxiv.org/abs/2105.05082) *Annals of Applied Statistics*, accepted.  [[R code]](https://github.com/heech31/phyloBCG)
 
 Zhang Y\* and **Gaynanova I** (2022+). [Joint association and classification analysis of multi-view data.](https://doi.org/10.1111/biom.13536) *Biometrics*, accepted. [[R package]](https://github.com/Pennisetum/JACA)
 
-Fernandes N\*, Nguyen N\*, Chun E.\*, Punjabi N. and **Gaynanova I** (2022+). [Open-Source Algorithm to Calculate Mean Amplitude of Glycemic Excursions Using Short and Long Moving Averages](https://doi.org/10.1177/19322968211061165) *Journal of Diabetes Science and Technology*. [[Github page to reproduce]](https://github.com/Nathaniel-Fernandes/mage_algorithm_data) [[R package with implementation]](https://github.com/irinagain/iglu)
+Fernandes N\*, Nguyen N\*, Chun E\*, Punjabi N and **Gaynanova I** (2022). [Open-Source Algorithm to Calculate Mean Amplitude of Glycemic Excursions Using Short and Long Moving Averages](https://doi.org/10.1177/19322968211061165) *Journal of Diabetes Science and Technology*, Vol. 16,  No. 2, 576-577. [[Github page to reproduce]](https://github.com/Nathaniel-Fernandes/mage_algorithm_data) [[R package with implementation]](https://github.com/irinagain/iglu)
 
 **Gaynanova I**, Punjabi N and Crainiceanu C (2022). [Modeling continuous glucose monitoring (CGM) data during sleep.](https://doi.org/10.1093/biostatistics/kxaa023) *Biostatistics*, Vol. 23, No. 1, 223-239. [[R code]](https://github.com/irinagain/cgm-multi-level-beta)
 

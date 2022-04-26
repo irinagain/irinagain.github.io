@@ -31,6 +31,10 @@ subtitle: Associate Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **April 2021:** Our paper with Dongbang Yuan on *Double-matched matrix decomposition for multi-view data* has been accepted to [Journal of Computational and Graphical Statistics](https://doi.org/10.1080/10618600.2022.2067860)
+
+* **April 2021:** Our paper with Nisha R. Aurora, Pratik Patel and Naresh Punjabi on *Glucose profiles in obstructive sleep apnea and type 2 diabetes mellitus* has been accepted to [Sleep Medicine](https://doi.org/10.1016/j.sleep.2022.04.007)
+
 * **December 2021:** Our paper with Nathaniel Fernandes, Nhan Nguyen, Elizabeth Chun and Naresh Punjabi on *Open-Source Algorithm to Calculate Mean Amplitude of Glycemic Excursions Using Short and Long Moving Averages* has been accepted to [Journal of Diabetes Science and Technology](https://doi.org/10.1177/19322968211061165)
 
 * **November 2021:** Our paper with Alex Lapanowski on *Compressing large sample data for discriminant analysis" has been accepted for [2021 IEEE International Conference on Big Data](https://bigdataieee.org/BigData2021/AcceptedPapers.html) 
@@ -55,6 +59,8 @@ subtitle: Associate Professor, Department of Statistics, Texas A&M University
 
 * **April 2021:** Our paper on *"Interpreting blood glucose data with R package iglu."* has been accepted to [PLoS one](https://doi.org/10.1371/journal.pone.0248560). You can download iglu from [CRAN](https://cran.rstudio.com/web/packages/iglu/index.html) or install from [Github](https://github.com/irinagain/iglu) for most recent developments. All the functionality is also available directly as the [shiny app](https://irinagain.shinyapps.io/shiny_iglu/).
 
+<!--
+
 * **February 2021:** A manuscript with  with [Grace Yoon](http://www.stat.tamu.edu/~gyoon/) and [Christian L Müller](https://www.simonsfoundation.org/team/christian-muller/) on 
 *"Fast computation of latent correlations"* has appeared in [JCGS](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1882468). Check out [[R code to reproduce simulations]](https://github.com/GraceYoon/Fast-latent-correlation) and the improved [[R package]](https://github.com/irinagain/mixedCCA) to estimate latent correlations for mixed (continuous, binary and zero-inflated) variable types.
 
@@ -67,7 +73,7 @@ subtitle: Associate Professor, Department of Statistics, Texas A&M University
 
 * **June 2020:** Our team has released [a list of public Continuous Glucose Monitoring (CGM) datasets](https://github.com/irinagain/Awesome-CGM). Thank you to an amazing team of undergraduate researchers: Mary Martin, Elizabeth Chun, David Buchanan, Eric Wang and Sangaman Senthil who assembled this collection as part of their [Aggie Research Project](https://aggieresearch.tamu.edu).
 
-<!--
+
 * **September 2020:** Our team has released version 2 of [an R package iglu for analysis of Continuous Glucose Monitoring (CGM) data](https://github.com/irinagain/iglu). The package is also available from CRAN ([iglu](https://cran.rstudio.com/web/packages/iglu/index.html)) and you can learn more about it from the [accompanying website](https://irinagain.github.io/iglu/). All the functionality is also available directly as the [shiny app](https://irinagain.shinyapps.io/shiny_iglu/). The introductory paper/extended vignette is coming soon!
 
 
