@@ -31,6 +31,10 @@ subtitle: Associate Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **May 2021:** A new manuscript with John Schwenck and Naresh Punjabi describing [R package bp](https://github.com/johnschwenck/bp)) for analyses of blood pressure data, including data from Ambulatory Blood Pressure Monitors (ABPM), is available on [medRxiv](https://www.medrxiv.org/content/10.1101/2022.05.12.22274995v1)
+
+* **May 2021:** Irina was invited to write an article for ASA Biopharmaceutical report issue on "Digital Health", access the issue [here](https://higherlogicdownload.s3.amazonaws.com/AMSTAT/fa4dd52c-8429-41d0-abdf-0011047bfa19/UploadedImages/BIOP%20Report/BioPharm_spring2022_FINAL.pdf) to read on *Digital biomarkers of glucose control - reproducibility challenges and opportunities.*
+
 * **April 2021:** Our paper with Dongbang Yuan on *Double-matched matrix decomposition for multi-view data* has been accepted to [Journal of Computational and Graphical Statistics](https://doi.org/10.1080/10618600.2022.2067860)
 
 * **April 2021:** Our paper with Nisha R. Aurora, Pratik Patel and Naresh Punjabi on *Glucose profiles in obstructive sleep apnea and type 2 diabetes mellitus* has been accepted to [Sleep Medicine](https://doi.org/10.1016/j.sleep.2022.04.007)
@@ -44,6 +48,8 @@ subtitle: Associate Professor, Department of Statistics, Texas A&M University
 * **September 2021:** Our paper with Mingze Huang and [Christian L Müller](https://www.simonsfoundation.org/team/christian-muller/) on *"latentcor: an R package for estimating latent correlations from mixed data types"* has been accepted to [Journal of Open Source Software](https://doi.org/10.21105/joss.03634)
 
 * **August 2021:** Our paper with Yunfeng Zhang on *"Joint association and classification analysis of multi-view data"* has been accepted to [Biometrics](https://doi.org/10.1111/biom.13536)
+
+<!--
 
 * **June 2021:** Irina has been awarded tenure and promotion to Associate Professor at Texas A&M effective September 1, 2021
 
@@ -59,7 +65,7 @@ subtitle: Associate Professor, Department of Statistics, Texas A&M University
 
 * **April 2021:** Our paper on *"Interpreting blood glucose data with R package iglu."* has been accepted to [PLoS one](https://doi.org/10.1371/journal.pone.0248560). You can download iglu from [CRAN](https://cran.rstudio.com/web/packages/iglu/index.html) or install from [Github](https://github.com/irinagain/iglu) for most recent developments. All the functionality is also available directly as the [shiny app](https://irinagain.shinyapps.io/shiny_iglu/).
 
-<!--
+
 
 * **February 2021:** A manuscript with  with [Grace Yoon](http://www.stat.tamu.edu/~gyoon/) and [Christian L Müller](https://www.simonsfoundation.org/team/christian-muller/) on 
 *"Fast computation of latent correlations"* has appeared in [JCGS](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1882468). Check out [[R code to reproduce simulations]](https://github.com/GraceYoon/Fast-latent-correlation) and the improved [[R package]](https://github.com/irinagain/mixedCCA) to estimate latent correlations for mixed (continuous, binary and zero-inflated) variable types.

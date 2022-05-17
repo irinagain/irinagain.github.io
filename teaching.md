@@ -11,6 +11,9 @@ Dr. Gaynanova’s teaching methods emphasize reproducible research practices, st
 **STAT 211: Principles of Statistics I.** *(Fall 2015, 2016; Spring 2016, 2017)*
 Calculus-based introduction to probability and probability distributions; sampling and descriptive measures; inference and hypothesis testing; analysis of variance; linear regression.
 
+**STAT 489: Structured Research Experience in Statistics** (Summer 2021, Spring 2022)
+Research project based on simulation studies in statistics; version control; reproducible computations; simulation study design; publication-quality figures; scientific writing.
+
 **STAT 610: Distribution Theory.** *(Fall 2017, 2018, 2019, 2020, 2021)*
 Graduate-level introduction to probability theory; distributions and expectations of random variables, transformations of random variables and order statistics; generating functions and basic limit concepts. 
 

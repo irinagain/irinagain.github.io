@@ -88,9 +88,7 @@ title: Group
 
 
 * Elizabeth Chun (BMCB)
-
-
-
+* Devon Maywald (APMS)
 
 
 
@@ -110,7 +108,7 @@ title: Group
 
 ### Undergraduate students 
 
-Steven Broll (STAT), Eric Wang (ENGE), Sangaman Senthil (INEN), Nhan Nguyen (ENGE), Mary Martin (STAT), Pratik Patel (STAT), Ashok Meyyappan (SPSC), Johnathan Shih (STAT), Jung Hoon Seo (CPSC), Marielle Hicban (BMEN), David Buchanan (STAT),  Nathaniel Fernandez (ENGE), Devon Maywald (APMS), Kyle Schichl (STAT), Yixin Zhang (STAT)
+Steven Broll (STAT), David Buchanan (STAT), Nathaniel Fernandez (ENGE), Marielle Hicban (BMEN), Nicholas Kasman (ENGE), Mary Martin (STAT), Ashok Meyyappan (SPSC), Nhan Nguyen (ENGE), Pratik Patel (STAT), Kyle Schichl (STAT), Sangaman Senthil (INEN), Jung Hoon Seo (CPSC), Johnathan Shih (STAT), Eric Wang (ENGE), Yixin Zhang (STAT)
 
 
 
