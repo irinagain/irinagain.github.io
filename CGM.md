@@ -31,6 +31,8 @@ Our team has released [a list of public Continuous Glucose Monitoring (CGM) data
 
 ### Relevant publications:
 
+* Sergazinov R\*, Leroux A, Cui E, Crainiceanu C, Aurora RN, Punjabi N and **Gaynanova I** (2022+). [A case study of glucose levels during sleep using fast function on scalar regression inference.](https://arxiv.org/abs/2205.08439) *arXiv*
+
 * **Gaynanova I** (2022). [Digital biomarkers of glucose control - reproducibility challenges and opportunities.](https://higherlogicdownload.s3.amazonaws.com/AMSTAT/fa4dd52c-8429-41d0-abdf-0011047bfa19/UploadedImages/BIOP%20Report/BioPharm_spring2022_FINAL.pdf) ASA Biopharmaceutical Report, Vol. 29, No. 1, 21-26.
 
 * Aurora RN, **Gaynanova I**, Patel P\*, and Punjabi N (2022). [Glucose profiles in obstructive sleep apnea and type 2 diabetes mellitus.](https://doi.org/10.1016/j.sleep.2022.04.007) *Sleep Medicine*, Vol. 95, 105-111

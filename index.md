@@ -31,13 +31,17 @@ subtitle: Associate Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
-* **May 2021:** A new manuscript with John Schwenck and Naresh Punjabi describing [R package bp](https://github.com/johnschwenck/bp)) for analyses of blood pressure data, including data from Ambulatory Blood Pressure Monitors (ABPM), is available on [medRxiv](https://www.medrxiv.org/content/10.1101/2022.05.12.22274995v1)
+* **June 2022:** A new manuscript with [Sangyoon Yi](https://people.tamu.edu/~sangyoon0704/) and [Raymond Wong](https://raymondkww.github.io) on *"Hierarchical nuclear norm penalization for multi-view data"* is now available on [arXiv](https://arxiv.org/abs/2206.12891). [R code](http://github.com/sangyoonstat/HNN paper.) to reproduce the results.
 
-* **May 2021:** Irina was invited to write an article for ASA Biopharmaceutical report issue on "Digital Health", access the issue [here](https://higherlogicdownload.s3.amazonaws.com/AMSTAT/fa4dd52c-8429-41d0-abdf-0011047bfa19/UploadedImages/BIOP%20Report/BioPharm_spring2022_FINAL.pdf) to read on *Digital biomarkers of glucose control - reproducibility challenges and opportunities.*
+* **May 2022:** A new manuscript with [Renat Sergazinov](https://mrsergazinov.github.io), Andrew Leroux, [Erjia Cui](https://sites.google.com/view/erjiacui/home), [Ciprian Crainiceanu](http://ciprianstats.org), R. Nisha Aurora and Naresh M. Punjabi on *"A case study of glucose levels during sleep using fast function on scalar regression inference"* is now available on [arXiv](https://arxiv.org/abs/2205.08439). 
 
-* **April 2021:** Our paper with Dongbang Yuan on *Double-matched matrix decomposition for multi-view data* has been accepted to [Journal of Computational and Graphical Statistics](https://doi.org/10.1080/10618600.2022.2067860)
+* **May 2022:** A new manuscript with John Schwenck and Naresh Punjabi describing [R package bp](https://github.com/johnschwenck/bp) for analyses of blood pressure data, including data from Ambulatory Blood Pressure Monitors (ABPM), is available on [medRxiv](https://www.medrxiv.org/content/10.1101/2022.05.12.22274995v1)
 
-* **April 2021:** Our paper with Nisha R. Aurora, Pratik Patel and Naresh Punjabi on *Glucose profiles in obstructive sleep apnea and type 2 diabetes mellitus* has been accepted to [Sleep Medicine](https://doi.org/10.1016/j.sleep.2022.04.007)
+* **May 2022:** Irina was invited to write an article for ASA Biopharmaceutical report issue on "Digital Health", access the issue [here](https://higherlogicdownload.s3.amazonaws.com/AMSTAT/fa4dd52c-8429-41d0-abdf-0011047bfa19/UploadedImages/BIOP%20Report/BioPharm_spring2022_FINAL.pdf) to read on *Digital biomarkers of glucose control - reproducibility challenges and opportunities.*
+
+* **April 2022:** Our paper with Dongbang Yuan on *Double-matched matrix decomposition for multi-view data* has been accepted to [Journal of Computational and Graphical Statistics](https://doi.org/10.1080/10618600.2022.2067860)
+
+* **April 2022:** Our paper with Nisha R. Aurora, Pratik Patel and Naresh Punjabi on *Glucose profiles in obstructive sleep apnea and type 2 diabetes mellitus* has been accepted to [Sleep Medicine](https://doi.org/10.1016/j.sleep.2022.04.007)
 
 * **December 2021:** Our paper with Nathaniel Fernandes, Nhan Nguyen, Elizabeth Chun and Naresh Punjabi on *Open-Source Algorithm to Calculate Mean Amplitude of Glycemic Excursions Using Short and Long Moving Averages* has been accepted to [Journal of Diabetes Science and Technology](https://doi.org/10.1177/19322968211061165)
 
@@ -45,11 +49,13 @@ subtitle: Associate Professor, Department of Statistics, Texas A&M University
 
 * **October 2021:** Irina is honored with Dr. Judith Edmiston Mentoring Award from TAMU College of Science. [Press release for all College of Science 2021 Award Winners](https://science.tamu.edu/news/2021/10/college-of-science-honors-2021-award-winners/)
 
+<!--
+
 * **September 2021:** Our paper with Mingze Huang and [Christian L Müller](https://www.simonsfoundation.org/team/christian-muller/) on *"latentcor: an R package for estimating latent correlations from mixed data types"* has been accepted to [Journal of Open Source Software](https://doi.org/10.21105/joss.03634)
 
 * **August 2021:** Our paper with Yunfeng Zhang on *"Joint association and classification analysis of multi-view data"* has been accepted to [Biometrics](https://doi.org/10.1111/biom.13536)
 
-<!--
+
 
 * **June 2021:** Irina has been awarded tenure and promotion to Associate Professor at Texas A&M effective September 1, 2021
 

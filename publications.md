@@ -8,7 +8,12 @@ bigimg: /img/DSCN2128.JPG
 
 ### Pre-prints
 
-Schwenck J\*, Punjabi N and **Gaynanova I** (2022+) [bp: Blood Pressure analysis in R](https://www.medrxiv.org/content/10.1101/2022.05.12.22274995v1) *medRxiv* [[R package on CRAN]](https://cran.r-project.org/package=bp) [[R package on GitHub]](https://github.com/johnschwenck/bp)
+Yi S\*, Wong R and **Gaynanova I** (2022+). [Hierarchical nuclear norm penalization for multi-view data.](https://arxiv.org/abs/2206.12891) *arXiv* [[R code]](http://github.com/sangyoonstat/HNN paper.)
+
+Sergazinov R\*, Leroux A, Cui E, Crainiceanu C, Aurora RN, Punjabi N and **Gaynanova I** (2022+). [A case study of glucose levels during sleep using fast function on scalar regression inference.](https://arxiv.org/abs/2205.08439) *arXiv*
+
+Schwenck J\*, Punjabi N and **Gaynanova I** (2022+). [bp: Blood Pressure analysis in R.](https://www.medrxiv.org/content/10.1101/2022.05.12.22274995v1) *medRxiv* [[R package on CRAN]](https://cran.r-project.org/package=bp) [[R package on GitHub]](https://github.com/johnschwenck/bp)
+
 
 
 ### 2022
