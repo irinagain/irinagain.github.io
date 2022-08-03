@@ -8,6 +8,8 @@ bigimg: /img/DSCN2128.JPG
 
 ### Pre-prints
 
+Yuan D\*, Zhang Y\*, Guo S, Wang W and **Gaynanova I** (2022+). [Exponential canonical correlation analysis with orthogonal variation.](https://arxiv.org/abs/2208.00048) *arXiv* [[R code]](https://github.com/IrinaStatsLab/ECCA)
+
 Yi S\*, Wong R and **Gaynanova I** (2022+). [Hierarchical nuclear norm penalization for multi-view data.](https://arxiv.org/abs/2206.12891) *arXiv* [[R code]](http://github.com/sangyoonstat/HNN paper.)
 
 Sergazinov R\*, Leroux A, Cui E, Crainiceanu C, Aurora RN, Punjabi N and **Gaynanova I** (2022+). [A case study of glucose levels during sleep using fast function on scalar regression inference.](https://arxiv.org/abs/2205.08439) *arXiv*

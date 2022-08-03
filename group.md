@@ -32,15 +32,6 @@ title: Group
 <div class="container">
 <div class="row">&nbsp;</div>
 
-<div class="row">
-	<!--<div class="col-md-3"><a class="thumb" href="#">
-		<img src="http://heech31.github.io" class="img-responsive" alt="Hee Cheol Chung"/></a>
-	</div>-->
-	<div class="col-md-6">
-		<p> <a href="https://heech31.github.io"> Hee Cheol Chung </a> <br>
-		Postdoctoral Research Associate	</p>
-	</div>
-</div>
 
 <div class="row">
 	<!--<div class="col-md-3"><a class="thumb" href="#">
@@ -52,15 +43,7 @@ title: Group
 	</div>
 </div>
 
-<div class="row">
-	<!--<div class="col-md-3"><a class="thumb" href="#">
-		<img src="https://irinagain.github.io/img/Dongbang.jpg" class="img-responsive" alt="Dongbang"/></a>
-	</div>-->
-	<div class="col-md-6">
-		<p>Dongbang Yuan <br>
-		PhD Student in Statistics	</p>
-	</div>
-</div>
+
 
 <div class="row">
 	<!--<div class="col-md-3"><a class="thumb" href="#">
@@ -105,6 +88,10 @@ title: Group
 * Alex Lapanowski. Now a Senior Scientist at SABIC.
 
 * [John Schwenck](John Schwenck). Now a Quantitative Analyst at Wells Fargo.
+
+* [Hee Cheol Chung](https://heech31.github.io) Now an Assistant Professor at University of North Carolina, Chapel Hill
+
+* Dongbang Yuan. Now a Senior Scientist at Meta.
 
 ### Undergraduate students 
 
