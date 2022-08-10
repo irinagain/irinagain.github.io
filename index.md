@@ -31,6 +31,8 @@ subtitle: Associate Professor, Department of Statistics, Texas A&M University
 
 ### NEWS:
 
+* **August 2022:** A new manuscript with Hee Cheol Chung and Yang Ni on *"Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data"* is now available on [arXiv](https://arxiv.org/abs/2208.03734). 
+
 * **August 2022:** A new manuscript with Dongbang Yuan, Yunfeng Zhang, Shuai Guo and [Wenyi Wang](https://odin.mdacc.tmc.edu/~wwang7/) on *"Exponential canonical correlation analysis with orthogonal variation"* is now available on [arXiv](https://arxiv.org/abs/2208.00048). [R code](https://github.com/IrinaStatsLab/ECCA) to reproduce the results.
 
 * **June 2022:** A new manuscript with [Sangyoon Yi](https://people.tamu.edu/~sangyoon0704/) and [Raymond Wong](https://raymondkww.github.io) on *"Hierarchical nuclear norm penalization for multi-view data"* is now available on [arXiv](https://arxiv.org/abs/2206.12891). [R code](http://github.com/sangyoonstat/HNN paper) to reproduce the results.

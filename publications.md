@@ -8,6 +8,8 @@ bigimg: /img/DSCN2128.JPG
 
 ### Pre-prints
 
+Chung HC\*, Ni Y and and **Gaynanova I** (2022+). [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data](https://arxiv.org/abs/2208.03734) *arXiv* 
+
 Yuan D\*, Zhang Y\*, Guo S, Wang W and **Gaynanova I** (2022+). [Exponential canonical correlation analysis with orthogonal variation.](https://arxiv.org/abs/2208.00048) *arXiv* [[R code]](https://github.com/IrinaStatsLab/ECCA)
 
 Yi S\*, Wong R and **Gaynanova I** (2022+). [Hierarchical nuclear norm penalization for multi-view data.](https://arxiv.org/abs/2206.12891) *arXiv* [[R code]](http://github.com/sangyoonstat/HNN paper.)
