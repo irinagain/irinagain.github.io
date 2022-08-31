@@ -1,37 +1,9 @@
 ---
 layout: page
-title: Irina Gaynanova
-subtitle: Associate Professor, Department of Statistics, Texas A&M University
+title: NEWS
+bigimg: /img/DSCN1639.JPG
 ---
 
-<div class="container">
-<div class="row">&nbsp;</div>
-<div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="img/Medium.jpg" class="img-responsive" alt="Irina Gaynanova"/></a>
-	</div>
-	<div class="col-md-6">
-	<h3>Contact:</h3>
-		<p> <a href = "http://www.stat.tamu.edu"> Department of Statistics</a> <br>
-		<a href="http://www.tamu.edu"> Texas A&M University </a> <br>
-		3143 TAMU <br>
-		College Station, TX 77843 <br>
-		<strong>Office:</strong> 458D Blocker <br>
-		<strong>Email:</strong> irinag [at] stat.tamu.edu <br>
-		<a href = "https://irinagain.github.io/Resources/IrinaGaynanovaCV.pdf"> Click here for CV</a> <br>
-		<a href = "https://irinagain.github.io/bio"> Click here for short Bio</a> <br>
-		<!--<a href = "https://irinagain.github.io/groupjoin"> Click here for opportunities to join the group </a>-->
-		</p>
-	</div>
-</div>
-	
-<hr>
-
-</div>
-
-I develop statistical methods to analyse modern high-dimensional biomedical data. My methodological interests are primarily in data integration, machine learning and high-dimensional statistics, motivated by challenges arising in analyses of multi-omics data (e.g. RNASeq, metabolomics, micribiome) and data from wearable devices (continuous glucose monitors, ambulatory blood pressure monitors, activity trackers). I am convinced that challenging applied problems give rise to better statistical methodology, and that better statistical methodology in turn aids scientific discovery. I believe that collaboration plays a key role in achieving this goal and I enjoy working with both domain scientists and methodological researchers. My research has been supported by the National Science Foundation, and recognized with a David P. Byar Young Investigator Award from the Biometrics section of the American Statistical Association and NSF CAREER Award. I deeply care about the training of next generation, and put large emphasis on reproducible research practices and computational skills in my [teaching](https://irinagain.github.io/teaching). I embrace integration of my research and education missions, and employ a team-based approach to research with active student engagement. My efforts in mentoring undergraduate students have been recognized with Dr. Judith Edmiston Mentoring Award from the Texas A&M College of Scince. If you would like to join the research group, [click here](https://irinagain.github.io/groupjoin) to explore available opportunities.
-
-### Recent news:
 
 * **August 2022:** A new manuscript with Hee Cheol Chung and Yang Ni on *"Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data"* is now available on [arXiv](https://arxiv.org/abs/2208.03734). 
 
@@ -39,9 +11,7 @@ I develop statistical methods to analyse modern high-dimensional biomedical data
 
 * **June 2022:** A new manuscript with [Sangyoon Yi](https://people.tamu.edu/~sangyoon0704/) and [Raymond Wong](https://raymondkww.github.io) on *"Hierarchical nuclear norm penalization for multi-view data"* is now available on [arXiv](https://arxiv.org/abs/2206.12891). [R code](http://github.com/sangyoonstat/HNN paper) to reproduce the results.
 
-* [Older news](https://irinagain.github.io/news)
-
-<!-- * **May 2022:** A new manuscript with [Renat Sergazinov](https://mrsergazinov.github.io), Andrew Leroux, [Erjia Cui](https://sites.google.com/view/erjiacui/home), [Ciprian Crainiceanu](http://ciprianstats.org), R. Nisha Aurora and Naresh M. Punjabi on *"A case study of glucose levels during sleep using fast function on scalar regression inference"* is now available on [arXiv](https://arxiv.org/abs/2205.08439). 
+* **May 2022:** A new manuscript with [Renat Sergazinov](https://mrsergazinov.github.io), Andrew Leroux, [Erjia Cui](https://sites.google.com/view/erjiacui/home), [Ciprian Crainiceanu](http://ciprianstats.org), R. Nisha Aurora and Naresh M. Punjabi on *"A case study of glucose levels during sleep using fast function on scalar regression inference"* is now available on [arXiv](https://arxiv.org/abs/2205.08439). 
 
 * **May 2022:** A new manuscript with John Schwenck and Naresh Punjabi describing [R package bp](https://github.com/johnschwenck/bp) for analyses of blood pressure data, including data from Ambulatory Blood Pressure Monitors (ABPM), is available on [medRxiv](https://www.medrxiv.org/content/10.1101/2022.05.12.22274995v1)
 
@@ -57,7 +27,6 @@ I develop statistical methods to analyse modern high-dimensional biomedical data
 
 * **October 2021:** Irina is honored with Dr. Judith Edmiston Mentoring Award from TAMU College of Science. [Press release for all College of Science 2021 Award Winners](https://science.tamu.edu/news/2021/10/college-of-science-honors-2021-award-winners/)
 
-<!--
 
 * **September 2021:** Our paper with Mingze Huang and [Christian L Müller](https://www.simonsfoundation.org/team/christian-muller/) on *"latentcor: an R package for estimating latent correlations from mixed data types"* has been accepted to [Journal of Open Source Software](https://doi.org/10.21105/joss.03634)
 
@@ -131,31 +100,3 @@ I develop statistical methods to analyse modern high-dimensional biomedical data
 * **January 2018:** A new manuscript on *"Prediction Error Bounds for Linear Regression With the TREX"* is now available on [arXiv](https://arxiv.org/abs/1801.01394)
 * **November 2017:** A new manuscript on *"Sparse quadratic classification rules via linear dimension reduction"* is now available on [arXiv](https://arxiv.org/abs/1711.04817)
 * **May 2017:** NSF DMS-1712943 grant, [Scalable Methods for Classification of Heterogeneous High-Dimensional Data](https://nsf.gov/awardsearch/showAward?AWD_ID=1712943&HistoricalAwards=false)
-
-
-
-<div class="row">
-	<div class="col-md-8">
-		<h3>NEWS:</h3>
-		
-	</div>	
-	
-
-	
-	
-<div class="row">&nbsp;</div>
-</div>	
-
--->
-
-		
-
-     
-
-
-
-
-
-
-
-
