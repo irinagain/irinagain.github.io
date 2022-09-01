@@ -20,14 +20,14 @@ subtitle: Associate Professor, Department of Statistics, Texas A&M University
 		<strong>Email:</strong> irinag [at] stat.tamu.edu <br>
 		<br>
 		</p>
-		<center>
-		<p style="text-align:center">
+		<!--<p style="text-align:center">-->
+		<p>
 		<font size="+4">
 		<b>
-		    <a href = "https://irinagain.github.io/Resources/IrinaGaynanovaCV.pdf"> CV</a> <br>
+		    <a href = "https://irinagain.github.io/Resources/IrinaGaynanovaCV.pdf"> Link to CV</a> <br>
 		</b>
 		</font>
-		</p> </center>
+		</p> 
 		<!--<a href = "https://irinagain.github.io/bio"> Click here for short Bio</a> <br>-->
 		<!--<a href = "https://irinagain.github.io/groupjoin"> Click here for opportunities to join the group </a>-->	
 	</div>
