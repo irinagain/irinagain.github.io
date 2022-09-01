@@ -37,10 +37,10 @@ title: Group
 	<!--<div class="col-md-3"><a class="thumb" href="#">
 		<img src="https://irinagain.github.io/img/GraceYoon.jpg" class="img-responsive" alt="Grace Yoon"/></a>
 	</div>-->
-	<div class="col-md-6">
+	<!--<div class="col-md-6">
 		<p> <a href = "https://people.tamu.edu/~sangyoon0704/"> Sangyoon Yi </a> <br>
 		Postdoctoral Research Associate	</p>
-	</div>
+	</div>-->
 </div>
 
 
@@ -92,6 +92,8 @@ title: Group
 * [Hee Cheol Chung](https://heech31.github.io) Now an Assistant Professor at University of North Carolina, Chapel Hill
 
 * Dongbang Yuan. Now a Senior Scientist at Meta.
+
+* Sangyoon Yi. Now an Assistant Professor at Oklahoma State University.
 
 ### Undergraduate students 
 
