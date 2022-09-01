@@ -18,14 +18,18 @@ subtitle: Associate Professor, Department of Statistics, Texas A&M University
 		College Station, TX 77843 <br>
 		<strong>Office:</strong> 458D Blocker <br>
 		<strong>Email:</strong> irinag [at] stat.tamu.edu <br>
-		<font size="+2">
+		<br>
+		</p>
+		<center>
+		<p style="text-align:center">
+		<font size="+4">
 		<b>
-		<a href = "https://irinagain.github.io/Resources/IrinaGaynanovaCV.pdf"> CV</a> <br>
+		    <a href = "https://irinagain.github.io/Resources/IrinaGaynanovaCV.pdf"> CV</a> <br>
 		</b>
 		</font>
+		</p> </center>
 		<!--<a href = "https://irinagain.github.io/bio"> Click here for short Bio</a> <br>-->
-		<!--<a href = "https://irinagain.github.io/groupjoin"> Click here for opportunities to join the group </a>-->
-		</p>
+		<!--<a href = "https://irinagain.github.io/groupjoin"> Click here for opportunities to join the group </a>-->	
 	</div>
 </div>
 	
