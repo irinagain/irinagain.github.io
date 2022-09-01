@@ -22,7 +22,7 @@ subtitle: Associate Professor, Department of Statistics, Texas A&M University
 		</p>
 		<!--<p style="text-align:center">-->
 		<p>
-		<font size="+4">
+		<font size="+3">
 		<b>
 		    <a href = "https://irinagain.github.io/Resources/IrinaGaynanovaCV.pdf"> Link to CV</a> <br>
 		</b>
