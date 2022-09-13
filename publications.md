@@ -8,16 +8,15 @@ bigimg: /img/DSCN2128.JPG
 
 ### Pre-prints
 
-Chung HC\*, Ni Y and and **Gaynanova I** (2022+). [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data](https://arxiv.org/abs/2208.03734) *arXiv* 
+Chung HC\*, Ni Y and and **Gaynanova I** (2022+). [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data.](https://arxiv.org/abs/2208.03734) *arXiv* 
 
 Yuan D\*, Zhang Y\*, Guo S, Wang W and **Gaynanova I** (2022+). [Exponential canonical correlation analysis with orthogonal variation.](https://arxiv.org/abs/2208.00048) *arXiv* [[R code]](https://github.com/IrinaStatsLab/ECCA)
 
-Yi S\*, Wong R and **Gaynanova I** (2022+). [Hierarchical nuclear norm penalization for multi-view data.](https://arxiv.org/abs/2206.12891) *arXiv* [[R code]](http://github.com/sangyoonstat/HNN paper.)
+Yi S\*, Wong R and **Gaynanova I** (2022+). [Hierarchical nuclear norm penalization for multi-view data.](https://arxiv.org/abs/2206.12891) *arXiv* [[R code]](http://github.com/sangyoonstat/HNN paper)
 
 Sergazinov R\*, Leroux A, Cui E, Crainiceanu C, Aurora RN, Punjabi N and **Gaynanova I** (2022+). [A case study of glucose levels during sleep using fast function on scalar regression inference.](https://arxiv.org/abs/2205.08439) *arXiv*
 
-Schwenck J\*, Punjabi N and **Gaynanova I** (2022+). [bp: Blood Pressure analysis in R.](https://www.medrxiv.org/content/10.1101/2022.05.12.22274995v1) *medRxiv* [[R package on CRAN]](https://cran.r-project.org/package=bp) [[R package on GitHub]](https://github.com/johnschwenck/bp)
-
+Sergazinov R\*, Armandpour M and **Gaynanova I** (2022+). [Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification.](https://arxiv.org/abs/2209.04526) *arXiv* [[Python code]](https://github.com/mrsergazinov/gluformer)
 
 
 ### 2022
@@ -28,11 +27,13 @@ Chung HC\*, **Gaynanova I** and Ni Y (2022+). [Phylogenetically informed Bayesia
 
 Zhang Y\* and **Gaynanova I** (2022+). [Joint association and classification analysis of multi-view data.](https://doi.org/10.1111/biom.13536) *Biometrics*, accepted. [[R package]](https://github.com/Pennisetum/JACA)
 
+Schwenck J\*, Punjabi N and **Gaynanova I** (2022). [bp: Blood Pressure analysis in R.](https://doi.org/10.1371/journal.pone.0268934) *PLoS One*, Vol. 17, No. 9, e0268934.  [[R package on CRAN]](https://cran.r-project.org/package=bp) [[R package on GitHub]](https://github.com/johnschwenck/bp)
+
 **Gaynanova I** (2022). [Digital biomarkers of glucose control - reproducibility challenges and opportunities.](https://higherlogicdownload.s3.amazonaws.com/AMSTAT/fa4dd52c-8429-41d0-abdf-0011047bfa19/UploadedImages/BIOP%20Report/BioPharm_spring2022_FINAL.pdf) ASA Biopharmaceutical Report, Vol. 29, No. 1, 21-26.
 
-Aurora RN, **Gaynanova I**, Patel P\*, and Punjabi N (2022).[Glucose profiles in obstructive sleep apnea and type 2 diabetes mellitus.](https://doi.org/10.1016/j.sleep.2022.04.007) *Sleep Medicine*, Vol. 95, 105-111
+Aurora RN, **Gaynanova I**, Patel P\*, and Punjabi N (2022). [Glucose profiles in obstructive sleep apnea and type 2 diabetes mellitus.](https://doi.org/10.1016/j.sleep.2022.04.007) *Sleep Medicine*, Vol. 95, 105-111
 
-Fernandes N\*, Nguyen N\*, Chun E\*, Punjabi N and **Gaynanova I** (2022). [Open-Source Algorithm to Calculate Mean Amplitude of Glycemic Excursions Using Short and Long Moving Averages](https://doi.org/10.1177/19322968211061165) *Journal of Diabetes Science and Technology*, Vol. 16,  No. 2, 576-577. [[Github page to reproduce]](https://github.com/Nathaniel-Fernandes/mage_algorithm_data) [[R package with implementation]](https://github.com/irinagain/iglu)
+Fernandes N\*, Nguyen N\*, Chun E\*, Punjabi N and **Gaynanova I** (2022). [Open-Source Algorithm to Calculate Mean Amplitude of Glycemic Excursions Using Short and Long Moving Averages.](https://doi.org/10.1177/19322968211061165) *Journal of Diabetes Science and Technology*, Vol. 16,  No. 2, 576-577. [[Github page to reproduce]](https://github.com/Nathaniel-Fernandes/mage_algorithm_data) [[R package with implementation]](https://github.com/irinagain/iglu)
 
 **Gaynanova I**, Punjabi N and Crainiceanu C (2022). [Modeling continuous glucose monitoring (CGM) data during sleep.](https://doi.org/10.1093/biostatistics/kxaa023) *Biostatistics*, Vol. 23, No. 1, 223-239. [[R code]](https://github.com/irinagain/cgm-multi-level-beta)
 
