@@ -23,9 +23,9 @@ Sergazinov R\*, Armandpour M and **Gaynanova I** (2022+). [Gluformer: Transforme
 
 Yuan D\* and **Gaynanova I** (2022+). [Double-matched matrix decomposition for multi-view data.](https://doi.org/10.1080/10618600.2022.2067860) *Journal of Computational and Graphical Statistics*, accepted. [[R code]](https://github.com/justicesuker/DMMD_Code)
 
-Chung HC\*, **Gaynanova I** and Ni Y (2022+). [Phylogenetically informed Bayesian truncated copula graphical models for microbial association networks.](https://arxiv.org/abs/2105.05082) *Annals of Applied Statistics*, accepted.  [[R code]](https://github.com/heech31/phyloBCG)
-
 Zhang Y\* and **Gaynanova I** (2022+). [Joint association and classification analysis of multi-view data.](https://doi.org/10.1111/biom.13536) *Biometrics*, accepted. [[R package]](https://github.com/Pennisetum/JACA)
+
+Chung HC\*, **Gaynanova I** and Ni Y (2022). [Phylogenetically informed Bayesian truncated copula graphical models for microbial association networks.](https://doi.org/10.1214/21-AOAS1598) *Annals of Applied Statistics*, Vol. 16, No. 4, 2437–2457.  [[R code]](https://github.com/heech31/phyloBCG)
 
 Schwenck J\*, Punjabi N and **Gaynanova I** (2022). [bp: Blood Pressure analysis in R.](https://doi.org/10.1371/journal.pone.0268934) *PLoS One*, Vol. 17, No. 9, e0268934.  [[R package on CRAN]](https://cran.r-project.org/package=bp) [[R package on GitHub]](https://github.com/johnschwenck/bp)
 
