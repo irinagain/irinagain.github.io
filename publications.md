@@ -21,9 +21,9 @@ Sergazinov R\*, Armandpour M and **Gaynanova I** (2022+). [Gluformer: Transforme
 
 ### 2022
 
-Yuan D\* and **Gaynanova I** (2022+). [Double-matched matrix decomposition for multi-view data.](https://doi.org/10.1080/10618600.2022.2067860) *Journal of Computational and Graphical Statistics*, accepted. [[R code]](https://github.com/justicesuker/DMMD_Code)
-
 Zhang Y\* and **Gaynanova I** (2022+). [Joint association and classification analysis of multi-view data.](https://doi.org/10.1111/biom.13536) *Biometrics*, accepted. [[R package]](https://github.com/Pennisetum/JACA)
+
+Yuan D\* and **Gaynanova I** (2022). [Double-matched matrix decomposition for multi-view data.](https://doi.org/10.1080/10618600.2022.2067860) *Journal of Computational and Graphical Statistics*, Vol. 31, No. 4, 1114-1126. [[R code]](https://github.com/justicesuker/DMMD_Code)
 
 Chung HC\*, **Gaynanova I** and Ni Y (2022). [Phylogenetically informed Bayesian truncated copula graphical models for microbial association networks.](https://doi.org/10.1214/21-AOAS1598) *Annals of Applied Statistics*, Vol. 16, No. 4, 2437–2457.  [[R code]](https://github.com/heech31/phyloBCG)
 

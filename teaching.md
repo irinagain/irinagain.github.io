@@ -14,13 +14,13 @@ Calculus-based introduction to probability and probability distributions; sampli
 **STAT 489: Structured Research Experience in Statistics** (Summer 2021, Spring 2022)
 Research project based on simulation studies in statistics; version control; reproducible computations; simulation study design; publication-quality figures; scientific writing.
 
-**STAT 610: Distribution Theory.** *(Fall 2017, 2018, 2019, 2020, 2021)*
+**STAT 610: Distribution Theory.** *(Fall 2017, 2018, 2019, 2020, 2021, 2022)*
 Graduate-level introduction to probability theory; distributions and expectations of random variables, transformations of random variables and order statistics; generating functions and basic limit concepts. 
 
 **STAT 689/STAT 695: Statistical Learning with Sparsity.** *(Spring 2017, 2020)*
 Graduate-level class covering penalized empirical loss minimization methods with sparsity-inducing penalties. The course also includes brief introduction to convex optimization and duality.
 
-**STAT 600 (former STAT 689): Statistical Computing.** *(Spring 2019; Fall 2019, 2020, 2021)*
+**STAT 600 (former STAT 689): Statistical Computing.** *(Spring 2019; Fall 2019, 2020, 2021, 2022)*
 Graduate-level course on computational statistics and optimization. Topics include version control with Git and Github, code vectorization and profiling, writing R packages, introduction to convex optimization and optimization algorithms.
 
 
