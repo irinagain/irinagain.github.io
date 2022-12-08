@@ -89,7 +89,7 @@ title: Group
 
 * [John Schwenck](John Schwenck). Now a Quantitative Analyst at Wells Fargo.
 
-* [Hee Cheol Chung](https://heech31.github.io) Now an Assistant Professor at University of North Carolina, Chapel Hill
+* [Hee Cheol Chung](https://heech31.github.io) Now an Assistant Professor at University of North Carolina, Charlotte
 
 * Dongbang Yuan. Now a Senior Scientist at Meta.
 
