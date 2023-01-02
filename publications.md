@@ -8,20 +8,20 @@ bigimg: /img/DSCN2128.JPG
 
 ### Pre-prints
 
-Chung HC\*, Ni Y and and **Gaynanova I** (2022+). [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data.](https://arxiv.org/abs/2208.03734) *arXiv* 
+Chung HC\*, Ni Y and and **Gaynanova I** (2023+). [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data.](https://arxiv.org/abs/2208.03734) *arXiv* 
 
-Yuan D\*, Zhang Y\*, Guo S, Wang W and **Gaynanova I** (2022+). [Exponential canonical correlation analysis with orthogonal variation.](https://arxiv.org/abs/2208.00048) *arXiv* [[R code]](https://github.com/IrinaStatsLab/ECCA)
+Yuan D\*, Zhang Y\*, Guo S, Wang W and **Gaynanova I** (2023+). [Exponential canonical correlation analysis with orthogonal variation.](https://arxiv.org/abs/2208.00048) *arXiv* [[R code]](https://github.com/IrinaStatsLab/ECCA)
 
-Yi S\*, Wong R and **Gaynanova I** (2022+). [Hierarchical nuclear norm penalization for multi-view data.](https://arxiv.org/abs/2206.12891) *arXiv* [[R code]](http://github.com/sangyoonstat/HNN paper)
+Yi S\*, Wong R and **Gaynanova I** (2023+). [Hierarchical nuclear norm penalization for multi-view data.](https://arxiv.org/abs/2206.12891) *arXiv* [[R code]](http://github.com/sangyoonstat/HNN paper)
 
-Sergazinov R\*, Leroux A, Cui E, Crainiceanu C, Aurora RN, Punjabi N and **Gaynanova I** (2022+). [A case study of glucose levels during sleep using fast function on scalar regression inference.](https://arxiv.org/abs/2205.08439) *arXiv*
+Sergazinov R\*, Leroux A, Cui E, Crainiceanu C, Aurora RN, Punjabi N and **Gaynanova I** (2023+). [A case study of glucose levels during sleep using fast function on scalar regression inference.](https://arxiv.org/abs/2205.08439) *arXiv*
 
-Sergazinov R\*, Armandpour M and **Gaynanova I** (2022+). [Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification.](https://arxiv.org/abs/2209.04526) *arXiv* [[Python code]](https://github.com/mrsergazinov/gluformer)
+Sergazinov R\*, Armandpour M and **Gaynanova I** (2023+). [Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification.](https://arxiv.org/abs/2209.04526) *arXiv* [[Python code]](https://github.com/mrsergazinov/gluformer)
 
 
 ### 2022
 
-Zhang Y\* and **Gaynanova I** (2022+). [Joint association and classification analysis of multi-view data.](https://doi.org/10.1111/biom.13536) *Biometrics*, accepted. [[R package]](https://github.com/Pennisetum/JACA)
+Zhang Y\* and **Gaynanova I** (2022). [Joint association and classification analysis of multi-view data.](https://doi.org/10.1111/biom.13536) *Biometrics*, Vol. 78, No. 4, 1614-1625. [[R package]](https://github.com/Pennisetum/JACA)
 
 Yuan D\* and **Gaynanova I** (2022). [Double-matched matrix decomposition for multi-view data.](https://doi.org/10.1080/10618600.2022.2067860) *Journal of Computational and Graphical Statistics*, Vol. 31, No. 4, 1114-1126. [[R code]](https://github.com/justicesuker/DMMD_Code)
 
