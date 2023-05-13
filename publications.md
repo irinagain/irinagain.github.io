@@ -16,7 +16,10 @@ Yi S\*, Wong R and **Gaynanova I** (2023+). [Hierarchical nuclear norm penalizat
 
 Sergazinov R\*, Leroux A, Cui E, Crainiceanu C, Aurora RN, Punjabi N and **Gaynanova I** (2023+). [A case study of glucose levels during sleep using fast function on scalar regression inference.](https://arxiv.org/abs/2205.08439) *arXiv*
 
-Sergazinov R\*, Armandpour M and **Gaynanova I** (2023+). [Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification.](https://arxiv.org/abs/2209.04526) *arXiv* [[Python code]](https://github.com/mrsergazinov/gluformer)
+
+### 2023
+
+Sergazinov R\*, Armandpour M and **Gaynanova I** (2023). [Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification.](https://doi.org/10.1109/ICASSP49357.2023.10096419) *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)* [[Python code]](https://github.com/mrsergazinov/gluformer)
 
 
 ### 2022
