@@ -45,9 +45,9 @@ I deeply care about the training of next generation, and put large emphasis on r
 
 ### Recent news:
 
-* **May 2022:** A manuscript with [Renat Sergazinov](https://mrsergazinov.github.io) and Mohammadreza Armandpour on *"Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification"* has been accepted to  [ICASSP](https://doi.org/10.1109/ICASSP49357.2023.10096419). [Python code](https://github.com/mrsergazinov/gluformer) to reproduce the results.
+* **May 2023:** A manuscript with [Renat Sergazinov](https://mrsergazinov.github.io), Andrew Leroux, [Erjia Cui](https://sites.google.com/view/erjiacui/home), [Ciprian Crainiceanu](http://ciprianstats.org), R. Nisha Aurora and Naresh M. Punjabi on *"A case study of glucose levels during sleep using fast function on scalar regression inference"* has been accepted to [Biometrics](https://doi.org/10.1111/biom.13878).
 
-* **September 2022:** A new manuscript with [Renat Sergazinov](https://mrsergazinov.github.io) and Mohammadreza Armandpour on *"Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification"* is now available on [arXiv](https://arxiv.org/abs/2209.04526). [Python code](https://github.com/mrsergazinov/gluformer) to reproduce the results.
+* **May 2023:** A manuscript with [Renat Sergazinov](https://mrsergazinov.github.io) and Mohammadreza Armandpour on *"Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification"* has been accepted to  [ICASSP](https://doi.org/10.1109/ICASSP49357.2023.10096419). [Python code](https://github.com/mrsergazinov/gluformer) to reproduce the results.
 
 * **September 2022:** Our paper with John Schwenck and Naresh M. Punjabi describing [R package bp](https://github.com/johnschwenck/bp) for analyses of blood pressure data, including data from Ambulatory Blood Pressure Monitors (ABPM), is published in [PLoS One](https://doi.org/10.1371/journal.pone.0268934).
 
