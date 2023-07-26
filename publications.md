@@ -12,12 +12,10 @@ Chung HC\*, Ni Y and and **Gaynanova I** (2023+). [Sparse semiparametric discrim
 
 Yuan D\*, Zhang Y\*, Guo S, Wang W and **Gaynanova I** (2023+). [Exponential canonical correlation analysis with orthogonal variation.](https://arxiv.org/abs/2208.00048) *arXiv* [[R code]](https://github.com/IrinaStatsLab/ECCA)
 
-Yi S\*, Wong R and **Gaynanova I** (2023+). [Hierarchical nuclear norm penalization for multi-view data.](https://arxiv.org/abs/2206.12891) *arXiv* [[R code]](http://github.com/sangyoonstat/HNN paper)
-
-
-
 
 ### 2023
+
+Yi S\*, Wong R and **Gaynanova I** (2023+). [Hierarchical nuclear norm penalization for multi-view data.](http://doi.org/10.1111/biom.13893) *Biometrics*, accepted. [[R code]](http://github.com/sangyoonstat/HNN_paper)
 
 Sergazinov R\*, Leroux A, Cui E, Crainiceanu C, Aurora RN, Punjabi N and **Gaynanova I** (2023+). [A case study of glucose levels during sleep using fast function on scalar regression inference.](https://doi.org/10.1111/biom.13878) *Biometrics*, accepted.
 

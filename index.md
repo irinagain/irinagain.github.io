@@ -45,6 +45,8 @@ I deeply care about the training of next generation, and put large emphasis on r
 
 ### Recent news:
 
+* **June 2023:** A manuscript with [Sangyoon Yi](https://experts.okstate.edu/sayi) and [Raymond Wong](https://raymondkww.github.io) on *"Hierarchical nuclear norm penalization for multi‐view data integration"* has been accepted to [Biometrics](http://doi.org/10.1111/biom.13893). 
+
 * **May 2023:** A manuscript with [Renat Sergazinov](https://mrsergazinov.github.io), Andrew Leroux, [Erjia Cui](https://sites.google.com/view/erjiacui/home), [Ciprian Crainiceanu](http://ciprianstats.org), R. Nisha Aurora and Naresh M. Punjabi on *"A case study of glucose levels during sleep using fast function on scalar regression inference"* has been accepted to [Biometrics](https://doi.org/10.1111/biom.13878).
 
 * **May 2023:** A manuscript with [Renat Sergazinov](https://mrsergazinov.github.io) and Mohammadreza Armandpour on *"Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification"* has been accepted to  [ICASSP](https://doi.org/10.1109/ICASSP49357.2023.10096419). [Python code](https://github.com/mrsergazinov/gluformer) to reproduce the results.
@@ -55,7 +57,6 @@ I deeply care about the training of next generation, and put large emphasis on r
 
 * **August 2022:** A new manuscript with Dongbang Yuan, Yunfeng Zhang, Shuai Guo and [Wenyi Wang](https://odin.mdacc.tmc.edu/~wwang7/) on *"Exponential canonical correlation analysis with orthogonal variation"* is now available on [arXiv](https://arxiv.org/abs/2208.00048). [R code](https://github.com/IrinaStatsLab/ECCA) to reproduce the results.
 
-* **June 2022:** A new manuscript with [Sangyoon Yi](https://people.tamu.edu/~sangyoon0704/) and [Raymond Wong](https://raymondkww.github.io) on *"Hierarchical nuclear norm penalization for multi-view data"* is now available on [arXiv](https://arxiv.org/abs/2206.12891). [R code](http://github.com/sangyoonstat/HNN paper) to reproduce the results.
 
 * [Older news](https://irinagain.github.io/news)
 
