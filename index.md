@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Irina Gaynanova
-subtitle: Associate Professor, Department of Statistics, Texas A&M University
+subtitle: Associate Professor, Department of Biostatistics, University of Michigan
 ---
 
 <div class="container">
@@ -12,12 +12,12 @@ subtitle: Associate Professor, Department of Statistics, Texas A&M University
 	</div>
 	<div class="col-md-6">
 	<h3>Contact:</h3>
-		<p> <a href = "http://www.stat.tamu.edu"> Department of Statistics</a> <br>
-		<a href="http://www.tamu.edu"> Texas A&M University </a> <br>
-		3143 TAMU <br>
-		College Station, TX 77843 <br>
-		<strong>Office:</strong> 458D Blocker <br>
-		<strong>Email:</strong> irinag [at] stat.tamu.edu <br>
+		<p> <a href = "http://www.sph.umich.edu/biostat/"> Department of Biostatistics</a> <br>
+		<a href="http://www.umich.edu"> University of Michigan </a> <br>
+		1415 Washington Heights <br>
+		Ann Arbor, MI 48109 <br>
+		<strong>Office:</strong> 4602 SPH I <br>
+		<strong>Email:</strong> irinagn [at] umich.edu <br>
 		<br>
 		</p>
 		<!--<p style="text-align:center">-->
@@ -39,11 +39,13 @@ subtitle: Associate Professor, Department of Statistics, Texas A&M University
 
 I develop statistical methods to analyse modern high-dimensional biomedical data. My methodological interests are primarily in data integration, machine learning and high-dimensional statistics, motivated by challenges arising in analyses of multi-omics data (e.g. RNASeq, metabolomics, micribiome) and data from wearable devices (continuous glucose monitors, ambulatory blood pressure monitors, activity trackers). I am convinced that challenging applied problems give rise to better statistical methodology, and that better statistical methodology in turn aids scientific discovery. I believe that collaboration plays a key role in achieving this goal and I enjoy working with both domain scientists and methodological researchers. My [research](https://irinagain.github.io/research) has been supported by the National Science Foundation, and recognized with a David P. Byar Young Investigator Award from the Biometrics section of the American Statistical Association and NSF CAREER Award. If you would like to join the research group, [click here](https://irinagain.github.io/groupjoin) to explore available opportunities.
 
-I deeply care about the training of next generation, and put large emphasis on reproducible research practices and computational skills in my [teaching](https://irinagain.github.io/teaching). I embrace integration of my research and education missions, and employ a team-based approach to research with active student engagement. My efforts in mentoring undergraduate students have been recognized with Dr. Judith Edmiston Mentoring Award from the Texas A&M College of Scince. 
+I deeply care about the training of next generation, and put large emphasis on reproducible research practices and computational skills in my [teaching](https://irinagain.github.io/teaching). I embrace integration of my research and education missions, and employ a team-based approach to research with active student engagement. My efforts in mentoring undergraduate students have been recognized with Dr. Judith Edmiston Mentoring Award from the Texas A&M College of Science. 
 
 [Formal short Bio](https://irinagain.github.io/bio)
 
 ### Recent news:
+
+* **August 2023:** Irina Gaynanova joins Department of Biostatistics at University of Michigan 
 
 * **June 2023:** A manuscript with [Sangyoon Yi](https://experts.okstate.edu/sayi) and [Raymond Wong](https://raymondkww.github.io) on *"Hierarchical nuclear norm penalization for multi‐view data integration"* has been accepted to [Biometrics](http://doi.org/10.1111/biom.13893). 
 

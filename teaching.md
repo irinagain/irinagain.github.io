@@ -4,7 +4,7 @@ title: Teaching
 bigimg: /img/DSCN8932.JPG
 ---
 
-Dr. Gaynanova’s teaching methods emphasize reproducible research practices, statistical computing and communication skills; her goal being to prepare students for STEM-oriented careers. Her teaching has been recognized with a Cornelia Ye Outstanding Teaching Assistant Award at Cornell University, she also serves as a faculty mentor in the Academy for Future Faculty at Texas A&M University.
+Dr. Gaynanova’s teaching methods emphasize reproducible research practices, statistical computing and communication skills; her goal being to prepare students for STEM-oriented careers. Her teaching has been recognized with a Cornelia Ye Outstanding Teaching Assistant Award at Cornell University and she served as a faculty mentor in the Academy for Future Faculty at Texas A&M University.
 
 ### Classes taught at Texas A&M University
 

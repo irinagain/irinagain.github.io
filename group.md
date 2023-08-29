@@ -18,7 +18,7 @@ title: Group
 	</div>
 	<div class="col-md-6">
 		<p> <a href="https://irinagain.github.io"> Irina Gaynanova </a> <br>
-		Associate Professor of Statistics </p>
+		Associate Professor of Biostatistics </p>
 	</div>
 </div>
 
@@ -51,7 +51,7 @@ title: Group
 	</div>-->
 	<div class="col-md-6">
 		<p> <a href="https://mrsergazinov.github.io/"> Renat Sergazinov </a> <br>
-		PhD Student in Statistics	</p>
+		PhD Student in Statistics at Texas A\&M University	</p>
 	</div>
 </div>
 
@@ -60,19 +60,33 @@ title: Group
 		<img src="https://irinagain.github.io/img/Dongbang.jpg" class="img-responsive" alt="Dongbang"/></a>
 	</div>-->
 	<div class="col-md-6">
+		<p> Alexander Coulter </a> <br>
+		PhD Student in Statistics at Texas A\&M University	</p>
+	</div>
+</div>
+
+<!--<div class="row">
+	<!--<div class="col-md-3"><a class="thumb" href="#">
+		<img src="https://irinagain.github.io/img/Dongbang.jpg" class="img-responsive" alt="Dongbang"/></a>
+	</div>
+	<div class="col-md-6">
 		<p>Mingze Huang <br>
 		MS Student in Statistics	</p>
 	</div>
 </div>
 
-</div>
 
-### Undergraduate students (through [Aggie Research Program](https://aggieresearch.tamu.edu))
+</div>-->
 
 
-* Elizabeth Chun (BMCB)
-* Devon Maywald (APMS)
 
+
+<!--### Undergraduate students (through [Aggie Research Program](https://aggieresearch.tamu.edu))
+
+
+<!--* Elizabeth Chun (BMCB)
+* 
+-->
 
 
 ## RESEARCH GROUP ALUMNI
@@ -95,9 +109,9 @@ title: Group
 
 * Sangyoon Yi. Now an Assistant Professor at Oklahoma State University.
 
-### Undergraduate students 
+<!--### Undergraduate students 
 
-Steven Broll (STAT), David Buchanan (STAT), Nathaniel Fernandez (ENGE), Marielle Hicban (BMEN), Nicholas Kasman (ENGE), Mary Martin (STAT), Ashok Meyyappan (SPSC), Nhan Nguyen (ENGE), Pratik Patel (STAT), Kyle Schichl (STAT), Sangaman Senthil (INEN), Jung Hoon Seo (CPSC), Johnathan Shih (STAT), Eric Wang (ENGE), Yixin Zhang (STAT)
+Steven Broll (STAT), David Buchanan (STAT), Nathaniel Fernandez (ENGE), Marielle Hicban (BMEN), Nicholas Kasman (ENGE), Devon Maywald (APMS),Mary Martin (STAT), Ashok Meyyappan (SPSC), Nhan Nguyen (ENGE), Pratik Patel (STAT), Kyle Schichl (STAT), Sangaman Senthil (INEN), Jung Hoon Seo (CPSC), Johnathan Shih (STAT), Eric Wang (ENGE), Yixin Zhang (STAT)-->
 
 
 
