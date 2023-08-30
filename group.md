@@ -49,8 +49,7 @@ title: Group
 </div>
 
 
-
-
+</div>
 
 <!--### Undergraduate students (through [Aggie Research Program](https://aggieresearch.tamu.edu))
 
