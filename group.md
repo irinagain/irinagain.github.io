@@ -25,7 +25,7 @@ title: Group
 
 </div>
 
-<!--![](img/IMG_3442.jpg) Irina Gaynanova -->
+<!-- [](img/IMG_3442.jpg) Irina Gaynanova -->
 
 ### Postdocs and graduate students
 
@@ -51,11 +51,11 @@ title: Group
 
 </div>
 
-<!--### Undergraduate students (through [Aggie Research Program](https://aggieresearch.tamu.edu))
+<!--
 
+### Undergraduate students (through [Aggie Research Program](https://aggieresearch.tamu.edu))
 
-<!--* Elizabeth Chun (BMCB)
-* 
+* Elizabeth Chun (BMCB)
 -->
 
 
