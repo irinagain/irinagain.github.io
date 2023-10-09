@@ -8,7 +8,7 @@ subtitle: Associate Professor, Department of Biostatistics, University of Michig
 <div class="row">&nbsp;</div>
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="img/Medium.jpg" class="img-responsive" alt="Irina Gaynanova"/></a>
+		<img src="img/blue_profile_cropped_small.jpg" class="img-responsive" alt="Irina Gaynanova"/></a>
 	</div>
 	<div class="col-md-6">
 	<h3>Contact:</h3>
