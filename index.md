@@ -28,6 +28,14 @@ subtitle: Associate Professor, Department of Biostatistics, University of Michig
 		</b>
 		</font>
 		</p> 
+		
+		<p>
+		<font size="+1">
+		<b>
+		    UPDATE: I am hiring a postdoc! More info <a href = "https://irinagain.github.io/postdoc"> here.</a> <br>
+		</b>
+		</font>
+		</p> 
 		<!--<a href = "https://irinagain.github.io/bio"> Click here for short Bio</a> <br>-->
 		<!--<a href = "https://irinagain.github.io/groupjoin"> Click here for opportunities to join the group </a>-->	
 	</div>

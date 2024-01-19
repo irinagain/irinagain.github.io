@@ -15,9 +15,9 @@ Yuan D\*, Zhang Y\*, Guo S, Wang W and **Gaynanova I** (2023+). [Exponential can
 
 ### 2023
 
-Yi S\*, Wong R and **Gaynanova I** (2023+). [Hierarchical nuclear norm penalization for multi-view data.](http://doi.org/10.1111/biom.13893) *Biometrics*, accepted. [[R code]](http://github.com/sangyoonstat/HNN_paper)
+Yi S\*, Wong R and **Gaynanova I** (2023). [Hierarchical nuclear norm penalization for multi-view data.](http://doi.org/10.1111/biom.13893) *Biometrics*, Vol. 79, No. 4, 2933-2946. [[R code]](http://github.com/sangyoonstat/HNN_paper)
 
-Sergazinov R\*, Leroux A, Cui E, Crainiceanu C, Aurora RN, Punjabi N and **Gaynanova I** (2023+). [A case study of glucose levels during sleep using fast function on scalar regression inference.](https://doi.org/10.1111/biom.13878) *Biometrics*, accepted.
+Sergazinov R\*, Leroux A, Cui E, Crainiceanu C, Aurora RN, Punjabi N and **Gaynanova I** (2023). [A case study of glucose levels during sleep using fast function on scalar regression inference.](https://doi.org/10.1111/biom.13878) *Biometrics*, Vol. 79, No. 4, 3873-3882.
 
 Sergazinov R\*, Armandpour M and **Gaynanova I** (2023). [Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification.](https://doi.org/10.1109/ICASSP49357.2023.10096419) *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)* [[Python code]](https://github.com/mrsergazinov/gluformer)
 

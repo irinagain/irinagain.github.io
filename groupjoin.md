@@ -24,6 +24,6 @@ The information about the application process and necessary materials can be fou
 
 ### As a postdoc	
 
-Currently I do not have open positions, but this changes on a rotating basis, so please email me with your CV and names of 3 references.
+I am hiring a postdoc! Please see [here](https://irinagain.github.io/postdoc) for more information.
 
 
