@@ -5,7 +5,7 @@ title: Group
 
 ## RESEARCH GROUP MEMBERS
 
-**Interested in joining the group?** I am currently hiring a [postdoc](https://irinagain.github.io/postdoc). See [here](https://irinagain.github.io/groupjoin) for teh full list of available opportunities.
+**Interested in joining the group?** <!--I am currently hiring a [postdoc](https://irinagain.github.io/postdoc).--> See [here](https://irinagain.github.io/groupjoin) for the full list of available opportunities.
 
 ### PI	
 
@@ -63,19 +63,19 @@ title: Group
 
 ### Postdocs and graduate students 
 
-* [Tianying Wang](https://tianyingw.github.io). Now an Assistant Professor at Tsinghua University Center of Statistical Science
+* [Tianying Wang](https://tianyingw.github.io). Now an Assistant Professor of Statistics at Colorado State University
 
 * [Grace Yoon](http://www.stat.tamu.edu/~gyoon/). Now a Mathematical Statistician at US Department of Agriculture, National Agricultural Statistics Service (NASS).
 
-* Yunfeng Zhang. Now a Data and Applied Scientist at Microsoft.
+* Yunfeng Zhang. Position after leaving the group: Data and Applied Scientist at Microsoft.
 
-* Alex Lapanowski. Now a Senior Scientist at SABIC.
+* Alex Lapanowski. Position after leaving the group: Senior Scientist at SABIC.
 
-* [John Schwenck](John Schwenck). Now a Quantitative Analyst at Wells Fargo.
+* [John Schwenck](John Schwenck). Position after leaving the group: Quantitative Analyst at Wells Fargo.
 
-* [Hee Cheol Chung](https://heech31.github.io) Now an Assistant Professor at University of North Carolina, Charlotte
+* [Hee Cheol Chung](https://heech31.github.io). Now an Assistant Professor at University of North Carolina, Charlotte
 
-* Dongbang Yuan. Now a Senior Scientist at Meta.
+* Dongbang Yuan. Position after leaving the group: a Senior Scientist at Meta.
 
 * Sangyoon Yi. Now an Assistant Professor at Oklahoma State University.
 

@@ -31,9 +31,9 @@ subtitle: Associate Professor, Department of Biostatistics, University of Michig
 		
 		<p>
 		<font size="+1">
-		<b>
+		<!--<b>
 		    UPDATE: I am hiring a postdoc! More info <a href = "https://irinagain.github.io/postdoc"> here.</a> <br>
-		</b>
+		</b>-->
 		</font>
 		</p> 
 		<!--<a href = "https://irinagain.github.io/bio"> Click here for short Bio</a> <br>-->
@@ -52,6 +52,8 @@ I deeply care about the training of next generation, and put large emphasis on r
 [Formal short Bio](https://irinagain.github.io/bio)
 
 ### Recent news:
+
+<!--* **January 2024:** A manuscript with [Renat Sergazinov](https://mrsergazinov.github.io)-->
 
 * **August 2023:** Irina Gaynanova joins Department of Biostatistics at University of Michigan 
 
