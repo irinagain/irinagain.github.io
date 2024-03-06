@@ -31,7 +31,13 @@ Our team has released [a list of public Continuous Glucose Monitoring (CGM) data
 
 ### Relevant publications:
 
-* Sergazinov R\*, Leroux A, Cui E, Crainiceanu C, Aurora RN, Punjabi N and **Gaynanova I** (2022+). [A case study of glucose levels during sleep using fast function on scalar regression inference.](https://arxiv.org/abs/2205.08439) *arXiv*
+* Coulter A*, Aurora RN, Punjabi N and **Gaynanova I** (2024+). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://arxiv.org/abs/2403.00922) *arXiv*
+
+* Sergazinov R\*, Chun E\*, Rogovchenko V\*, Fernandes N\*, Kasman N\* and **Gaynanova I** (2024). [GlucoBench: Curated List of Continuous Glucose Monitoring Datasets with Prediction Benchmarks.](https://openreview.net/forum?id=cUSNs8nGaV) *International Conference on Learning Representations (ICLR)*. [[GitHub repository]](https://github.com/IrinaStatsLab/GlucoBench)
+
+* Sergazinov R\*, Leroux A, Cui E, Crainiceanu C, Aurora RN, Punjabi N and **Gaynanova I** (2023). [A case study of glucose levels during sleep using fast function on scalar regression inference.](https://doi.org/10.1111/biom.13878) *Biometrics*, Vol. 79, No. 4, 3873-3882.
+
+* Sergazinov R\*, Armandpour M and **Gaynanova I** (2023). [Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification.](https://doi.org/10.1109/ICASSP49357.2023.10096419) *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)* [[Python code]](https://github.com/mrsergazinov/gluformer)
 
 * **Gaynanova I** (2022). [Digital biomarkers of glucose control - reproducibility challenges and opportunities.](https://higherlogicdownload.s3.amazonaws.com/AMSTAT/fa4dd52c-8429-41d0-abdf-0011047bfa19/UploadedImages/BIOP%20Report/BioPharm_spring2022_FINAL.pdf) ASA Biopharmaceutical Report, Vol. 29, No. 1, 21-26.
 

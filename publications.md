@@ -8,10 +8,16 @@ bigimg: /img/DSCN2128.JPG
 
 ### Pre-prints
 
-Chung HC\*, Ni Y and and **Gaynanova I** (2023+). [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data.](https://arxiv.org/abs/2208.03734) *arXiv* 
+Coulter A\*, Aurora RN, Punjabi N and **Gaynanova I** (2024+). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://arxiv.org/abs/2403.00922) *arXiv*
 
-Yuan D\*, Zhang Y\*, Guo S, Wang W and **Gaynanova I** (2023+). [Exponential canonical correlation analysis with orthogonal variation.](https://arxiv.org/abs/2208.00048) *arXiv* [[R code]](https://github.com/IrinaStatsLab/ECCA)
+Chung HC\*, Ni Y and and **Gaynanova I** (2024+). [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data.](https://arxiv.org/abs/2208.03734) *arXiv* 
 
+Yuan D\*, Zhang Y\*, Guo S, Wang W and **Gaynanova I** (2024+). [Exponential canonical correlation analysis with orthogonal variation.](https://arxiv.org/abs/2208.00048) *arXiv* [[R code]](https://github.com/IrinaStatsLab/ECCA)
+
+
+### 2024
+
+Sergazinov R\*, Chun E\*, Rogovchenko V\*, Fernandes N\*, Kasman N\* and **Gaynanova I** (2024). [GlucoBench: Curated List of Continuous Glucose Monitoring Datasets with Prediction Benchmarks.](https://openreview.net/forum?id=cUSNs8nGaV) *International Conference on Learning Representations (ICLR)*. [[GitHub repository]](https://github.com/IrinaStatsLab/GlucoBench)
 
 ### 2023
 

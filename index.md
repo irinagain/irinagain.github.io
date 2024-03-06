@@ -54,6 +54,9 @@ I deeply care about the training of next generation, and put large emphasis on r
 ### Recent news:
 
 <!--* **January 2024:** A manuscript with [Renat Sergazinov](https://mrsergazinov.github.io)-->
+* **March 2024:** A new manuscript with Alex Coulter, Nisha Aurora and Naresh Punjabi on *"Fast variable selection for distributional regression with application to continuous glucose monitoring data"* is now available on [arXiv](https://arxiv.org/abs/2403.00922)
+
+* **January 2024:** A manuscript led by [Renat Sergazinov](https://mrsergazinov.github.io) with an amazing team of students (Elizabeth Chun, Valeriya Rogovchenko, Nathaniel Fernandes and Nicholas Kasman) on *"GlucoBench: Curated List of Continuous Glucose Monitoring Datasets with Prediction Benchmarks"* has been accepted to [ICLR (International Conference on Learning Representations)](https://openreview.net/forum?id=cUSNs8nGaV).[Python repository](https://github.com/IrinaStatsLab/GlucoBench) with public datasets and benchmarks, as well as scripts to reproduce the results.
 
 * **August 2023:** Irina Gaynanova joins Department of Biostatistics at University of Michigan 
 
