@@ -31,7 +31,7 @@ Our team has released [a list of public Continuous Glucose Monitoring (CGM) data
 
 ### Relevant publications:
 
-* Coulter A*, Aurora RN, Punjabi N and **Gaynanova I** (2024+). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://arxiv.org/abs/2403.00922) *arXiv*
+* Coulter A\*, Aurora RN, Punjabi N and **Gaynanova I** (2024+). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://arxiv.org/abs/2403.00922) *arXiv*
 
 * Sergazinov R\*, Chun E\*, Rogovchenko V\*, Fernandes N\*, Kasman N\* and **Gaynanova I** (2024). [GlucoBench: Curated List of Continuous Glucose Monitoring Datasets with Prediction Benchmarks.](https://openreview.net/forum?id=cUSNs8nGaV) *International Conference on Learning Representations (ICLR)*. [[GitHub repository]](https://github.com/IrinaStatsLab/GlucoBench)
 

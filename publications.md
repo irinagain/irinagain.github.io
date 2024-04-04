@@ -8,6 +8,8 @@ bigimg: /img/DSCN2128.JPG
 
 ### Pre-prints
 
+Choi J\*, Chung HC, **Gaynanova I** and Ni Y (2024+) [Bayesian segmented Gaussian copula factor model for single-cell sequencing data.](https://arxiv.org/abs/2403.15983) *arXiv*
+
 Coulter A\*, Aurora RN, Punjabi N and **Gaynanova I** (2024+). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://arxiv.org/abs/2403.00922) *arXiv*
 
 Chung HC\*, Ni Y and and **Gaynanova I** (2024+). [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data.](https://arxiv.org/abs/2208.03734) *arXiv* 
@@ -16,6 +18,11 @@ Yuan D\*, Zhang Y\*, Guo S, Wang W and **Gaynanova I** (2024+). [Exponential can
 
 
 ### 2024
+
+Chun E\*,  **Gaynanova I**, Melanson E and Lyden, K (2024) [Pre- Versus Postmeal Sedentary Duration; Impact on Postprandial Glucose in Older Adults with Overweight or Obesity.](https://doi.org/10.1123/jmpb.2023-0032) *Journal for the Measurement of Physical Behaviour,* Vol. 7, No. 1.
+
+Cheong, SM and **Gaynanova I** (2024) [Sensing the impact of extreme heat on physical activity and
+sleep.](https://doi.org/10.1177/20552076241241509) *Digital Health,* 10.
 
 Sergazinov R\*, Chun E\*, Rogovchenko V\*, Fernandes N\*, Kasman N\* and **Gaynanova I** (2024). [GlucoBench: Curated List of Continuous Glucose Monitoring Datasets with Prediction Benchmarks.](https://openreview.net/forum?id=cUSNs8nGaV) *International Conference on Learning Representations (ICLR)*. [[GitHub repository]](https://github.com/IrinaStatsLab/GlucoBench)
 
