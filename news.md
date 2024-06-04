@@ -4,6 +4,11 @@ title: NEWS
 bigimg: /img/DSCN1639.JPG
 ---
 
+* **September 2022:** Our paper with John Schwenck and Naresh M. Punjabi describing [R package bp](https://github.com/johnschwenck/bp) for analyses of blood pressure data, including data from Ambulatory Blood Pressure Monitors (ABPM), is published in [PLoS One](https://doi.org/10.1371/journal.pone.0268934).
+
+* **August 2022:** A new manuscript with Hee Cheol Chung and Yang Ni on *"Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data"* is now available on [arXiv](https://arxiv.org/abs/2208.03734). 
+
+* **August 2022:** A new manuscript with Dongbang Yuan, Yunfeng Zhang, Shuai Guo and [Wenyi Wang](https://odin.mdacc.tmc.edu/~wwang7/) on *"Exponential canonical correlation analysis with orthogonal variation"* is now available on [arXiv](https://arxiv.org/abs/2208.00048). [R code](https://github.com/IrinaStatsLab/ECCA) to reproduce the results.
 
 * **August 2022:** A new manuscript with Hee Cheol Chung and Yang Ni on *"Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data"* is now available on [arXiv](https://arxiv.org/abs/2208.03734). 
 

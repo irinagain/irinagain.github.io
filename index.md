@@ -45,7 +45,7 @@ subtitle: Associate Professor, Department of Biostatistics, University of Michig
 
 </div>
 
-I develop statistical methods to analyse modern high-dimensional biomedical data. My methodological interests are primarily in data integration, machine learning and high-dimensional statistics, motivated by challenges arising in analyses of multi-omics data (e.g. RNASeq, metabolomics, micribiome) and data from wearable devices (continuous glucose monitors, ambulatory blood pressure monitors, activity trackers). I am convinced that challenging applied problems give rise to better statistical methodology, and that better statistical methodology in turn aids scientific discovery. I believe that collaboration plays a key role in achieving this goal and I enjoy working with both domain scientists and methodological researchers. My [research](https://irinagain.github.io/research) has been supported by the National Science Foundation, and recognized with a David P. Byar Young Investigator Award from the Biometrics section of the American Statistical Association and NSF CAREER Award. If you would like to join the research group, [click here](https://irinagain.github.io/groupjoin) to explore available opportunities.
+I develop statistical methods to analyse modern high-dimensional biomedical data. My methodological interests are primarily in data integration, machine learning and high-dimensional statistics, motivated by challenges arising in analyses of multi-omics data (e.g. RNASeq, metabolomics, micribiome) and data from wearable devices (continuous glucose monitors, ambulatory blood pressure monitors, activity trackers). I am convinced that challenging applied problems give rise to better statistical methodology, and that better statistical methodology in turn aids scientific discovery. I believe that collaboration plays a key role in achieving this goal and I enjoy working with both domain scientists and methodological researchers. My [research](https://irinagain.github.io/research) has been supported by the National Science Foundation, the National Institutes of Health, and recognized with a David P. Byar Young Investigator Award from the Biometrics section of the American Statistical Association and NSF CAREER Award. If you would like to join the research group, [click here](https://irinagain.github.io/groupjoin) to explore available opportunities.
 
 I deeply care about the training of next generation, and put large emphasis on reproducible research practices and computational skills in my [teaching](https://irinagain.github.io/teaching). I embrace integration of my research and education missions, and employ a team-based approach to research with active student engagement. My efforts in mentoring undergraduate students have been recognized with Dr. Judith Edmiston Mentoring Award from the Texas A&M College of Science. 
 
@@ -53,7 +53,12 @@ I deeply care about the training of next generation, and put large emphasis on r
 
 ### Recent news:
 
-<!--* **January 2024:** A manuscript with [Renat Sergazinov](https://mrsergazinov.github.io)-->
+<!--*  **June 2024** NIH R01 grant, [Scalable Methods for Classification of Heterogeneous High-Dimensional Data](https://nsf.gov/awardsearch/showAward?AWD_ID=1712943&HistoricalAwards=false)-->
+
+* **June 2024** NIH R01 grant on [*"New machine learning methods for extracting features from digital health data with applications to sleep apnea"*](https://reporter.nih.gov/search/safFinaNbke-9LvFkOrGTQ/project-details/10851193#similar-Projects)
+
+* **June 2024** Invited [comments on data integration via analysis of subspaces](https://doi.org/10.1007/s11749-024-00936-8) co-authored by [Renat Sergazinov](https://www.sergazinov.co/)
+
 * **April 2024** A manuscript led by Elizabeth Chun on *"Pre- Versus Postmeal Sedentary Duration; Impact on Postprandial Glucose in Older Adults with Overweight or Obesity"* has appeared in [Journal for the Measurement of Physical Behaviour](https://doi.org/10.1123/jmpb.2023-0032).
 
 * **March 2024** A manuscript with So-Min Cheong on *"Sensing the impact of extreme heat on physical activity and
@@ -71,11 +76,7 @@ sleep"* has appeared in [Digital Health](https://doi.org/10.1177/205520762412415
 
 * **May 2023:** A manuscript with [Renat Sergazinov](https://mrsergazinov.github.io) and Mohammadreza Armandpour on *"Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification"* has been accepted to  [ICASSP](https://doi.org/10.1109/ICASSP49357.2023.10096419). [Python code](https://github.com/mrsergazinov/gluformer) to reproduce the results.
 
-* **September 2022:** Our paper with John Schwenck and Naresh M. Punjabi describing [R package bp](https://github.com/johnschwenck/bp) for analyses of blood pressure data, including data from Ambulatory Blood Pressure Monitors (ABPM), is published in [PLoS One](https://doi.org/10.1371/journal.pone.0268934).
 
-* **August 2022:** A new manuscript with Hee Cheol Chung and Yang Ni on *"Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data"* is now available on [arXiv](https://arxiv.org/abs/2208.03734). 
-
-* **August 2022:** A new manuscript with Dongbang Yuan, Yunfeng Zhang, Shuai Guo and [Wenyi Wang](https://odin.mdacc.tmc.edu/~wwang7/) on *"Exponential canonical correlation analysis with orthogonal variation"* is now available on [arXiv](https://arxiv.org/abs/2208.00048). [R code](https://github.com/IrinaStatsLab/ECCA) to reproduce the results.
 
 
 * [Older news](https://irinagain.github.io/news)

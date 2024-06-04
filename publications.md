@@ -19,10 +19,16 @@ Yuan D\*, Zhang Y\*, Guo S, Wang W and **Gaynanova I** (2024+). [Exponential can
 
 ### 2024
 
+**Gaynanova I** and Sergazinov R\* (2024). [Comments on “Data Integration Via Analysis of Subspaces (DIVAS)."](https://doi.org/10.1007/s11749-024-00936-8) *TEST*.
+
+Wang L\*, **Gaynanova I** and Risk B (2024) [singR: An R Package for Simultaneous Non-Gaussian Component Analysis for Data Integration.](https://doi.org/10.32614/RJ-2023-084) *The R Journal,* Vol. 15, No. 4, 69-83. [[R package]](https://CRAN.R-project.org/package=singR)
+
 Chun E\*,  **Gaynanova I**, Melanson E and Lyden, K (2024) [Pre- Versus Postmeal Sedentary Duration; Impact on Postprandial Glucose in Older Adults with Overweight or Obesity.](https://doi.org/10.1123/jmpb.2023-0032) *Journal for the Measurement of Physical Behaviour,* Vol. 7, No. 1.
 
 Cheong, SM and **Gaynanova I** (2024) [Sensing the impact of extreme heat on physical activity and
 sleep.](https://doi.org/10.1177/20552076241241509) *Digital Health,* 10.
+
+Whitfield-Cargile CM, Chung HC\*, Coleman MC, Cohen ND, Chamoun-Emanuelli AM, Ivanov I, Goldsby JS, Davidson LA, **Gaynanova I**, Ni Y and Chapkin RS (2024) [Integrated analysis of gut metabolome, microbiome, and exfoliome data in an equine model of intestinal injury.](https://doi.org/10.1186/s40168-024-01785-1) *Microbiome*, Vol. 12, No. 74.
 
 Sergazinov R\*, Chun E\*, Rogovchenko V\*, Fernandes N\*, Kasman N\* and **Gaynanova I** (2024). [GlucoBench: Curated List of Continuous Glucose Monitoring Datasets with Prediction Benchmarks.](https://openreview.net/forum?id=cUSNs8nGaV) *International Conference on Learning Representations (ICLR)*. [[GitHub repository]](https://github.com/IrinaStatsLab/GlucoBench)
 
