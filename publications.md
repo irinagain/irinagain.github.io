@@ -8,6 +8,9 @@ bigimg: /img/DSCN2128.JPG
 
 ### Pre-prints
 
+James C\*, Yuan D\*, **Gaynanova I** and Arroyo J (2024+) [Learning Joint and Individual Structure in Network
+Data with Covariates.](https://arxiv.org/abs/2406.08776) *arXiv*
+
 Choi J\*, Chung HC, **Gaynanova I** and Ni Y (2024+) [Bayesian segmented Gaussian copula factor model for single-cell sequencing data.](https://arxiv.org/abs/2403.15983) *arXiv*
 
 Coulter A\*, Aurora RN, Punjabi N and **Gaynanova I** (2024+). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://arxiv.org/abs/2403.00922) *arXiv*

@@ -55,6 +55,8 @@ I deeply care about the training of next generation, and put large emphasis on r
 
 <!--*  **June 2024** NIH R01 grant, [Scalable Methods for Classification of Heterogeneous High-Dimensional Data](https://nsf.gov/awardsearch/showAward?AWD_ID=1712943&HistoricalAwards=false)-->
 
+* **June 2024** A new manuscript with Carson James, Dongbang Yuan and [Jesus Arroyo](https://jesus-arroyo.github.io/) on *"Learning Joint and Individual Structure in Network Data with Covariates"* is now available on [arXiv](https://arxiv.org/abs/2406.08776)
+
 * **June 2024** NIH R01 grant on [*"New machine learning methods for extracting features from digital health data with applications to sleep apnea"*](https://reporter.nih.gov/search/safFinaNbke-9LvFkOrGTQ/project-details/10851193#similar-Projects)
 
 * **June 2024** Invited [comments on data integration via analysis of subspaces](https://doi.org/10.1007/s11749-024-00936-8) co-authored by [Renat Sergazinov](https://www.sergazinov.co/)
@@ -71,12 +73,6 @@ sleep"* has appeared in [Digital Health](https://doi.org/10.1177/205520762412415
 * **August 2023:** Irina Gaynanova joins Department of Biostatistics at University of Michigan 
 
 * **June 2023:** A manuscript with [Sangyoon Yi](https://experts.okstate.edu/sayi) and [Raymond Wong](https://raymondkww.github.io) on *"Hierarchical nuclear norm penalization for multi‐view data integration"* has been accepted to [Biometrics](http://doi.org/10.1111/biom.13893). 
-
-* **May 2023:** A manuscript with [Renat Sergazinov](https://mrsergazinov.github.io), Andrew Leroux, [Erjia Cui](https://sites.google.com/view/erjiacui/home), [Ciprian Crainiceanu](http://ciprianstats.org), R. Nisha Aurora and Naresh M. Punjabi on *"A case study of glucose levels during sleep using fast function on scalar regression inference"* has been accepted to [Biometrics](https://doi.org/10.1111/biom.13878).
-
-* **May 2023:** A manuscript with [Renat Sergazinov](https://mrsergazinov.github.io) and Mohammadreza Armandpour on *"Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification"* has been accepted to  [ICASSP](https://doi.org/10.1109/ICASSP49357.2023.10096419). [Python code](https://github.com/mrsergazinov/gluformer) to reproduce the results.
-
-
 
 
 * [Older news](https://irinagain.github.io/news)
