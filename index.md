@@ -55,6 +55,10 @@ I deeply care about the training of next generation, and put large emphasis on r
 
 <!--*  **June 2024** NIH R01 grant, [Scalable Methods for Classification of Heterogeneous High-Dimensional Data](https://nsf.gov/awardsearch/showAward?AWD_ID=1712943&HistoricalAwards=false)-->
 
+* **June 2024:** A new manuscript with [Zihang Wang](https://sph.emory.edu/phd-students/profile/index.php?FID=zihang-wang-12991), [Aleksandr Aravkin](https://uw-amo.github.io/saravkin/) and [Benjamin Risk](https://thebrisklab.org/) on *"Sparse Independent Component Analysis with an Application to Cortical Surface fMRI Data in Autism"* has been accepted to [Journal of the American Statistical Association](https://doi.org/10.1080/01621459.2024.2370593). Link to [R package](https://github.com/thebrisklab/SparseICA).
+
+* **June 2024:** A new manuscript with Elizabeth Chun and Nathaniel J. Fernandes on *"An Update on the iglu Software for Interpreting Continuous Glucose Monitoring Data"* has been accepted to [Diabetes Technology and Therapeutics](https://doi.org/10.1089/dia.2024.0154). The paper describes updated software for analysis of continuous glucose monitoring ([CGM](https://irinagain.github.io/CGM/)) data which is available on [GitHub](https://github.com/irinagain/iglu) and [CRAN](https://CRAN.R-project.org/package=iglu).
+
 * **June 2024** A new manuscript with Carson James, Dongbang Yuan and [Jesus Arroyo](https://jesus-arroyo.github.io/) on *"Learning Joint and Individual Structure in Network Data with Covariates"* is now available on [arXiv](https://arxiv.org/abs/2406.08776)
 
 * **June 2024** NIH R01 grant on [*"New machine learning methods for extracting features from digital health data with applications to sleep apnea"*](https://reporter.nih.gov/search/safFinaNbke-9LvFkOrGTQ/project-details/10851193#similar-Projects)

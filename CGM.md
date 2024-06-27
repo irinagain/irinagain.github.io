@@ -23,6 +23,8 @@ Our team has released [a list of public Continuous Glucose Monitoring (CGM) data
 * R package **iglu** for calculating various metrics from CGM glucose profiles, and visualizing the data. [Github repository](https://github.com/irinagain/iglu), [CRAN version](https://CRAN.R-project.org/package=iglu), [accompanying website](https://irinagain.github.io/iglu/) and [the paper](https://doi.org/10.1371/journal.pone.0248560). The package has graphical user interface via shiny app, which can be accessed locally after installing the package, or directly from the website (see below). To cite the current version of the package:
  
    - Broll S\*, Buchanan D\*, Chun E\*, Muschelli J\*, Fernandes N\*, Seo J\*, Shih J\*, Urbanek J, Schwenck J\*, **Gaynanova I** (2021). iglu: Interpreting Glucose Data from Continuous Glucose Monitors. R package version 3.1.0
+   
+   - Chun E\*, Fernandes JN\* and **Gaynanova I** (2024+) [An Update on the iglu Software for Interpreting Continuous Glucose Monitoring Data.](https://doi.org/10.1089/dia.2024.0154) *Diabetes Technology and Therapeutics* 
   
    - Broll S\*, Urbanek J, Buchanan D\*, Chun E\*, Muschelli J, Punjabi N and **Gaynanova I** (2021).[Interpreting blood glucose data with R package iglu.](https://doi.org/10.1371/journal.pone.0248560) *PLoS One*, Vol. 16, No. 4, e0248560. 
  
@@ -32,6 +34,10 @@ Our team has released [a list of public Continuous Glucose Monitoring (CGM) data
 ### Relevant publications:
 
 * Coulter A\*, Aurora RN, Punjabi N and **Gaynanova I** (2024+). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://arxiv.org/abs/2403.00922) *arXiv*
+
+* Chun E\*, Fernandes JN\* and **Gaynanova I** (2024+) [An Update on the iglu Software for Interpreting Continuous Glucose Monitoring Data.](https://doi.org/10.1089/dia.2024.0154) *Diabetes Technology and Therapeutics* [[CRAN R package]](https://CRAN.R-project.org/package=iglu) [[GitHub repository]](https://github.com/irinagain/iglu)
+
+* Chun E\*,  **Gaynanova I**, Melanson E and Lyden, K (2024) [Pre- Versus Postmeal Sedentary Duration; Impact on Postprandial Glucose in Older Adults with Overweight or Obesity.](https://doi.org/10.1123/jmpb.2023-0032) *Journal for the Measurement of Physical Behaviour,* Vol. 7, No. 1.
 
 * Sergazinov R\*, Chun E\*, Rogovchenko V\*, Fernandes N\*, Kasman N\* and **Gaynanova I** (2024). [GlucoBench: Curated List of Continuous Glucose Monitoring Datasets with Prediction Benchmarks.](https://openreview.net/forum?id=cUSNs8nGaV) *International Conference on Learning Representations (ICLR)*. [[GitHub repository]](https://github.com/IrinaStatsLab/GlucoBench)
 
