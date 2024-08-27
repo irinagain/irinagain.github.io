@@ -45,11 +45,13 @@ subtitle: Associate Professor, Department of Biostatistics, University of Michig
 
 </div>
 
+[Formal short Bio](https://irinagain.github.io/bio)
+
 I develop statistical methods to analyse modern high-dimensional biomedical data. My methodological interests are primarily in data integration, machine learning and high-dimensional statistics, motivated by challenges arising in analyses of multi-omics data (e.g. RNASeq, metabolomics, micribiome) and data from wearable devices (continuous glucose monitors, ambulatory blood pressure monitors, activity trackers). I am convinced that challenging applied problems give rise to better statistical methodology, and that better statistical methodology in turn aids scientific discovery. I believe that collaboration plays a key role in achieving this goal and I enjoy working with both domain scientists and methodological researchers. My [research](https://irinagain.github.io/research) has been supported by the National Science Foundation, the National Institutes of Health, and recognized with a David P. Byar Young Investigator Award from the Biometrics section of the American Statistical Association and NSF CAREER Award. If you would like to join the research group, [click here](https://irinagain.github.io/groupjoin) to explore available opportunities.
 
 I deeply care about the training of next generation, and put large emphasis on reproducible research practices and computational skills in my [teaching](https://irinagain.github.io/teaching). I embrace integration of my research and education missions, and employ a team-based approach to research with active student engagement. My efforts in mentoring undergraduate students have been recognized with Dr. Judith Edmiston Mentoring Award from the Texas A&M College of Science. 
 
-[Formal short Bio](https://irinagain.github.io/bio)
+
 
 ### Recent news:
 
