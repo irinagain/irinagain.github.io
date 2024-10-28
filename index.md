@@ -57,6 +57,8 @@ I deeply care about the training of next generation, and put large emphasis on r
 
 <!--*  **June 2024** NIH R01 grant, [Scalable Methods for Classification of Heterogeneous High-Dimensional Data](https://nsf.gov/awardsearch/showAward?AWD_ID=1712943&HistoricalAwards=false)-->
 
+* **October 2024:** A new manuscript with [Renat Sergazinov](https://mrsergazinov.github.io) and [Armeen Taeb](https://armeentaeb.github.io/index/) on *"A spectral method for multi-view subspace learning using the product of projections"* is now available on [arXiv](https://arxiv.org/abs/2410.19125)
+
 * **July 2024:** Irina became an elected member of the [International Statistical Institute](https://www.isi-web.org/article/second-round-newly-elected-members-2024)
 
 * **June 2024:** A new manuscript with [Zihang Wang](https://sph.emory.edu/phd-students/profile/index.php?FID=zihang-wang-12991), [Aleksandr Aravkin](https://uw-amo.github.io/saravkin/) and [Benjamin Risk](https://thebrisklab.org/) on *"Sparse Independent Component Analysis with an Application to Cortical Surface fMRI Data in Autism"* has been accepted to [Journal of the American Statistical Association](https://doi.org/10.1080/01621459.2024.2370593). Link to [R package](https://github.com/thebrisklab/SparseICA).
@@ -78,9 +80,7 @@ sleep"* has appeared in [Digital Health](https://doi.org/10.1177/205520762412415
 
 * **January 2024:** A manuscript led by [Renat Sergazinov](https://mrsergazinov.github.io) with an amazing team of students (Elizabeth Chun, Valeriya Rogovchenko, Nathaniel Fernandes and Nicholas Kasman) on *"GlucoBench: Curated List of Continuous Glucose Monitoring Datasets with Prediction Benchmarks"* has been accepted to [ICLR (International Conference on Learning Representations)](https://openreview.net/forum?id=cUSNs8nGaV).[Python repository](https://github.com/IrinaStatsLab/GlucoBench) with public datasets and benchmarks, as well as scripts to reproduce the results.
 
-* **August 2023:** Irina Gaynanova joins Department of Biostatistics at University of Michigan 
 
-* **June 2023:** A manuscript with [Sangyoon Yi](https://experts.okstate.edu/sayi) and [Raymond Wong](https://raymondkww.github.io) on *"Hierarchical nuclear norm penalization for multi‐view data integration"* has been accepted to [Biometrics](http://doi.org/10.1111/biom.13893). 
 
 
 * [Older news](https://irinagain.github.io/news)

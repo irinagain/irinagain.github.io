@@ -8,6 +8,8 @@ bigimg: /img/DSCN2128.JPG
 
 ### Pre-prints
 
+Sergazinov R\*, Taeb A and **Gaynanova I** (2024+) [A spectral method for multi-view subspace learning using the product of projections](https://arxiv.org/abs/2410.19125) *arXiv*
+
 James C\*, Yuan D\*, **Gaynanova I** and Arroyo J (2024+) [Learning Joint and Individual Structure in Network
 Data with Covariates.](https://arxiv.org/abs/2406.08776) *arXiv*
 

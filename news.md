@@ -4,6 +4,10 @@ title: NEWS
 bigimg: /img/DSCN1639.JPG
 ---
 
+* **August 2023:** Irina Gaynanova joins Department of Biostatistics at University of Michigan 
+
+* **June 2023:** A manuscript with [Sangyoon Yi](https://experts.okstate.edu/sayi) and [Raymond Wong](https://raymondkww.github.io) on *"Hierarchical nuclear norm penalization for multi‐view data integration"* has been accepted to [Biometrics](http://doi.org/10.1111/biom.13893). 
+
 * **May 2023:** A manuscript with [Renat Sergazinov](https://mrsergazinov.github.io), Andrew Leroux, [Erjia Cui](https://sites.google.com/view/erjiacui/home), [Ciprian Crainiceanu](http://ciprianstats.org), R. Nisha Aurora and Naresh M. Punjabi on *"A case study of glucose levels during sleep using fast function on scalar regression inference"* has been accepted to [Biometrics](https://doi.org/10.1111/biom.13878).
 
 * **May 2023:** A manuscript with [Renat Sergazinov](https://mrsergazinov.github.io) and Mohammadreza Armandpour on *"Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification"* has been accepted to  [ICASSP](https://doi.org/10.1109/ICASSP49357.2023.10096419). [Python code](https://github.com/mrsergazinov/gluformer) to reproduce the results.

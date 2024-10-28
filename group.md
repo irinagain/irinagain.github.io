@@ -33,6 +33,12 @@ title: Group
 <div class="row">&nbsp;</div>
 
 
+<div class="row">
+	<div class="col-md-6">
+		<p> Junyoung Park  <br>
+		Postdoctoral Researcher	</p>
+	</div>
+</div>
 
 <div class="row">
 	<div class="col-md-6">
@@ -48,7 +54,60 @@ title: Group
 	</div>
 </div>
 
+<div class="row">
+	<div class="col-md-6">
+		<p> Lei Wang  <br>
+		PhD Student in Statistics at Texas A&M University	</p>
+	</div>
+</div>
 
+<div class="row">
+	<div class="col-md-6">
+		<p> Leyuan Qian  <br>
+		PhD Student in Biostatistics at University of Michigan	</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-6">
+		<p> Edward Shao  <br>
+		PhD Student in Biostatistics at University of Michigan	</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-6">
+		<p> Neo Kok <br>
+		MS Student in Health Data Science at University of Michigan	</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-6">
+		<p> Charlotte Xu <br>
+		MS Student in Health Data Science at University of Michigan	</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-6">
+		<p> Sylvan Xu <br>
+		MS Student in Biostatistics at University of Michigan	</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-6">
+		<p> Walter Williamson <br>
+		MS Student in Biostatistics at University of Michigan	</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-6">
+		<p> Samuel Tan <br>
+		Undergraduate Student in Statistics at University of Michigan	</p>
+	</div>
 </div>
 
 <!--
