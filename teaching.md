@@ -6,6 +6,12 @@ bigimg: /img/DSCN8932.JPG
 
 Dr. Gaynanova’s teaching methods emphasize reproducible research practices, statistical computing and communication skills; her goal being to prepare students for STEM-oriented careers. Her teaching has been recognized with a Cornelia Ye Outstanding Teaching Assistant Award at Cornell University and she served as a faculty mentor in the Academy for Future Faculty at Texas A&M University.
 
+### Classes taught at University of Michigan
+
+**BIOS 699: Analysis of Biostatistical Investigations.** *(Winter 2024)*
+Identifying and solving design and data analysis problems using a wide range of biostatistical methods. Written
+and oral reports on intermediate and final results of case studies required.
+
 ### Classes taught at Texas A&M University
 
 **STAT 211: Principles of Statistics I.** *(Fall 2015, 2016; Spring 2016, 2017)*
