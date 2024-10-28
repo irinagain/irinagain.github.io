@@ -110,6 +110,8 @@ title: Group
 	</div>
 </div>
 
+
+</div>
 <!--
 
 ### Undergraduate students (through [Aggie Research Program](https://aggieresearch.tamu.edu))
