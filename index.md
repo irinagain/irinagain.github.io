@@ -13,7 +13,7 @@ subtitle: Associate Professor, Department of Biostatistics, University of Michig
 	<div class="col-md-6">
 	<h3>Contact:</h3>
 		<p> <a href = "http://www.sph.umich.edu/biostat/"> Department of Biostatistics</a> <br>
-		<p> <a href = "https://lsa.umich.edu/stats"> Department of Statistics (by courtesy)</a> <br>
+		<a href = "https://lsa.umich.edu/stats"> Department of Statistics (by courtesy)</a> <br>
 		<a href="http://www.umich.edu"> University of Michigan </a> <br>
 		1415 Washington Heights <br>
 		Ann Arbor, MI 48109 <br>
