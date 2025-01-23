@@ -8,6 +8,8 @@ bigimg: /img/DSCN2128.JPG
 
 ### Pre-prints
 
+Park J\*, Kok N\* and **Gaynanova I** (2025+) [Beyond fixed thresholds: optimizing summaries of wearable device data via piecewise linearization of quantile functions](https://arxiv.org/abs/2501.11777)
+
 Sergazinov R\*, Taeb A and **Gaynanova I** (2025+) [A spectral method for multi-view subspace learning using the product of projections](https://arxiv.org/abs/2410.19125) *arXiv*
 
 James C\*, Yuan D\*, **Gaynanova I** and Arroyo J (2025+) [Learning Joint and Individual Structure in Network
