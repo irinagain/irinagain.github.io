@@ -40,12 +40,6 @@ title: Group
 	</div>
 </div>
 
-<div class="row">
-	<div class="col-md-6">
-		<p> <a href="https://mrsergazinov.github.io/"> Renat Sergazinov </a> <br>
-		PhD Student in Statistics at Texas A&M University	</p>
-	</div>
-</div>
 
 <div class="row">
 	<div class="col-md-6">
