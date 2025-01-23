@@ -13,6 +13,7 @@ subtitle: Associate Professor, Department of Biostatistics, University of Michig
 	<div class="col-md-6">
 	<h3>Contact:</h3>
 		<p> <a href = "http://www.sph.umich.edu/biostat/"> Department of Biostatistics</a> <br>
+		<p> <a href = "https://lsa.umich.edu/stats"> Department of Statistics (by courtesy)</a> <br>
 		<a href="http://www.umich.edu"> University of Michigan </a> <br>
 		1415 Washington Heights <br>
 		Ann Arbor, MI 48109 <br>
@@ -56,6 +57,10 @@ I deeply care about the training of next generation, and put large emphasis on r
 ### Recent news:
 
 <!--*  **June 2024** NIH R01 grant, [Scalable Methods for Classification of Heterogeneous High-Dimensional Data](https://nsf.gov/awardsearch/showAward?AWD_ID=1712943&HistoricalAwards=false)-->
+
+* **January 2025:** A new manuscript with [Junyoung Park](https://pjywang.github.io/) and [Neo Kok], *"Beyond fixed thresholds: optimizing summaries of wearable device data via piecewise linearization of quantile functions"* is now available on [arXiv](https://arxiv.org/abs/2501.11777)
+
+* **January 2025:** Irina is selected as one of the three recipients of the 2025 IMS Thelma and Marvin Zelen Emerging Women Leaders in Data Science Award. [IMS announcement](https://imstat.org/2025/01/13/2025-ims-thelma-and-marvin-zelen-emerging-women-leaders-in-data-science-award-recipients-annouced/)
 
 * **October 2024:** A new manuscript with [Renat Sergazinov](https://mrsergazinov.github.io) and [Armeen Taeb](https://armeentaeb.github.io/index/) on *"A spectral method for multi-view subspace learning using the product of projections"* is now available on [arXiv](https://arxiv.org/abs/2410.19125)
 

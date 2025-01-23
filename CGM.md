@@ -38,9 +38,9 @@ Our team has released [a list of public Continuous Glucose Monitoring (CGM) data
 
 ### Relevant publications:
 
-* Coulter A\*, Aurora RN, Punjabi N and **Gaynanova I** (2024+). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://arxiv.org/abs/2403.00922) *arXiv*
+* Coulter A\*, Aurora RN, Punjabi N and **Gaynanova I** (2025+). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://arxiv.org/abs/2403.00922) *arXiv*
 
-* Chun E\*, Fernandes JN\* and **Gaynanova I** (2024+) [An Update on the iglu Software for Interpreting Continuous Glucose Monitoring Data.](https://doi.org/10.1089/dia.2024.0154) *Diabetes Technology and Therapeutics* [[CRAN R package]](https://CRAN.R-project.org/package=iglu) [[GitHub repository]](https://github.com/irinagain/iglu)
+* Chun E\*, Fernandes JN\* and **Gaynanova I** (2024) [An Update on the iglu Software for Interpreting Continuous Glucose Monitoring Data.](https://doi.org/10.1089/dia.2024.0154) *Diabetes Technology and Therapeutics,* Vol. 26, No. 12, 939-950. [[CRAN R package]](https://CRAN.R-project.org/package=iglu) [[GitHub repository]](https://github.com/irinagain/iglu)
 
 * Chun E\*,  **Gaynanova I**, Melanson E and Lyden, K (2024) [Pre- Versus Postmeal Sedentary Duration; Impact on Postprandial Glucose in Older Adults with Overweight or Obesity.](https://doi.org/10.1123/jmpb.2023-0032) *Journal for the Measurement of Physical Behaviour,* Vol. 7, No. 1.
 

@@ -35,7 +35,7 @@ title: Group
 
 <div class="row">
 	<div class="col-md-6">
-		<p> Junyoung Park  <br>
+		<p> <a href="https://pjywang.github.io/"> Junyoung Park </a> <br>
 		Postdoctoral Researcher	</p>
 	</div>
 </div>
@@ -136,9 +136,11 @@ title: Group
 
 * [Hee Cheol Chung](https://heech31.github.io). Now an Assistant Professor at University of North Carolina, Charlotte
 
-* Dongbang Yuan. Position after leaving the group: a Senior Scientist at Meta.
+* Dongbang Yuan. Position after leaving the group: Senior Scientist at Meta.
 
 * Sangyoon Yi. Now an Assistant Professor at Oklahoma State University.
+
+* [Renat Sergazinov](https://mrsergazinov.github.io/). Position after leaving the group: Research Scientist at Meta.
 
 <!--
 ### Undergraduate students 

@@ -8,25 +8,25 @@ bigimg: /img/DSCN2128.JPG
 
 ### Pre-prints
 
-Sergazinov R\*, Taeb A and **Gaynanova I** (2024+) [A spectral method for multi-view subspace learning using the product of projections](https://arxiv.org/abs/2410.19125) *arXiv*
+Sergazinov R\*, Taeb A and **Gaynanova I** (2025+) [A spectral method for multi-view subspace learning using the product of projections](https://arxiv.org/abs/2410.19125) *arXiv*
 
-James C\*, Yuan D\*, **Gaynanova I** and Arroyo J (2024+) [Learning Joint and Individual Structure in Network
+James C\*, Yuan D\*, **Gaynanova I** and Arroyo J (2025+) [Learning Joint and Individual Structure in Network
 Data with Covariates.](https://arxiv.org/abs/2406.08776) *arXiv*
 
-Choi J\*, Chung HC, **Gaynanova I** and Ni Y (2024+) [Bayesian segmented Gaussian copula factor model for single-cell sequencing data.](https://arxiv.org/abs/2403.15983) *arXiv*
+Choi J\*, Chung HC, **Gaynanova I** and Ni Y (2025+) [Bayesian segmented Gaussian copula factor model for single-cell sequencing data.](https://arxiv.org/abs/2403.15983) *arXiv*
 
-Coulter A\*, Aurora RN, Punjabi N and **Gaynanova I** (2024+). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://arxiv.org/abs/2403.00922) *arXiv*
+Coulter A\*, Aurora RN, Punjabi N and **Gaynanova I** (2025+). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://arxiv.org/abs/2403.00922) *arXiv*
 
-Chung HC\*, Ni Y and and **Gaynanova I** (2024+). [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data.](https://arxiv.org/abs/2208.03734) *arXiv* 
+Chung HC\*, Ni Y and and **Gaynanova I** (2025+). [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data.](https://arxiv.org/abs/2208.03734) *arXiv* 
 
-Yuan D\*, Zhang Y\*, Guo S, Wang W and **Gaynanova I** (2024+). [Exponential canonical correlation analysis with orthogonal variation.](https://arxiv.org/abs/2208.00048) *arXiv* [[R code]](https://github.com/IrinaStatsLab/ECCA)
+Yuan D\*, Zhang Y\*, Guo S, Wang W and **Gaynanova I** (2025+). [Exponential canonical correlation analysis with orthogonal variation.](https://arxiv.org/abs/2208.00048) *arXiv* [[R code]](https://github.com/IrinaStatsLab/ECCA)
 
 
 ### 2024
 
-Wang Z\*, Aravkin A, **Gaynanova I** and Risk B (2024+) [Sparse Independent Component Analysis with an Application to Cortical Surface fMRI Data in Autism.](https://doi.org/10.1080/01621459.2024.2370593) *Journal of the American Statistical Association* [[R package]](https://github.com/thebrisklab/SparseICA)
+Wang Z\*, Aravkin A, **Gaynanova I** and Risk B (2024) [Sparse Independent Component Analysis with an Application to Cortical Surface fMRI Data in Autism.](https://doi.org/10.1080/01621459.2024.2370593) *Journal of the American Statistical Association,* Vol. 119, No. 548, 2508-2520. [[R package]](https://github.com/thebrisklab/SparseICA)
 
-Chun E\*, Fernandes JN\* and **Gaynanova I** (2024+) [An Update on the iglu Software for Interpreting Continuous Glucose Monitoring Data.](https://doi.org/10.1089/dia.2024.0154) *Diabetes Technology and Therapeutics* [[CRAN R package]](https://CRAN.R-project.org/package=iglu) [[GitHub repository]](https://github.com/irinagain/iglu)
+Chun E\*, Fernandes JN\* and **Gaynanova I** (2024) [An Update on the iglu Software for Interpreting Continuous Glucose Monitoring Data.](https://doi.org/10.1089/dia.2024.0154) *Diabetes Technology and Therapeutics,* Vol. 26, No. 12, 939-950. [[CRAN R package]](https://CRAN.R-project.org/package=iglu) [[GitHub repository]](https://github.com/irinagain/iglu)
 
 **Gaynanova I** and Sergazinov R\* (2024). [Comments on “Data Integration Via Analysis of Subspaces (DIVAS)."](https://doi.org/10.1007/s11749-024-00936-8) *TEST*.
 
