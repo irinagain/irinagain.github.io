@@ -23,6 +23,11 @@ Chung HC\*, Ni Y and and **Gaynanova I** (2025+). [Sparse semiparametric discrim
 
 Yuan D\*, Zhang Y\*, Guo S, Wang W and **Gaynanova I** (2025+). [Exponential canonical correlation analysis with orthogonal variation.](https://arxiv.org/abs/2208.00048) *arXiv* [[R code]](https://github.com/IrinaStatsLab/ECCA)
 
+### 2025
+
+Williamson W\*, Lee JM and **Gaynanova I** (2025) [A Processing Algorithm to Address Real-World Data Quality Issues With Continuous Glucose Monitoring Data](https://doi.org/10.1177/19322968251319801), *Journal fo Diabetes Science and Technology*, ahead of print.
+
+**Gaynanova I** and Lee JM (2025)  [When Algorithms Diverge: Quantification of Glycemic Episodes from Continuous Glucose Monitor Data](https://doi.org/10.1089/dia.2024.0618), *Diabetes Technology and Therapeutics*, ahead of print.
 
 ### 2024
 

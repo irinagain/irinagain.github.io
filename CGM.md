@@ -12,33 +12,45 @@ Diabetes is a chronic disease resulting from the pancreatic inability to produce
 
 <img src="img/Subject1.png" alt="Subject1" width="500">
 
-Continuous Glucose Monitors (CGMs) are small wearable devices that measure the glucose levels continuously throughout the day, with some monitors taking measurements as often as every 5 minutes. Data from these monitors provide a detailed quantification of the variation in blood glucose levels during the course of the day, and thus CGMs play an increasing role in clinical practice. For more on CGMs, see [Rodbard (2016) "Continuous Glucose Monitoring: A Review of Successes, Challenges, and Opportunities."](https://doi.org/10.1089/dia.2015.0417).
+Continuous Glucose Monitors (CGMs) are small wearable devices that measure the interstitial glucose levels continuously throughout the day, with some monitors taking measurements as often as every 5 minutes. Data from these monitors provide a detailed quantification of the variation in glucose levels during the course of the day, and thus CGMs play an increasing role in clinical practice. For more on CGMs, see [Rodbard (2016) "Continuous Glucose Monitoring: A Review of Successes, Challenges, and Opportunities."](https://doi.org/10.1089/dia.2015.0417).
 
 Out group focuses on developing statistical methods to aid analyses and interpretation of CGM data. Some selected research products are below.
 
 ### CGM datasets
 
-Our team has released [a list of public Continuous Glucose Monitoring (CGM) datasets](https://github.com/irinagain/Awesome-CGM). Thank you to an amazing team of undergraduate researchers: Mary Martin, Elizabeth Chun, David Buchanan, Eric Wang and Sangaman Senthil who assembled this collection as part of their [Aggie Research Project](https://aggieresearch.tamu.edu). To cite the collection:
+Our team has released [Awesome-CGM, a list of public Continuous Glucose Monitoring (CGM) datasets](https://github.com/irinagain/Awesome-CGM). <!--Thank you to an amazing team of undergraduate researchers: Mary Martin, Elizabeth Chun, David Buchanan, Eric Wang and Sangaman Senthil who assembled this collection as part of their [Aggie Research Project](https://aggieresearch.tamu.edu).--> 
+To cite the most recent collection:
 
- * Mary Martin, Elizabeth Chun, David Buchanan, Eric Wang, Sangaman Senthil & Irina Gaynanova. (2020, June 15). irinagain/Awesome-CGM: List of public CGM datasets (Version v1.0.0). Zenodo. [![DOI](https://zenodo.org/badge/267687517.svg)](https://zenodo.org/badge/latestdoi/267687517)
+ * Xinran Xu, Neo Kok, Junyan Tan, Mary Martin, David Buchanan, Elizabeth Chun, Rucha Bhat, Shaun Cass, Eric Wang, Sangaman Senthil, & Irina Gaynanova. (2024). IrinaStatsLab/Awesome-CGM: Updated release with additional public CGM dataset and enhanced processing (v2.0.0). Zenodo.[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14541646.svg)](https://doi.org/10.5281/zenodo.14541646)
  
+Additionally, we released [Glucobench](https://github.com/IrinaStatsLab/GlucoBench), a collection of pre-processed public CGM data for forecasting (prediction of future glucose values) with implementation of multiple benchmark ML models. To cite Glucobench specifically
+
+* Sergazinov R\*, Chun E\*, Rogovchenko V\*, Fernandes N\*, Kasman N\* and **Gaynanova I** (2024). [GlucoBench: Curated List of Continuous Glucose Monitoring Datasets with Prediction Benchmarks.](https://openreview.net/forum?id=cUSNs8nGaV) *International Conference on Learning Representations (ICLR)*.
 
 
 ### Software products:
 * R package **iglu** for calculating various metrics from CGM glucose profiles, and visualizing the data. [Github repository](https://github.com/irinagain/iglu), [CRAN version](https://CRAN.R-project.org/package=iglu), [accompanying website](https://irinagain.github.io/iglu/) and [the paper](https://doi.org/10.1371/journal.pone.0248560). The package has graphical user interface via shiny app, which can be accessed locally after installing the package, or directly from the website (see below). To cite the current version of the package:
  
-   - Broll S\*, Buchanan D\*, Chun E\*, Muschelli J\*, Fernandes N\*, Seo J\*, Shih J\*, Urbanek J, Schwenck J\*, **Gaynanova I** (2021). iglu: Interpreting Glucose Data from Continuous Glucose Monitors. R package version 3.1.0
    
-   - Chun E\*, Fernandes JN\* and **Gaynanova I** (2024+) [An Update on the iglu Software for Interpreting Continuous Glucose Monitoring Data.](https://doi.org/10.1089/dia.2024.0154) *Diabetes Technology and Therapeutics* 
+   - Chun E\*, Fernandes JN\* and **Gaynanova I** (2024) [An Update on the iglu Software for Interpreting Continuous Glucose Monitoring Data.](https://doi.org/10.1089/dia.2024.0154) *Diabetes Technology and Therapeutics,* Vol. 26, No. 12, 939-950.
   
    - Broll S\*, Urbanek J, Buchanan D\*, Chun E\*, Muschelli J, Punjabi N and **Gaynanova I** (2021).[Interpreting blood glucose data with R package iglu.](https://doi.org/10.1371/journal.pone.0248560) *PLoS One*, Vol. 16, No. 4, e0248560. 
  
 * [Shiny app for **iglu**](https://irinagain.shinyapps.io/shiny_iglu/). R package **iglu** functionality directly via graphical user interface.
 
+* [Slide Tutorial](https://irinagain.github.io/Resources/SlidesWorkshop.pdf), [Corresponding R script only](SlidesWorkshop.R), [POSIT cloud project](https://posit.cloud/content/9833735)
+
+
 
 ### Relevant publications:
 
+* Park J\*, Kok N\* and **Gaynanova I** (2025+) [Beyond fixed thresholds: optimizing summaries of wearable device data via piecewise linearization of quantile functions](https://arxiv.org/abs/2501.11777)
+
 * Coulter A\*, Aurora RN, Punjabi N and **Gaynanova I** (2025+). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://arxiv.org/abs/2403.00922) *arXiv*
+
+* Williamson W\*, Lee JM and **Gaynanova I** (2025) [A Processing Algorithm to Address Real-World Data Quality Issues With Continuous Glucose Monitoring Data](https://doi.org/10.1177/19322968251319801), *Journal fo Diabetes Science and Technology*, ahead of print.
+
+* **Gaynanova I** and Lee JM (2025)  [When Algorithms Diverge: Quantification of Glycemic Episodes from Continuous Glucose Monitor Data](https://doi.org/10.1089/dia.2024.0618), *Diabetes Technology and Therapeutics*, ahead of print.
 
 * Chun E\*, Fernandes JN\* and **Gaynanova I** (2024) [An Update on the iglu Software for Interpreting Continuous Glucose Monitoring Data.](https://doi.org/10.1089/dia.2024.0154) *Diabetes Technology and Therapeutics,* Vol. 26, No. 12, 939-950. [[CRAN R package]](https://CRAN.R-project.org/package=iglu) [[GitHub repository]](https://github.com/irinagain/iglu)
 
