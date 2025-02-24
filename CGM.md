@@ -10,7 +10,7 @@ Diabetes is a chronic disease resulting from the pancreatic inability to produce
 ![Subject1](img/Subject1.png)
 -->
 
-<img src="img/Subject1.png" alt="Subject1" width="500">
+![](https://irinagain.github.io/Resources/Subject1.pdf)
 
 Continuous Glucose Monitors (CGMs) are small wearable devices that measure the interstitial glucose levels continuously throughout the day, with some monitors taking measurements as often as every 5 minutes. Data from these monitors provide a detailed quantification of the variation in glucose levels during the course of the day, and thus CGMs play an increasing role in clinical practice. For more on CGMs, see [Rodbard (2016) "Continuous Glucose Monitoring: A Review of Successes, Challenges, and Opportunities."](https://doi.org/10.1089/dia.2015.0417).
 
@@ -38,7 +38,7 @@ Additionally, we released [Glucobench](https://github.com/IrinaStatsLab/GlucoBen
  
 * [Shiny app for **iglu**](https://irinagain.shinyapps.io/shiny_iglu/). R package **iglu** functionality directly via graphical user interface.
 
-* [Slide Tutorial](https://irinagain.github.io/Resources/SlidesWorkshop.pdf), [Corresponding R script only](SlidesWorkshop.R), [POSIT cloud project](https://posit.cloud/content/9833735)
+* [Slide Tutorial](https://irinagain.github.io/Resources/SlidesWorkshop.pdf), [Corresponding R script only](https://irinagain.github.io/Resources/SlidesWorkshop.R), [POSIT cloud project](https://posit.cloud/content/9833735)
 
 
 
