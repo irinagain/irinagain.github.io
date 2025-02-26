@@ -40,6 +40,8 @@ Additionally, we released [Glucobench](https://github.com/IrinaStatsLab/GlucoBen
 
 * [Slide Tutorial](https://irinagain.github.io/Resources/SlidesWorkshop.pdf), [Corresponding R script only](https://irinagain.github.io/Resources/SlidesWorkshop.R), [POSIT cloud project](https://posit.cloud/content/9833735)
 
+* [Video tutorial on working with CGM data in iglu](https://www.birs.ca/events/2025/5-day-workshops/25w5474/videos/watch/202502260906-Gaynanova.html)
+
 
 
 ### Relevant publications:

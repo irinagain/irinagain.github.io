@@ -58,6 +58,8 @@ I deeply care about the training of next generation, and put large emphasis on r
 
 <!--*  **June 2024** NIH R01 grant, [Scalable Methods for Classification of Heterogeneous High-Dimensional Data](https://nsf.gov/awardsearch/showAward?AWD_ID=1712943&HistoricalAwards=false)-->
 
+* **February 2025:** [Video tutorial on working with CGM data in iglu](https://www.birs.ca/events/2025/5-day-workshops/25w5474/videos/watch/202502260906-Gaynanova.html) from Banff workshop on Ermerging Statistical Methods for Digital Health Data
+
 * **February 2025:** A new manuscript with Walter Williamson and [Joyce M Lee](https://chear.org/people/faculty-investigators/joyce-lee), *"A Processing Algorithm to Address Real-World Data Quality Issues With Continuous Glucose Monitoring Data"*, has been accepted to [Journal fo Diabetes Science and Technology](https://doi.org/10.1177/19322968251319801)
 
 * **February 2025:** A new manuscript with [Joyce M Lee](https://chear.org/people/faculty-investigators/joyce-lee), *"When Algorithms Diverge: Quantification of Glycemic Episodes from Continuous Glucose Monitor Data"* , has been accepted to [Diabetes Technology and Therapeutics](https://doi.org/10.1089/dia.2024.0618)
