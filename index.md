@@ -48,7 +48,7 @@ subtitle: Associate Professor, Department of Biostatistics, University of Michig
 
 [Formal short Bio](https://irinagain.github.io/bio)
 
-I develop statistical methods to analyse modern high-dimensional biomedical data. My methodological interests are primarily in data integration, machine learning and high-dimensional statistics, motivated by challenges arising in analyses of multi-omics data (e.g. RNASeq, metabolomics, micribiome) and data from wearable devices (continuous glucose monitors, ambulatory blood pressure monitors, activity trackers). I am convinced that challenging applied problems give rise to better statistical methodology, and that better statistical methodology in turn aids scientific discovery. I believe that collaboration plays a key role in achieving this goal and I enjoy working with both domain scientists and methodological researchers. My [research](https://irinagain.github.io/research) has been supported by the National Science Foundation, the National Institutes of Health, and recognized with a David P. Byar Young Investigator Award from the Biometrics section of the American Statistical Association, NSF CAREER Award and Institute of Mathenatical Statistics . If you would like to join the research group, [click here](https://irinagain.github.io/groupjoin) to explore available opportunities.
+I develop statistical methods to analyse modern high-dimensional biomedical data. My methodological interests are primarily in data integration, machine learning and high-dimensional statistics, motivated by challenges arising in analyses of multi-omics data (e.g. RNASeq, metabolomics, micribiome) and data from wearable devices (continuous glucose monitors, ambulatory blood pressure monitors, activity trackers). I am convinced that challenging applied problems give rise to better statistical methodology, and that better statistical methodology in turn aids scientific discovery. I believe that collaboration plays a key role in achieving this goal and I enjoy working with both domain scientists and methodological researchers. My [research](https://irinagain.github.io/research) has been supported by the National Science Foundation, the National Institutes of Health, and recognized with a David P. Byar Young Investigator Award from the Biometrics section of the American Statistical Association, NSF CAREER Award, IMS Thelma and Marvin Zelen Emerging Women Leaders in Data Science Award and COPSS Emerging Leader Award. If you would like to join the research group, [click here](https://irinagain.github.io/groupjoin) to explore available opportunities.
 
 I deeply care about the training of next generation, and put large emphasis on reproducible research practices and computational skills in my [teaching](https://irinagain.github.io/teaching). I embrace integration of my research and education missions, and employ a team-based approach to research with active student engagement. My efforts in mentoring undergraduate students have been recognized with Dr. Judith Edmiston Mentoring Award from the Texas A&M College of Science. 
 
@@ -57,6 +57,8 @@ I deeply care about the training of next generation, and put large emphasis on r
 ### Recent news:
 
 <!--*  **June 2024** NIH R01 grant, [Scalable Methods for Classification of Heterogeneous High-Dimensional Data](https://nsf.gov/awardsearch/showAward?AWD_ID=1712943&HistoricalAwards=false)-->
+
+* **March 2025:** Irina is selected as one of the recipients of the [2025 COPSS Emerging Leader Award](https://community.amstat.org/copss/awards/leadership-academy)
 
 * **February 2025:** [Video tutorial on working with CGM data in iglu](https://www.birs.ca/events/2025/5-day-workshops/25w5474/videos/watch/202502260906-Gaynanova.html) from Banff workshop on Ermerging Statistical Methods for Digital Health Data
 
@@ -87,9 +89,7 @@ I deeply care about the training of next generation, and put large emphasis on r
 * **March 2024** A manuscript with So-Min Cheong on *"Sensing the impact of extreme heat on physical activity and
 sleep"* has appeared in [Digital Health](https://doi.org/10.1177/20552076241241509).
 
-* **March 2024:** A new manuscript with Alex Coulter, Nisha Aurora and Naresh Punjabi on *"Fast variable selection for distributional regression with application to continuous glucose monitoring data"* is now available on [arXiv](https://arxiv.org/abs/2403.00922)
 
-* **January 2024:** A manuscript led by [Renat Sergazinov](https://mrsergazinov.github.io) with an amazing team of students (Elizabeth Chun, Valeriya Rogovchenko, Nathaniel Fernandes and Nicholas Kasman) on *"GlucoBench: Curated List of Continuous Glucose Monitoring Datasets with Prediction Benchmarks"* has been accepted to [ICLR (International Conference on Learning Representations)](https://openreview.net/forum?id=cUSNs8nGaV).[Python repository](https://github.com/IrinaStatsLab/GlucoBench) with public datasets and benchmarks, as well as scripts to reproduce the results.
 
 
 

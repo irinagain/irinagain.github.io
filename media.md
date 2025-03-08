@@ -4,7 +4,9 @@ title: Media
 bigimg: /img/DSCN1639.JPG
 ---
 
-* **January 2024:** Irina is selected as one of the three recipients of the 2025 IMS Thelma and Marvin Zelen Emerging Women Leaders in Data Science Award. [IMS announcement](https://imstat.org/2025/01/13/2025-ims-thelma-and-marvin-zelen-emerging-women-leaders-in-data-science-award-recipients-annouced/)
+* **March 2025:** Irina is selected as one of the recipients of the [2025 COPSS Emerging Leader Award](https://community.amstat.org/copss/awards/leadership-academy)
+
+* **January 2025:** Irina is selected as one of the three recipients of the 2025 IMS Thelma and Marvin Zelen Emerging Women Leaders in Data Science Award. [IMS announcement](https://imstat.org/2025/01/13/2025-ims-thelma-and-marvin-zelen-emerging-women-leaders-in-data-science-award-recipients-annouced/)
 
 * **October 2021:** Irina is honored with Dr. Judith Edmiston Mentoring Award from TAMU College of Science. [Press release for all College of Science 2021 Award Winners](https://science.tamu.edu/news/2021/10/college-of-science-honors-2021-award-winners/)
 
