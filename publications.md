@@ -8,7 +8,11 @@ bigimg: /img/DSCN2128.JPG
 
 ### Pre-prints
 
-Park J\*, Kok N\* and **Gaynanova I** (2025+) [Beyond fixed thresholds: optimizing summaries of wearable device data via piecewise linearization of quantile functions](https://arxiv.org/abs/2501.11777)
+Coulter A\*, Lee R\* and **Gaynanova I** (2025+) [*fastfrechet: An R package for fast implementation of Fréchet regression with distributional responses*](https://arxiv.org/abs/2503.06401) *arXiv* [[GitHub R package]](https://github.com/alexandercoulter/fastfrechet) 
+
+Kim R and **Gaynanova I** (2025+) [A sparse linear model for positive definite estimation of covariance matrices](https://arxiv.org/abs/2503.09026) *arXiv*
+
+Park J\*, Kok N\* and **Gaynanova I** (2025+) [Beyond fixed thresholds: optimizing summaries of wearable device data via piecewise linearization of quantile functions](https://arxiv.org/abs/2501.11777) *arXiv*
 
 Sergazinov R\*, Taeb A and **Gaynanova I** (2025+) [A spectral method for multi-view subspace learning using the product of projections](https://arxiv.org/abs/2410.19125) *arXiv*
 

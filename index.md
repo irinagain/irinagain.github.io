@@ -58,6 +58,10 @@ I deeply care about the training of next generation, and put large emphasis on r
 
 <!--*  **June 2024** NIH R01 grant, [Scalable Methods for Classification of Heterogeneous High-Dimensional Data](https://nsf.gov/awardsearch/showAward?AWD_ID=1712943&HistoricalAwards=false)-->
 
+* **March 2025:** R package **fastfreshet**, project lead by [Alexander Coulter](https://artsci.tamu.edu/statistics/contact/profiles/alexander-coulter.html) with tremendous support from [Rebecca Lee](https://artsci.tamu.edu/statistics/contact/profiles/rebecca-lee.html), is now public and allows you to perform distributional response regression with variable selection super fast! Check it out on [GitHub](https://github.com/alexandercoulter/fastfrechet) with corresponding short paper *fastfrechet: An R package for fast implementation of Fréchet regression with distributional responses* on [arXiv](https://arxiv.org/abs/2503.06401)
+
+* **March 2025:** A new manuscript with [Rakheon Kim](https://statistics.artsandsciences.baylor.edu/person/dr-rakheon-kim), "A sparse linear model for positive definite estimation of covariance matrices", is now available on [arXiv](https://arxiv.org/abs/2503.09026)
+
 * **March 2025:** Irina is selected as one of the recipients of the [2025 COPSS Emerging Leader Award](https://community.amstat.org/copss/awards/leadership-academy)
 
 * **February 2025:** [Video tutorial on working with CGM data in iglu](https://www.birs.ca/events/2025/5-day-workshops/25w5474/videos/watch/202502260906-Gaynanova.html) from Banff workshop on Ermerging Statistical Methods for Digital Health Data
