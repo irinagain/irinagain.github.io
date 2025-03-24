@@ -4,6 +4,8 @@ title: Media
 bigimg: /img/DSCN1639.JPG
 ---
 
+* **March 2025:** Interview with Irina on [Stats Up AI](https://statsupai.org/quarto_web/site/posts/S3_award.html)
+
 * **March 2025:** Irina is selected as one of the recipients of the [2025 COPSS Emerging Leader Award](https://community.amstat.org/copss/awards/leadership-academy)
 
 * **January 2025:** Irina is selected as one of the three recipients of the 2025 IMS Thelma and Marvin Zelen Emerging Women Leaders in Data Science Award. [IMS announcement](https://imstat.org/2025/01/13/2025-ims-thelma-and-marvin-zelen-emerging-women-leaders-in-data-science-award-recipients-annouced/)
