@@ -58,6 +58,10 @@ I deeply care about the training of next generation, and put large emphasis on r
 
 <!--*  **June 2024** NIH R01 grant, [Scalable Methods for Classification of Heterogeneous High-Dimensional Data](https://nsf.gov/awardsearch/showAward?AWD_ID=1712943&HistoricalAwards=false)-->
 
+* **May 2025:** Our paper with [Alexander Coulter](https://artsci.tamu.edu/statistics/contact/profiles/alexander-coulter.html) and [Rebecca Lee](https://artsci.tamu.edu/statistics/contact/profiles/rebecca-lee.html) on *"fastfrechet: an R package for fast implementation of Frechet regression with distributional responses"* has been published in [The Journal of Open Source Software](https://doi.org/10.21105/joss.07925). [[R package GitHub link]](https://github.com/alexandercoulter/fastfrechet)
+
+* **April 2025:** Our paper with [Alexander Coulter](https://artsci.tamu.edu/statistics/contact/profiles/alexander-coulter.html), [R. Nisha Aurora](https://foundation.aasm.org/about/board-of-directors/r-nisha-aurora/) and [Naresh Punjabi](https://med.miami.edu/faculty/naresh-m-punjabi-md-phd) on *"Fast Variable Selection for Distributional Regression With Application to Continuous Glucose Monitoring Data"* has been accepted to the [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/annals-of-applied-statistics-next-issues/)
+
 * **March 2025:** Interview with Irina on [Stats Up AI](https://statsupai.org/quarto_web/site/posts/S3_award.html)
 
 * **March 2025:** R package **fastfreshet**, project lead by [Alexander Coulter](https://artsci.tamu.edu/statistics/contact/profiles/alexander-coulter.html) with tremendous support from [Rebecca Lee](https://artsci.tamu.edu/statistics/contact/profiles/rebecca-lee.html), is now public and allows you to perform distributional response regression with variable selection super fast! Check it out on [GitHub](https://github.com/alexandercoulter/fastfrechet) with corresponding short paper *fastfrechet: An R package for fast implementation of Fréchet regression with distributional responses* on [arXiv](https://arxiv.org/abs/2503.06401)

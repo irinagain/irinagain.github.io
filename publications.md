@@ -8,7 +8,6 @@ bigimg: /img/DSCN2128.JPG
 
 ### Pre-prints
 
-Coulter A\*, Lee R\* and **Gaynanova I** (2025+) [*fastfrechet: An R package for fast implementation of Fréchet regression with distributional responses*](https://arxiv.org/abs/2503.06401) *arXiv* [[GitHub R package]](https://github.com/alexandercoulter/fastfrechet) 
 
 Kim R and **Gaynanova I** (2025+) [A sparse linear model for positive definite estimation of covariance matrices](https://arxiv.org/abs/2503.09026) *arXiv*
 
@@ -21,15 +20,18 @@ Data with Covariates.](https://arxiv.org/abs/2406.08776) *arXiv*
 
 Choi J\*, Chung HC, **Gaynanova I** and Ni Y (2025+) [Bayesian segmented Gaussian copula factor model for single-cell sequencing data.](https://arxiv.org/abs/2403.15983) *arXiv*
 
-Coulter A\*, Aurora RN, Punjabi N and **Gaynanova I** (2025+). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://arxiv.org/abs/2403.00922) *arXiv*
-
 Chung HC\*, Ni Y and and **Gaynanova I** (2025+). [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data.](https://arxiv.org/abs/2208.03734) *arXiv* 
 
 Yuan D\*, Zhang Y\*, Guo S, Wang W and **Gaynanova I** (2025+). [Exponential canonical correlation analysis with orthogonal variation.](https://arxiv.org/abs/2208.00048) *arXiv* [[R code]](https://github.com/IrinaStatsLab/ECCA)
 
 ### 2025
 
-Williamson W\*, Lee JM and **Gaynanova I** (2025) [A Processing Algorithm to Address Real-World Data Quality Issues With Continuous Glucose Monitoring Data](https://doi.org/10.1177/19322968251319801), *Journal fo Diabetes Science and Technology*, ahead of print.
+Coulter A\*, Aurora RN, Punjabi N and **Gaynanova I** (2025+). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/66907?confirm=49add6c3), *Annals if Applied Statistics*, accepted.
+
+Coulter A\*, Lee R\* and **Gaynanova I** (2025) [fastfrechet: An R package for fast implementation of Fréchet regression with distributional responses](https://doi.org/10.21105/joss.07925), *The Journal of Open Source Software*, Vol. 10, No. 109, 7925. [[GitHub R package]](https://github.com/alexandercoulter/fastfrechet) 
+
+
+Williamson W\*, Lee JM and **Gaynanova I** (2025) [A Processing Algorithm to Address Real-World Data Quality Issues With Continuous Glucose Monitoring Data](https://doi.org/10.1177/19322968251319801), *Journal of Diabetes Science and Technology*, ahead of print.
 
 **Gaynanova I** and Lee JM (2025)  [When Algorithms Diverge: Quantification of Glycemic Episodes from Continuous Glucose Monitor Data](https://doi.org/10.1089/dia.2024.0618), *Diabetes Technology and Therapeutics*, ahead of print.
 
