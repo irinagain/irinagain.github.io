@@ -58,6 +58,10 @@ I deeply care about the training of next generation, and put large emphasis on r
 
 <!--*  **June 2024** NIH R01 grant, [Scalable Methods for Classification of Heterogeneous High-Dimensional Data](https://nsf.gov/awardsearch/showAward?AWD_ID=1712943&HistoricalAwards=false)-->
 
+* **July 2025:** A new manuscript with Leyuan Qian, *"Smooth tensor decomposition with application to ambulatory blood pressure monitoring data"*, is now available on [arXiv](https://arxiv.org/abs/2507.11723). The corresponding R package [SmoothHOOI](https://github.com/IrinaStatsLab/SmoothHOOI) is available from GitHub.
+
+* **May 2025:** [Findings magazine article on AI](https://sph.umich.edu/findings/spring-2025/the-future-is-here.html), featuring School of Public Health faculty, including Irina
+
 * **May 2025:** Our paper with [Alexander Coulter](https://artsci.tamu.edu/statistics/contact/profiles/alexander-coulter.html) and [Rebecca Lee](https://artsci.tamu.edu/statistics/contact/profiles/rebecca-lee.html) on *"fastfrechet: an R package for fast implementation of Frechet regression with distributional responses"* has been published in [The Journal of Open Source Software](https://doi.org/10.21105/joss.07925). [[R package GitHub link]](https://github.com/alexandercoulter/fastfrechet)
 
 * **April 2025:** Our paper with [Alexander Coulter](https://artsci.tamu.edu/statistics/contact/profiles/alexander-coulter.html), [R. Nisha Aurora](https://foundation.aasm.org/about/board-of-directors/r-nisha-aurora/) and [Naresh Punjabi](https://med.miami.edu/faculty/naresh-m-punjabi-md-phd) on *"Fast Variable Selection for Distributional Regression With Application to Continuous Glucose Monitoring Data"* has been accepted to the [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/annals-of-applied-statistics-next-issues/)
@@ -93,14 +97,6 @@ I deeply care about the training of next generation, and put large emphasis on r
 * **June 2024** NIH R01 grant on [*"New machine learning methods for extracting features from digital health data with applications to sleep apnea"*](https://reporter.nih.gov/search/safFinaNbke-9LvFkOrGTQ/project-details/10851193#similar-Projects)
 
 * **June 2024** Invited [comments on data integration via analysis of subspaces](https://doi.org/10.1007/s11749-024-00936-8) co-authored by [Renat Sergazinov](https://www.sergazinov.co/)
-
-* **April 2024** A manuscript led by Elizabeth Chun on *"Pre- Versus Postmeal Sedentary Duration; Impact on Postprandial Glucose in Older Adults with Overweight or Obesity"* has appeared in [Journal for the Measurement of Physical Behaviour](https://doi.org/10.1123/jmpb.2023-0032).
-
-* **March 2024** A manuscript with So-Min Cheong on *"Sensing the impact of extreme heat on physical activity and
-sleep"* has appeared in [Digital Health](https://doi.org/10.1177/20552076241241509).
-
-
-
 
 
 

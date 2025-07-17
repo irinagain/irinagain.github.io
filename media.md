@@ -4,6 +4,8 @@ title: Media
 bigimg: /img/DSCN1639.JPG
 ---
 
+* **May 2025:** [Findings magazine article on AI](https://sph.umich.edu/findings/spring-2025/the-future-is-here.html), featuring School of Public Health faculty, including Irina
+
 * **March 2025:** Interview with Irina on [Stats Up AI](https://statsupai.org/quarto_web/site/posts/S3_award.html)
 
 * **March 2025:** Irina is selected as one of the recipients of the [2025 COPSS Emerging Leader Award](https://community.amstat.org/copss/awards/leadership-academy)

@@ -3,6 +3,11 @@ layout: page
 title: NEWS
 bigimg: /img/DSCN1639.JPG
 ---
+* **April 2024** A manuscript led by Elizabeth Chun on *"Pre- Versus Postmeal Sedentary Duration; Impact on Postprandial Glucose in Older Adults with Overweight or Obesity"* has appeared in [Journal for the Measurement of Physical Behaviour](https://doi.org/10.1123/jmpb.2023-0032).
+
+* **March 2024** A manuscript with So-Min Cheong on *"Sensing the impact of extreme heat on physical activity and
+sleep"* has appeared in [Digital Health](https://doi.org/10.1177/20552076241241509).
+
 
 * **March 2024:** A new manuscript with Alex Coulter, Nisha Aurora and Naresh Punjabi on *"Fast variable selection for distributional regression with application to continuous glucose monitoring data"* is now available on [arXiv](https://arxiv.org/abs/2403.00922)
 

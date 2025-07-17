@@ -76,6 +76,8 @@ title: Group
 	</div>
 </div>
 
+<!--
+
 <div class="row">
 	<div class="col-md-6">
 		<p> Charlotte Xu <br>
@@ -124,7 +126,7 @@ title: Group
 
 
 </div>
-<!--
+
 
 ### Undergraduate students (through [Aggie Research Program](https://aggieresearch.tamu.edu))
 
@@ -153,6 +155,12 @@ title: Group
 * Sangyoon Yi. Now an Assistant Professor at Oklahoma State University.
 
 * [Renat Sergazinov](https://mrsergazinov.github.io/). Position after leaving the group: Research Scientist at Meta.
+
+* Walter Williamson, MS Biostatistics. <!--Position after leaving the group:-->
+
+* Charlotte Xu, MS Health Data Science. Position after leaving the group: Biostatistician II at Boston Scientific.
+
+* Sylvan Xu, Ms Biostatistics. <!--Position after leaving the group:-->
 
 <!--
 ### Undergraduate students 
