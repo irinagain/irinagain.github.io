@@ -13,7 +13,7 @@ If you are pursing a BS degree at TAMU, there are multiple opportunities to get 
 * Team-based research through the [Aggie Research Network](https://aggieresearch.tamu.edu/undergraduates/). I typically have a project open each semester and recruit new team members. All majors are welcome and encouraged to apply, but the applicants are expected to have existing programming experience (preferably in R).
 -->
 
-### As an undergraduate/MS student at University of Position
+### As an undergraduate/MS student at University of Michigan
 
 I occasionally have openings for temporary research positions. For undergraduate students, there are often opportunities to get involved through research credit course. The availability and demand changes on the rotating basis, so if you are interested, please email me with your CV, unofficial transcript and a short description of why you are interested in joining the group/how you hope to contribute.
 

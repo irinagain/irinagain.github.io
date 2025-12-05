@@ -58,6 +58,12 @@ I deeply care about the training of next generation, and put large emphasis on r
 
 <!--*  **June 2024** NIH R01 grant, [Scalable Methods for Classification of Heterogeneous High-Dimensional Data](https://nsf.gov/awardsearch/showAward?AWD_ID=1712943&HistoricalAwards=false)-->
 
+* **December 2025:** Our paper with [Renat Sergazinov](https://mrsergazinov.github.io) and [Armeen Taeb](https://armeentaeb.github.io/index/) on *"A spectral method for multi-view subspace learning using the product of projections"* has been accepted to [Biometrika](https://doi.org/10.1093/biomet/asaf088)
+
+* **October 2025:** Congratulations to Neo Kok for winning a poster award at the 2025 Caswell Diabetes Institute Metabolism, Obesity, Nutrition, & Diabetes Symposium for our work on impact of incomplete CGM data on downstream inference, paper coming soon!
+
+* **September 2025:** Our paper with Junsouk Choi, [Hee Cheol Chung](https://heech31.github.io/) and [Yang Ni](https://stat.utexas.edu/directory/yang-ni) on *"Bayesian segmented Gaussian copula factor model for single-cell sequencing data"* has been accepted to [Bayesian Analysis](https://doi.org/10.1214/25-BA1559)
+
 * **July 2025:** A new manuscript with Leyuan Qian, *"Smooth tensor decomposition with application to ambulatory blood pressure monitoring data"*, is now available on [arXiv](https://arxiv.org/abs/2507.11723). The corresponding R package [SmoothHOOI](https://github.com/IrinaStatsLab/SmoothHOOI) is available from GitHub.
 
 * **May 2025:** [Findings magazine article on AI](https://sph.umich.edu/findings/spring-2025/the-future-is-here.html), featuring School of Public Health faculty, including Irina

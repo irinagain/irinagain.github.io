@@ -8,25 +8,28 @@ bigimg: /img/DSCN2128.JPG
 
 ### Pre-prints
 
-Qian L and **Gaynanova I** (2025+) [Smooth tensor decomposition with application to ambulatory blood pressure monitoring data](https://arxiv.org/abs/2507.11723) *arXiv* [[GitHub R package]](https://github.com/IrinaStatsLab/SmoothHOOI)
+Wang L.\*, Ni Y. and **Gaynanova I.** (2025+) [Truncated Gaussian copula principal component analysis with application to pediatric acute lymphoblastic leukemia patients’ gut microbiome.](https://arxiv.org/abs/2505.12483) *arXiv* 
+
+Qian L\* and **Gaynanova I** (2025+) [Smooth tensor decomposition with application to ambulatory blood pressure monitoring data](https://arxiv.org/abs/2507.11723) *arXiv* [[GitHub R package]](https://github.com/IrinaStatsLab/SmoothHOOI)
 
 Kim R and **Gaynanova I** (2025+) [A sparse linear model for positive definite estimation of covariance matrices](https://arxiv.org/abs/2503.09026) *arXiv*
 
 Park J\*, Kok N\* and **Gaynanova I** (2025+) [Beyond fixed thresholds: optimizing summaries of wearable device data via piecewise linearization of quantile functions](https://arxiv.org/abs/2501.11777) *arXiv*
 
-Sergazinov R\*, Taeb A and **Gaynanova I** (2025+) [A spectral method for multi-view subspace learning using the product of projections](https://arxiv.org/abs/2410.19125) *arXiv*
-
 James C\*, Yuan D\*, **Gaynanova I** and Arroyo J (2025+) [Learning Joint and Individual Structure in Network Data with Covariates.](https://arxiv.org/abs/2406.08776) *arXiv*
-
-Choi J\*, Chung HC, **Gaynanova I** and Ni Y (2025+) [Bayesian segmented Gaussian copula factor model for single-cell sequencing data.](https://arxiv.org/abs/2403.15983) *arXiv*
-
-Chung HC\*, Ni Y and and **Gaynanova I** (2025+). [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data.](https://arxiv.org/abs/2208.03734) *arXiv* 
+ 
 
 Yuan D\*, Zhang Y\*, Guo S, Wang W and **Gaynanova I** (2025+). [Exponential canonical correlation analysis with orthogonal variation.](https://arxiv.org/abs/2208.00048) *arXiv* [[R code]](https://github.com/IrinaStatsLab/ECCA)
 
 ### 2025
 
-Coulter A\*, Aurora RN, Punjabi N and **Gaynanova I** (2025+). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/66907?confirm=49add6c3), *Annals if Applied Statistics*, accepted.
+Sergazinov R\*, Taeb A and **Gaynanova I** (2025+) [A spectral method for multi-view subspace learning using the product of projections](https://doi.org/10.1093/biomet/asaf088) *Biometrika,* accepted.
+
+Choi J\*, Chung HC, **Gaynanova I** and Ni Y (2025+) [Bayesian segmented Gaussian copula factor model for single-cell sequencing data.](https://doi.org/10.1214/25-BA1559) *Bayesian Analysis,* accepted.
+
+Chung HC\*, Ni Y and and **Gaynanova I** (2025+). [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data.](https://arxiv.org/abs/2208.03734) *Journal of Machine Learning Research,* accepted.
+
+Coulter A\*, Aurora RN, Punjabi N and **Gaynanova I** (2025+). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/66907?confirm=49add6c3), *Annals if Applied Statistics*, Vol. 19, No. 3, 2105-2128.
 
 Coulter A\*, Lee R\* and **Gaynanova I** (2025) [fastfrechet: An R package for fast implementation of Fréchet regression with distributional responses](https://doi.org/10.21105/joss.07925), *The Journal of Open Source Software*, Vol. 10, No. 109, 7925. [[GitHub R package]](https://github.com/alexandercoulter/fastfrechet) 
 

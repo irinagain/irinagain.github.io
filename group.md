@@ -76,6 +76,13 @@ title: Group
 	</div>
 </div>
 
+<div class="row">
+	<div class="col-md-6">
+		<p> Owen Yoo <br>
+		Undergraduate Student in Statistics at University of Michigan	</p>
+	</div>
+</div>
+
 <!--
 
 <div class="row">
@@ -114,12 +121,6 @@ title: Group
 	</div>
 </div>
 
-<div class="row">
-	<div class="col-md-6">
-		<p> Owen Yoo <br>
-		Undergraduate Student in Statistics at University of Michigan	</p>
-	</div>
-</div>
 
 
 
@@ -138,29 +139,29 @@ title: Group
 
 ### Postdocs and graduate students 
 
-* [Tianying Wang](https://tianyingw.github.io). Now an Assistant Professor of Statistics at Colorado State University
+* [Tianying Wang](https://tianyingw.github.io), PhD Statistics. Now an Assistant Professor of Statistics at Colorado State University
 
-* [Grace Yoon](http://www.stat.tamu.edu/~gyoon/). Now a Mathematical Statistician at US Department of Agriculture, National Agricultural Statistics Service (NASS).
+* [Grace Yoon](http://www.stat.tamu.edu/~gyoon/), Postdoctoral Researcher. Now a Mathematical Statistician at US Department of Agriculture, National Agricultural Statistics Service (NASS).
 
-* Yunfeng Zhang. Position after leaving the group: Data and Applied Scientist at Microsoft.
+* Yunfeng Zhang, PhD Statistics. Position after leaving the group: Data and Applied Scientist at Microsoft.
 
-* Alex Lapanowski. Position after leaving the group: Senior Scientist at SABIC.
+* Alex Lapanowski, PhD Statistics. Position after leaving the group: Senior Scientist at SABIC.
 
-* [John Schwenck](John Schwenck). Position after leaving the group: Quantitative Analyst at Wells Fargo.
+* [John Schwenck](John Schwenck), MS Statistics. Position after leaving the group: Quantitative Analyst at Wells Fargo.
 
-* [Hee Cheol Chung](https://heech31.github.io). Now an Assistant Professor at University of North Carolina, Charlotte
+* [Hee Cheol Chung](https://heech31.github.io), Postdoctoral Researcher. Now an Assistant Professor at University of North Carolina, Charlotte
 
-* Dongbang Yuan. Position after leaving the group: Senior Scientist at Meta.
+* Dongbang Yuan, PhD Statistics. Position after leaving the group: Senior Scientist at Meta.
 
-* Sangyoon Yi. Now an Assistant Professor at Oklahoma State University.
+* Sangyoon Yi, Postdoctoral Researcher. Now an Assistant Professor at Oklahoma State University.
 
-* [Renat Sergazinov](https://mrsergazinov.github.io/). Position after leaving the group: Research Scientist at Meta.
+* [Renat Sergazinov](https://mrsergazinov.github.io/), PhD Statistics. Position after leaving the group: Research Scientist at Meta.
 
-* Walter Williamson, MS Biostatistics. <!--Position after leaving the group:-->
+* Walter Williamson, MS Biostatistics. Position after leaving the group: Research Scientist at Center for Innovative Design \& Analysis, Colorado School of Public Health
 
 * Charlotte Xu, MS Health Data Science. Position after leaving the group: Biostatistician II at Boston Scientific.
 
-* Sylvan Xu, Ms Biostatistics. <!--Position after leaving the group:-->
+* Sylvan Xu, MS Biostatistics. <!--Position after leaving the group:-->
 
 <!--
 ### Undergraduate students 
