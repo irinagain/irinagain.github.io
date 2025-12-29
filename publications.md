@@ -27,7 +27,7 @@ Sergazinov R\*, Taeb A and **Gaynanova I** (2025+) [A spectral method for multi-
 
 Choi J\*, Chung HC, **Gaynanova I** and Ni Y (2025+) [Bayesian segmented Gaussian copula factor model for single-cell sequencing data.](https://doi.org/10.1214/25-BA1559) *Bayesian Analysis,* accepted.
 
-Chung HC\*, Ni Y and and **Gaynanova I** (2025+). [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data.](https://arxiv.org/abs/2208.03734) *Journal of Machine Learning Research,* accepted.
+Chung HC\*, Ni Y and and **Gaynanova I** (2025+). [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data.](https://jmlr.org/papers/v26/24-0046.html) *Journal of Machine Learning Research,* 26(210):1−54, 2025.
 
 Coulter A\*, Aurora RN, Punjabi N and **Gaynanova I** (2025+). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/66907?confirm=49add6c3), *Annals if Applied Statistics*, Vol. 19, No. 3, 2105-2128.
 
