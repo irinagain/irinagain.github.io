@@ -4,6 +4,8 @@ title: Media
 bigimg: /img/DSCN1639.JPG
 ---
 
+* **March 2025:** [Cornell University highlight article](https://bowers.cornell.edu/news-stories/two-sds-alumni-receive-statistics-leadership-awards) on Irina and [Eric Daza](https://ericjdaza.com/) as alumni winning COPSS Emerging Leader Awards
+
 * **May 2025:** [Findings magazine article on AI](https://sph.umich.edu/findings/spring-2025/the-future-is-here.html), featuring School of Public Health faculty, including Irina
 
 * **March 2025:** Interview with Irina on [Stats Up AI](https://statsupai.org/quarto_web/site/posts/S3_award.html)
