@@ -58,6 +58,8 @@ I deeply care about the training of next generation, and put large emphasis on r
 
 <!--*  **June 2024** NIH R01 grant, [Scalable Methods for Classification of Heterogeneous High-Dimensional Data](https://nsf.gov/awardsearch/showAward?AWD_ID=1712943&HistoricalAwards=false)-->
 
+* **January 2026:** Our paper with Lei Wang and [Yang Ni](https://stat.utexas.edu/directory/yang-ni) on *"Truncated Gaussian copula principal component analysis with application to pediatric acute lymphoblastic leukemia patients’ gut microbiome"* has been accepted in [Statistical Methods in Medical Research](https://doi.org/10.1177/09622802251412844)
+
 * **December 2025:** Our paper with [Hee Cheol Chung](https://heech31.github.io/) and [Yang Ni](https://stat.utexas.edu/directory/yang-ni) on *"Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data"* has been published in [Journal of Machine Learning Research](https://jmlr.org/papers/v26/24-0046.html)
 
 * **December 2025:** Our paper with [Renat Sergazinov](https://mrsergazinov.github.io) and [Armeen Taeb](https://armeentaeb.github.io/index/) on *"A spectral method for multi-view subspace learning using the product of projections"* has been accepted to [Biometrika](https://doi.org/10.1093/biomet/asaf088)

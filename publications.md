@@ -20,7 +20,7 @@ Yuan D\*, Zhang Y\*, Guo S, Wang W and **Gaynanova I** (2026+). [Exponential can
 
 ### 2026
 
-Wang L.\*, Ni Y. and **Gaynanova I.** (2026+) [Truncated Gaussian copula principal component analysis with application to pediatric acute lymphoblastic leukemia patients’ gut microbiome.](https://arxiv.org/abs/2505.12483) *Statistics in Medicine*, accepted 
+Wang L.\*, Ni Y. and **Gaynanova I.** (2026+) [Truncated Gaussian copula principal component analysis with application to pediatric acute lymphoblastic leukemia patients’ gut microbiome.](https://doi.org/10.1177/09622802251412844) *Statistical Methods in Medical Research*, accepted 
 
 ### 2025
 
