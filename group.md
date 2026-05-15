@@ -85,31 +85,27 @@ title: Group
 </div>
 
 </div>
+</div>
 
 <!--
-
-
-
 # <div class="row">
 # 	<div class="col-md-6">
 # 		<p> Owen Yoo <br>
 # 		Undergraduate Student in Statistics at University of Michigan	</p>
 # 	</div>
 # </div>
-
 <div class="row">
 	<div class="col-md-6">
 		<p> Charlotte Xu <br>
 		MS Student in Health Data Science at University of Michigan	</p>
 	</div>
 </div>
-
 <div class="row">
 	<div class="col-md-6">
 		<p> Sylvan Xu <br>
 		MS Student in Biostatistics at University of Michigan	</p>
 	</div>
-</div>
+</iv>
 
 <div class="row">
 	<div class="col-md-6">
@@ -117,32 +113,20 @@ title: Group
 		MS Student in Biostatistics at University of Michigan	</p>
 	</div>
 </div>
-
 <div class="row">
 	<div class="col-md-6">
 		<p> Samuel Tan <br>
 		Undergraduate Student in Statistics at University of Michigan	</p>
 	</div>
 </div>
-
-
 <div class="row">
 	<div class="col-md-6">
 		<p> Sophia Han <br>
 		Undergraduate Student in Statistics at University of Michigan	</p>
 	</div>
 </div>
-
-
-
-
-
-
 </div>
-
-
 ### Undergraduate students (through [Aggie Research Program](https://aggieresearch.tamu.edu))
-
 * Elizabeth Chun (BMCB)
 -->
 
