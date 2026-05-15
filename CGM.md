@@ -48,7 +48,9 @@ Additionally, we released [Glucobench](https://github.com/IrinaStatsLab/GlucoBen
 
 * Park J\*, Kok N\* and **Gaynanova I** (2025+) [Beyond fixed thresholds: optimizing summaries of wearable device data via piecewise linearization of quantile functions](https://arxiv.org/abs/2501.11777)
 
-* Coulter A\*, Aurora RN, Punjabi N and **Gaynanova I** (2025+). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://arxiv.org/abs/2403.00922) *arXiv*
+* Kok N\*, Williamson W\*, Lee J and **Gaynanova I** (2026+) [Impact of missing data and monitoring duration on downstream analyses in continuous glucose monitoring.](https://doi.org/10.2337/dc25-2935) *Diabetes Care,* accepted.
+
+* Coulter A\*, Aurora RN, Punjabi N and **Gaynanova I** (2025). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/66907?confirm=49add6c3), *Annals if Applied Statistics*, Vol. 19, No. 3, 2105-2128.
 
 * Williamson W\*, Lee JM and **Gaynanova I** (2025) [A Processing Algorithm to Address Real-World Data Quality Issues With Continuous Glucose Monitoring Data](https://doi.org/10.1177/19322968251319801), *Journal fo Diabetes Science and Technology*, ahead of print.
 
