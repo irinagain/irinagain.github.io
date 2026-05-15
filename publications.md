@@ -6,7 +6,17 @@ bigimg: /img/DSCN2128.JPG
 
 *Note: \* indicates student/post-doctoral associate co-author*
 
+Most up-to-date list on [Google Scholar](https://scholar.google.com/citations?user=Jx4XlxcAAAAJ&hl=en)
+
+
+
 ### Pre-prints
+
+Park J\* and **Gaynanova I** (2026+) [Fréchet regression of multivariate distributions with nonparanormal
+transport.](http://arxiv.org/abs/2603.07014) *arXiv*
+
+Shao E\*, Park J\*, Punjabi N, Jiang H and **Gaynanova I** (2026+) [Fast distance computation of multivariate
+distributions via nonparanormal transport.](https://arxiv.org/abs/2603.00322) *arXiv*
 
 Qian L\* and **Gaynanova I** (2026+) [Smooth tensor decomposition with application to ambulatory blood pressure monitoring data](https://arxiv.org/abs/2507.11723) *arXiv* [[GitHub R package]](https://github.com/IrinaStatsLab/SmoothHOOI)
 
@@ -20,13 +30,20 @@ Yuan D\*, Zhang Y\*, Guo S, Wang W and **Gaynanova I** (2026+). [Exponential can
 
 ### 2026
 
-Wang L.\*, Ni Y. and **Gaynanova I.** (2026+) [Truncated Gaussian copula principal component analysis with application to pediatric acute lymphoblastic leukemia patients’ gut microbiome.](https://doi.org/10.1177/09622802251412844) *Statistical Methods in Medical Research*, accepted 
+
+Sergazinov R\*, Taeb A and **Gaynanova I** (2026+) [A spectral method for multi-view subspace learning using the product of projections](https://doi.org/10.1093/biomet/asaf088) *Biometrika,* accepted.
+
+Kok N\*, Williamson W\*, Lee J and **Gaynanova I** (2026+) [Impact of missing data and monitoring duration on downstream analyses in continuous glucose monitoring.](https://doi.org/10.2337/dc25-2935) *Diabetes Care,* accepted.
+
+Choi J\*, Chung HC, **Gaynanova I** and Ni Y (2026+) [Bayesian segmented Gaussian copula factor model for single-cell sequencing data.](https://doi.org/10.1214/25-BA1559) *Bayesian Analysis,* accepted.
+
+Girgis C, **Gaynanova I**, Behme S, Holmes C and Schmidt B (2026+) [Do Immediate Perioperative Glucose
+Measurements Predict Outcomes in Non-Elective Pedal Amputation?](https://doi.org/10.1177/19386400261420316) *Foot & Ankle Specialist,* accepted.
+
+Wang L.\*, Ni Y. and **Gaynanova I.** (2026) [Truncated Gaussian copula principal component analysis with application to pediatric acute lymphoblastic leukemia patients’ gut microbiome.](https://doi.org/10.1177/09622802251412844) *Statistical Methods in Medical Research*, Vol. 25, No. 3, 443-455.
 
 ### 2025
 
-Sergazinov R\*, Taeb A and **Gaynanova I** (2025+) [A spectral method for multi-view subspace learning using the product of projections](https://doi.org/10.1093/biomet/asaf088) *Biometrika,* accepted.
-
-Choi J\*, Chung HC, **Gaynanova I** and Ni Y (2025+) [Bayesian segmented Gaussian copula factor model for single-cell sequencing data.](https://doi.org/10.1214/25-BA1559) *Bayesian Analysis,* accepted.
 
 Chung HC\*, Ni Y and and **Gaynanova I** (2025). [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data.](https://jmlr.org/papers/v26/24-0046.html) *Journal of Machine Learning Research,* 26(210):1−54, 2025.
 
@@ -34,7 +51,7 @@ Coulter A\*, Aurora RN, Punjabi N and **Gaynanova I** (2025). [Fast variable sel
 
 Coulter A\*, Lee R\* and **Gaynanova I** (2025) [fastfrechet: An R package for fast implementation of Fréchet regression with distributional responses](https://doi.org/10.21105/joss.07925), *The Journal of Open Source Software*, Vol. 10, No. 109, 7925. [[GitHub R package]](https://github.com/alexandercoulter/fastfrechet) 
 
-Williamson W\*, Lee JM and **Gaynanova I** (2025) [A Processing Algorithm to Address Real-World Data Quality Issues With Continuous Glucose Monitoring Data](https://doi.org/10.1177/19322968251319801), *Journal of Diabetes Science and Technology*, ahead of print.
+Williamson W\*, Lee JM and **Gaynanova I** (2025) [A Processing Algorithm to Address Real-World Data Quality Issues With Continuous Glucose Monitoring Data](https://doi.org/10.1177/19322968251319801), *Journal of Diabetes Science and Technology*.
 
 **Gaynanova I** and Lee JM (2025)  [When Algorithms Diverge: Quantification of Glycemic Episodes from Continuous Glucose Monitor Data](https://doi.org/10.1089/dia.2024.0618), *Diabetes Technology and Therapeutics*, Vol. 27, No. 6, 500-502.
 

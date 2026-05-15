@@ -58,7 +58,18 @@ I deeply care about the training of next generation, and put large emphasis on r
 
 <!--*  **June 2024** NIH R01 grant, [Scalable Methods for Classification of Heterogeneous High-Dimensional Data](https://nsf.gov/awardsearch/showAward?AWD_ID=1712943&HistoricalAwards=false)-->
 
-* **January 2026:** Our paper with Lei Wang and [Yang Ni](https://stat.utexas.edu/directory/yang-ni) on *"Truncated Gaussian copula principal component analysis with application to pediatric acute lymphoblastic leukemia patients’ gut microbiome"* has been accepted in [Statistical Methods in Medical Research](https://doi.org/10.1177/09622802251412844)
+* **May 2026:** Congratulations to [Neo Kok](https://www.linkedin.com/in/neo-kok) on his graduation with MS in Health Data Science!
+
+* **March 2026:** Our paper with [Neo Kok](https://www.linkedin.com/in/neo-kok), Walter Williamson and Joyce Lee on *"Impact of Missing Data and Monitoring Duration on Downstream Analyses in Continuous Glucose Monitoring"* has been accepted to [Diabetes Care](https://doi.org/10.2337/dc25-2935).
+
+* **March 2026:** A new manuscript with [Junyoung Park](https://pjywang.github.io/) on "*Fréchet regression of multivariate distributions with nonparanormal transport*" is now available on [arXiv](https://arxiv.org/abs/2603.07014).
+
+* **February 2026:** Our paper with Chistopher Girgis, Stephanie Behme, William Herman, Crystal Holmes and Brian Schmidt on *"Do Immediate Perioperative Glucose Measurements Predict Outcomes in Non-Elective Pedal Amputation?"* has been accepted to [Foot & Ankle Specialist](https://doi.org/10.1177/19386400261420316).
+
+* **February 2026:** A new manuscript with Edward Shao, [Junyoung Park](https://pjywang.github.io/), Naresh Punjabi and Hui Jiang on "*Fast distance computation of multivariate distributions via nonparanormal transport"* is now available on [arXiv](https://arxiv.org/abs/2603.00322).
+
+* **January 2026:** Our paper with Lei Wang and [Yang Ni](https://stat.utexas.ed24 * 50000
+u/directory/yang-ni) on *"Truncated Gaussian copula principal component analysis with application to pediatric acute lymphoblastic leukemia patients’ gut microbiome"* has been accepted in [Statistical Methods in Medical Research](https://doi.org/10.1177/09622802251412844)
 
 * **December 2025:** Our paper with [Hee Cheol Chung](https://heech31.github.io/) and [Yang Ni](https://stat.utexas.edu/directory/yang-ni) on *"Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data"* has been published in [Journal of Machine Learning Research](https://jmlr.org/papers/v26/24-0046.html)
 
@@ -84,29 +95,7 @@ I deeply care about the training of next generation, and put large emphasis on r
 
 * **March 2025:** Irina is selected as one of the recipients of the [2025 COPSS Emerging Leader Award](https://community.amstat.org/copss/awards/leadership-academy)
 
-* **February 2025:** [Video tutorial on working with CGM data in iglu](https://www.birs.ca/events/2025/5-day-workshops/25w5474/videos/watch/202502260906-Gaynanova.html) from Banff workshop on Ermerging Statistical Methods for Digital Health Data
 
-* **February 2025:** A new manuscript with Walter Williamson and [Joyce M Lee](https://chear.org/people/faculty-investigators/joyce-lee), *"A Processing Algorithm to Address Real-World Data Quality Issues With Continuous Glucose Monitoring Data"*, has been accepted to [Journal fo Diabetes Science and Technology](https://doi.org/10.1177/19322968251319801)
-
-* **February 2025:** A new manuscript with [Joyce M Lee](https://chear.org/people/faculty-investigators/joyce-lee), *"When Algorithms Diverge: Quantification of Glycemic Episodes from Continuous Glucose Monitor Data"* , has been accepted to [Diabetes Technology and Therapeutics](https://doi.org/10.1089/dia.2024.0618)
-
-* **January 2025:** A new manuscript with [Junyoung Park](https://pjywang.github.io/) and Neo Kok, *"Beyond fixed thresholds: optimizing summaries of wearable device data via piecewise linearization of quantile functions"* is now available on [arXiv](https://arxiv.org/abs/2501.11777)
-
-* **January 2025:** Irina is selected as one of the three recipients of the 2025 IMS Thelma and Marvin Zelen Emerging Women Leaders in Data Science Award. [IMS announcement](https://imstat.org/2025/01/13/2025-ims-thelma-and-marvin-zelen-emerging-women-leaders-in-data-science-award-recipients-annouced/)
-
-* **October 2024:** A new manuscript with [Renat Sergazinov](https://mrsergazinov.github.io) and [Armeen Taeb](https://armeentaeb.github.io/index/) on *"A spectral method for multi-view subspace learning using the product of projections"* is now available on [arXiv](https://arxiv.org/abs/2410.19125)
-
-* **July 2024:** Irina became an elected member of the [International Statistical Institute](https://www.isi-web.org/article/second-round-newly-elected-members-2024)
-
-* **June 2024:** A new manuscript with [Zihang Wang](https://sph.emory.edu/phd-students/profile/index.php?FID=zihang-wang-12991), [Aleksandr Aravkin](https://uw-amo.github.io/saravkin/) and [Benjamin Risk](https://thebrisklab.org/) on *"Sparse Independent Component Analysis with an Application to Cortical Surface fMRI Data in Autism"* has been accepted to [Journal of the American Statistical Association](https://doi.org/10.1080/01621459.2024.2370593). Link to [R package](https://github.com/thebrisklab/SparseICA).
-
-* **June 2024:** A new manuscript with Elizabeth Chun and Nathaniel J. Fernandes on *"An Update on the iglu Software for Interpreting Continuous Glucose Monitoring Data"* has been accepted to [Diabetes Technology and Therapeutics](https://doi.org/10.1089/dia.2024.0154). The paper describes updated software for analysis of continuous glucose monitoring ([CGM](https://irinagain.github.io/CGM/)) data which is available on [GitHub](https://github.com/irinagain/iglu) and [CRAN](https://CRAN.R-project.org/package=iglu).
-
-* **June 2024** A new manuscript with Carson James, Dongbang Yuan and [Jesus Arroyo](https://jesus-arroyo.github.io/) on *"Learning Joint and Individual Structure in Network Data with Covariates"* is now available on [arXiv](https://arxiv.org/abs/2406.08776)
-
-* **June 2024** NIH R01 grant on [*"New machine learning methods for extracting features from digital health data with applications to sleep apnea"*](https://reporter.nih.gov/search/safFinaNbke-9LvFkOrGTQ/project-details/10851193#similar-Projects)
-
-* **June 2024** Invited [comments on data integration via analysis of subspaces](https://doi.org/10.1007/s11749-024-00936-8) co-authored by [Renat Sergazinov](https://www.sergazinov.co/)
 
 
 
