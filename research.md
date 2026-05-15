@@ -26,7 +26,7 @@ I believe that challenging applied problems give rise to better statistical meth
 
 * multi-omics data analysis (e.g. gene expression, methylation, miRNA, etc.)
 * microbiome data 
-* data from wearable devices (e.g. [continuous glucose monitors](https://irinagain.github.io/CGM/) and activity trackers)
+* data from wearable devices (e.g. [continuous glucose monitors](https://irinagain.github.io/CGM/), heart rate and activity trackers)
 
 <!-- Her main methodological interests are in the areas of statistical learning with sparsity, multivariate analysis and data integration. Her main application interests are in the analysis of multi-omics data and data from wearable devices, such as continuous glucose monitors and activity trackers. 
 
