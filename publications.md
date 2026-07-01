@@ -22,18 +22,19 @@ Qian L\* and **Gaynanova I** (2026+) [Smooth tensor decomposition with applicati
 
 Kim R and **Gaynanova I** (2026+) [A sparse linear model for positive definite estimation of covariance matrices](https://arxiv.org/abs/2503.09026) *arXiv*
 
-Park J\*, Kok N\* and **Gaynanova I** (2026+) [Beyond fixed thresholds: optimizing summaries of wearable device data via piecewise linearization of quantile functions](https://arxiv.org/abs/2501.11777) *arXiv*
-
 James C\*, Yuan D\*, **Gaynanova I** and Arroyo J (2026+) [Learning Joint and Individual Structure in Network Data with Covariates.](https://arxiv.org/abs/2406.08776) *arXiv*
  
 Yuan D\*, Zhang Y\*, Guo S, Wang W and **Gaynanova I** (2026+). [Exponential canonical correlation analysis with orthogonal variation.](https://arxiv.org/abs/2208.00048) *arXiv* [[R code]](https://github.com/IrinaStatsLab/ECCA)
 
 ### 2026
 
+Williamson W\*, Kok N\*, Lee JM, Wiens J and **Gaynanova I** (2026) [Social Determinants of Health and Continuous Glucose Monitoring Metrics in Type 1 or Type 2 Diabetes.](https://doi.org/10.1001/jamanetworkopen.2026.21290) *JAMA Network Open,* Vol. 9, No. 7, e2621290.
 
-Sergazinov R\*, Taeb A and **Gaynanova I** (2026+) [A spectral method for multi-view subspace learning using the product of projections](https://doi.org/10.1093/biomet/asaf088) *Biometrika,* accepted.
+Park J\*, Kok N\* and **Gaynanova I** (2026) [Beyond fixed thresholds: optimizing summaries of wearable device data via piecewise linearization of quantile functions.](https://doi.org/10.1002/sim.70646) *Statistics in Medicine,* , Vol. 45, No. 15-17, e70646.
 
-Kok N\*, Williamson W\*, Lee J and **Gaynanova I** (2026+) [Impact of missing data and monitoring duration on downstream analyses in continuous glucose monitoring.](https://doi.org/10.2337/dc25-2935) *Diabetes Care,* accepted.
+Sergazinov R\*, Taeb A and **Gaynanova I** (2026+) [A spectral method for multi-view subspace learning using the product of projections](https://doi.org/10.1093/biomet/asaf088) *Biometrika,* Vol. 113, No. 2.
+
+Kok N\*, Williamson W\*, Lee J and **Gaynanova I** (2026+) [Impact of missing data and monitoring duration on downstream analyses in continuous glucose monitoring.](https://doi.org/10.2337/dc25-2935) *Diabetes Care,* Vol. 49, No. 6, 1031-1039.
 
 Choi J\*, Chung HC, **Gaynanova I** and Ni Y (2026+) [Bayesian segmented Gaussian copula factor model for single-cell sequencing data.](https://doi.org/10.1214/25-BA1559) *Bayesian Analysis,* accepted.
 
@@ -42,16 +43,16 @@ Measurements Predict Outcomes in Non-Elective Pedal Amputation?](https://doi.org
 
 Wang L.\*, Ni Y. and **Gaynanova I.** (2026) [Truncated Gaussian copula principal component analysis with application to pediatric acute lymphoblastic leukemia patients’ gut microbiome.](https://doi.org/10.1177/09622802251412844) *Statistical Methods in Medical Research*, Vol. 25, No. 3, 443-455.
 
+Williamson W\*, Lee JM and **Gaynanova I** (2026) [A Processing Algorithm to Address Real-World Data Quality Issues With Continuous Glucose Monitoring Data](https://doi.org/10.1177/19322968251319801), *Journal of Diabetes Science and Technology*, Vol. 20, No. 4, 1376-1380.
+
 ### 2025
 
 
 Chung HC\*, Ni Y and and **Gaynanova I** (2025). [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data.](https://jmlr.org/papers/v26/24-0046.html) *Journal of Machine Learning Research,* 26(210):1−54, 2025.
 
-Coulter A\*, Aurora RN, Punjabi N and **Gaynanova I** (2025). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/66907?confirm=49add6c3), *Annals if Applied Statistics*, Vol. 19, No. 3, 2105-2128.
+Coulter A\*, Aurora RN, Punjabi N and **Gaynanova I** (2025). [Fast variable selection for distributional regression with application to continuous glucose monitoring data](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/66907?confirm=49add6c3), *Annals of Applied Statistics*, Vol. 19, No. 3, 2105-2128.
 
 Coulter A\*, Lee R\* and **Gaynanova I** (2025) [fastfrechet: An R package for fast implementation of Fréchet regression with distributional responses](https://doi.org/10.21105/joss.07925), *The Journal of Open Source Software*, Vol. 10, No. 109, 7925. [[GitHub R package]](https://github.com/alexandercoulter/fastfrechet) 
-
-Williamson W\*, Lee JM and **Gaynanova I** (2025) [A Processing Algorithm to Address Real-World Data Quality Issues With Continuous Glucose Monitoring Data](https://doi.org/10.1177/19322968251319801), *Journal of Diabetes Science and Technology*.
 
 **Gaynanova I** and Lee JM (2025)  [When Algorithms Diverge: Quantification of Glycemic Episodes from Continuous Glucose Monitor Data](https://doi.org/10.1089/dia.2024.0618), *Diabetes Technology and Therapeutics*, Vol. 27, No. 6, 500-502.
 

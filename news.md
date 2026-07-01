@@ -3,6 +3,21 @@ layout: page
 title: NEWS
 bigimg: /img/DSCN1639.JPG
 ---
+
+* **May 2025:** [Findings magazine article on AI](https://sph.umich.edu/findings/spring-2025/the-future-is-here.html), featuring School of Public Health faculty, including Irina
+
+* **May 2025:** Our paper with [Alexander Coulter](https://artsci.tamu.edu/statistics/contact/profiles/alexander-coulter.html) and [Rebecca Lee](https://artsci.tamu.edu/statistics/contact/profiles/rebecca-lee.html) on *"fastfrechet: an R package for fast implementation of Frechet regression with distributional responses"* has been published in [The Journal of Open Source Software](https://doi.org/10.21105/joss.07925). [[R package GitHub link]](https://github.com/alexandercoulter/fastfrechet)
+
+* **April 2025:** Our paper with [Alexander Coulter](https://artsci.tamu.edu/statistics/contact/profiles/alexander-coulter.html), [R. Nisha Aurora](https://foundation.aasm.org/about/board-of-directors/r-nisha-aurora/) and [Naresh Punjabi](https://med.miami.edu/faculty/naresh-m-punjabi-md-phd) on *"Fast Variable Selection for Distributional Regression With Application to Continuous Glucose Monitoring Data"* has been accepted to the [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/annals-of-applied-statistics-next-issues/)
+
+* **March 2025:** Interview with Irina on [Stats Up AI](https://statsupai.org/quarto_web/site/posts/S3_award.html)
+
+* **March 2025:** R package **fastfreshet**, project lead by [Alexander Coulter](https://artsci.tamu.edu/statistics/contact/profiles/alexander-coulter.html) with tremendous support from [Rebecca Lee](https://artsci.tamu.edu/statistics/contact/profiles/rebecca-lee.html), is now public and allows you to perform distributional response regression with variable selection super fast! Check it out on [GitHub](https://github.com/alexandercoulter/fastfrechet) with corresponding short paper *fastfrechet: An R package for fast implementation of Fréchet regression with distributional responses* on [arXiv](https://arxiv.org/abs/2503.06401)
+
+* **March 2025:** A new manuscript with [Rakheon Kim](https://statistics.artsandsciences.baylor.edu/person/dr-rakheon-kim), "A sparse linear model for positive definite estimation of covariance matrices", is now available on [arXiv](https://arxiv.org/abs/2503.09026)
+
+* **March 2025:** Irina is selected as one of the recipients of the [2025 COPSS Emerging Leader Award](https://community.amstat.org/copss/awards/leadership-academy)
+
 * **February 2025:** [Video tutorial on working with CGM data in iglu](https://www.birs.ca/events/2025/5-day-workshops/25w5474/videos/watch/202502260906-Gaynanova.html) from Banff workshop on Ermerging Statistical Methods for Digital Health Data
 
 * **February 2025:** A new manuscript with Walter Williamson and [Joyce M Lee](https://chear.org/people/faculty-investigators/joyce-lee), *"A Processing Algorithm to Address Real-World Data Quality Issues With Continuous Glucose Monitoring Data"*, has been accepted to [Journal fo Diabetes Science and Technology](https://doi.org/10.1177/19322968251319801)

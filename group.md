@@ -85,7 +85,7 @@ title: Group
 </div>
 
 </div>
-</div>
+
 
 <!--
 # <div class="row">
@@ -163,7 +163,7 @@ title: Group
 
 * Lei Wang, PhD Statistics.
 
-* Neo Kok, MS Health Data Science.
+* Neo Kok, MS Health Data Science. Position after leaving the group: Biostatistician at Henry Ford Health.
 
 
 <!--

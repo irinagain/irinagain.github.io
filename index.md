@@ -58,6 +58,10 @@ I deeply care about the training of next generation, and put large emphasis on r
 
 <!--*  **June 2024** NIH R01 grant, [Scalable Methods for Classification of Heterogeneous High-Dimensional Data](https://nsf.gov/awardsearch/showAward?AWD_ID=1712943&HistoricalAwards=false)-->
 
+* **July 2026** Our paper with Walter Williamson, [Neo Kok](https://www.linkedin.com/in/neo-kok), Joyce Lee and Jenna Wiens on *"Social Determinants of Health and Continuous Glucose Monitoring Metrics in Type 1 or Type 2 Diabetes"* is published in [JAMA Network Open](https://doi.org/10.1001/jamanetworkopen.2026.21290)
+
+* **June 2026:** Our paper with [Junyoung Park](https://pjywang.github.io/) and [Neo Kok](https://www.linkedin.com/in/neo-kok) on *"Beyond fixed thresholds: optimizing summaries of wearable device data via piecewise linearization of quantile functions"* is publised in [Statistics in Medicine](https://doi.org/10.1002/sim.70646) 
+
 * **May 2026:** Congratulations to [Neo Kok](https://www.linkedin.com/in/neo-kok) on his graduation with MS in Health Data Science!
 
 * **March 2026:** Our paper with [Neo Kok](https://www.linkedin.com/in/neo-kok), Walter Williamson and Joyce Lee on *"Impact of Missing Data and Monitoring Duration on Downstream Analyses in Continuous Glucose Monitoring"* has been accepted to [Diabetes Care](https://doi.org/10.2337/dc25-2935).
@@ -81,19 +85,7 @@ u/directory/yang-ni) on *"Truncated Gaussian copula principal component analysis
 
 * **July 2025:** A new manuscript with Leyuan Qian, *"Smooth tensor decomposition with application to ambulatory blood pressure monitoring data"*, is now available on [arXiv](https://arxiv.org/abs/2507.11723). The corresponding R package [SmoothHOOI](https://github.com/IrinaStatsLab/SmoothHOOI) is available from GitHub.
 
-* **May 2025:** [Findings magazine article on AI](https://sph.umich.edu/findings/spring-2025/the-future-is-here.html), featuring School of Public Health faculty, including Irina
 
-* **May 2025:** Our paper with [Alexander Coulter](https://artsci.tamu.edu/statistics/contact/profiles/alexander-coulter.html) and [Rebecca Lee](https://artsci.tamu.edu/statistics/contact/profiles/rebecca-lee.html) on *"fastfrechet: an R package for fast implementation of Frechet regression with distributional responses"* has been published in [The Journal of Open Source Software](https://doi.org/10.21105/joss.07925). [[R package GitHub link]](https://github.com/alexandercoulter/fastfrechet)
-
-* **April 2025:** Our paper with [Alexander Coulter](https://artsci.tamu.edu/statistics/contact/profiles/alexander-coulter.html), [R. Nisha Aurora](https://foundation.aasm.org/about/board-of-directors/r-nisha-aurora/) and [Naresh Punjabi](https://med.miami.edu/faculty/naresh-m-punjabi-md-phd) on *"Fast Variable Selection for Distributional Regression With Application to Continuous Glucose Monitoring Data"* has been accepted to the [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/annals-of-applied-statistics-next-issues/)
-
-* **March 2025:** Interview with Irina on [Stats Up AI](https://statsupai.org/quarto_web/site/posts/S3_award.html)
-
-* **March 2025:** R package **fastfreshet**, project lead by [Alexander Coulter](https://artsci.tamu.edu/statistics/contact/profiles/alexander-coulter.html) with tremendous support from [Rebecca Lee](https://artsci.tamu.edu/statistics/contact/profiles/rebecca-lee.html), is now public and allows you to perform distributional response regression with variable selection super fast! Check it out on [GitHub](https://github.com/alexandercoulter/fastfrechet) with corresponding short paper *fastfrechet: An R package for fast implementation of Fréchet regression with distributional responses* on [arXiv](https://arxiv.org/abs/2503.06401)
-
-* **March 2025:** A new manuscript with [Rakheon Kim](https://statistics.artsandsciences.baylor.edu/person/dr-rakheon-kim), "A sparse linear model for positive definite estimation of covariance matrices", is now available on [arXiv](https://arxiv.org/abs/2503.09026)
-
-* **March 2025:** Irina is selected as one of the recipients of the [2025 COPSS Emerging Leader Award](https://community.amstat.org/copss/awards/leadership-academy)
 
 
 
